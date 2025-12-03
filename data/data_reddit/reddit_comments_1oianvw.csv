@@ -1,0 +1,466 @@
+﻿post_id,type,id,parent_id,author,author_flair,created_time,ups,content
+1oianvw,post,1oianvw,,ScaryDev,,2025-10-28 22:20:05,412,"【标题】IT Job Market
+【内容】
+Hi, I am but surprised how many people complain about the job market but recently we've been searching for senior developers in Germany mainly.
+
+
+We got 150 applications, 70% did not read the job post and doesn't have the required experience and skills or doesn't have a valid work permit, the other 30% were calling them selves seniors but infact they failed at the very first questions.
+
+
+Our interview is very simple, no algos no data structure nothing and in English, no German is required.
+
+
+It is just weird"
+1oianvw,comment,nlu0lqb,1oianvw,emmmmmmaja,Hamburg,2025-10-28 22:26:02,555,"I think there’s two things here: 
+
+a) you‘re looking for a senior developer. Most people who come on here asking about the job market either have zero work experience or so little that they still fall into the junior category. The job market for seniors is not that terrible. 
+
+b) The fact that the job market for juniors is so terrible can actually increase the number of unfit applicants you’re seeing. When the market is bad, more people will go „fuck it, I‘ll apply anyway, it can’t get worse than a No“."
+1oianvw,comment,nlv4iq6,nlu0lqb,DrProfSrRyan,Baden-Württemberg ,2025-10-29 01:39:54,133,"Job market has the „men on tinder“ problem, exasperated by fast apply methods on LinkedIn, Indeed, etc… plus ChatGPT.
+
+I bet a large number of that 70% is just clicking EasyApply on everything. "
+1oianvw,comment,nlw5fhd,nlv4iq6,DarkSideOfTheNuum,,2025-10-29 04:39:51,26,"Yes, exactly, I was hiring for a role in my team earlier in this year and had 350 applications, of which the vast majority were total no-hopers. I don’t think I interviewed a single person who applied via a one click method from LinkedIn or Indeed."
+1oianvw,comment,nm006ib,nlw5fhd,FitResource5290,,2025-10-29 20:52:15,3,Just curious: did you actually read all 350 applications?
+1oianvw,comment,nm11urz,nm006ib,DarkSideOfTheNuum,,2025-10-30 00:02:30,3,"Yeah, I opened and scanned every one."
+1oianvw,comment,nmkdz7c,nm006ib,MilesSand,,2025-11-02 01:38:55,0,"Reading 350 applications you don't have to follow up on is about a half hour of work, plus 2 hours of staring hopelessly into the void.
+
+
+All in all a pretty small project "
+1oianvw,comment,nlyvsd4,nlv4iq6,Hardkoar,,2025-10-29 15:08:45,46,"And why shouldn't they just hit the fast apply button when companies are hitting the auto-reply back?
+
+Some even scripting it to auto-reply after 12h to make it look more realistic lol. It's a shit show on both ends, just like op if his company actually offered an interesting salary they would have attracted senior devs. 
+
+Then you see companies offering 40k ""we got fruit basket"" for senior devs complain they are getting junior candidates."
+1oianvw,comment,nlzbjsr,nlv4iq6,schelmo,,2025-10-29 17:50:03,1,True. My brother is a department lead at a fairly renowned research institute and even before chatGPT easily half the applications he got for any position were complete slop because tons international students apply to jobs they're not even close to qualified for because the institute will look good on their CV when they return home. We're talking about people who are in their second semester of their electrical engineering bachelor applying for jobs that specifically require a PhD in physics. The amount of slop applications he gets has only increased since LLMs became a thing.
+1oianvw,comment,nmdllnz,nlu0lqb,YourMomCannotAnymore,,2025-10-31 22:35:49,1,"In some roles seniors are so rare because everyone hates doing that job. Usually the market isn't bad for that kind of position, otherwise you'll struggle even with experience."
+1oianvw,comment,nlu16zb,nlu0lqb,ScaryDev,,2025-10-28 22:29:02,-62,"Yes we were looking for a senior, and yet almost a lot of the "" seniors ""  that applied failed to answer basic questions."
+1oianvw,comment,nlubfql,nlu16zb,SilverSize7852,,2025-10-28 23:20:23,99,Yeah cause thr job market for graduates/juniors is so bad that ppl apply for any IT position they see
+1oianvw,comment,nlucvdo,nlu16zb,Dry_Hotel1100,,2025-10-28 23:27:22,78,"Define \*basic\* question. Please give an example.
+
+The point is, there are literally *thousands* of ""basic"" questions, and usually a senior dev won't be busy with ""basic"" stuff all the time where you are asking questions.
+
+So, a basic question in your mind could be: ""Can you use radix sort for Doubles - and what's a potential issue with this?"" for someone who is into algorithms.  
+However, this would not be a \*basic\* question for a front-end developer who has 10 YoE in several web development tech stacks."
+1oianvw,comment,nlvqyhp,nlucvdo,G3sch4n,,2025-10-29 03:29:04,27,"Static questions are probably the worst way to find out if a senior developer is skilled. You can not determine how fast somebody is able to apply new technologies to new problems. You can not determine how good somebody is at helping and guiding junior developers (which is part of the job of a senior developer).
+
+Way to often these interviews come down to how much you have studied the technical documentation of a certain framework/language instead of checking how flexible your thinking is."
+1oianvw,comment,nlvv5nx,nlvqyhp,Dry_Hotel1100,,2025-10-29 03:50:01,10,"Yeah, it's also the little things where you surprisingly struggle with. For example, I do know Swift programming language very well (since 2014). Just today, I unexpectedly struggled hard with initialising an array.
+
+Read twice: initialising an array, well with random double values. Well, I wanted to do it without looking into the docs or even use AI and not using the compilers help. I know how to do it in an efficient way - I thought, but then the details struck me: how was the initialiser's name again, what parameters did the closure require, did the closure return the number of initialised elements, or was it an inout parameter of the closure? Can I use the subscript operator (Integer) for the provided buffer?, etc. etc.   It's a two liner. It hit me.
+
+Now imagine, I do a code interview ..."
+1oianvw,comment,nlwmxw8,nlucvdo,pixelpoet_nz,,2025-10-29 06:07:43,2,Radix sort for doubles is a pretty cool interview question :)
+1oianvw,comment,nlx4yog,nlwmxw8,Dry_Hotel1100,,2025-10-29 07:46:01,2,"LOL, definitely :)  
+Given it's IEEE 754 - there \*might\* be a trick: inverting bits for negative numbers. But that trick is costly (you would need to remember these somehow)- and probably negates any positive effects that can possibly be gained. Or wait ..."
+1oianvw,comment,nlv5pkr,nlu16zb,mobsterer,,2025-10-29 01:45:33,16,you just failed the basic thing of reading and trying to comprehend the thing you replied to.
+1oianvw,comment,nlumzic,nlu16zb,Kapri111,,2025-10-29 00:16:06,21,"Are the questions really basic? or are they just basic in the context of someone who works the exact job you are recruiting for?
+
+""Senior dev"" can mean so many things..."
+1oianvw,comment,nlu1hiq,nlu16zb,emmmmmmaja,Hamburg,2025-10-28 22:30:33,27,"Yes, that’s what I‘m saying. Not as terrible of a job market as you seem to think, and a terrible market for a slightly different target group that will then end up applying without being qualified. Voilà, the situation you’re in."
+1oianvw,comment,nluwew5,nlu16zb,Euibdwukfw,,2025-10-29 01:01:15,5,"How much is the pay, what is de job description? Like what frameworks required etc.. ?"
+1oianvw,comment,nlxnh0f,nlu16zb,lizufyr,,2025-10-29 09:30:32,3,"„senior“ is not a protected title, so anyone can use it. 
+
+Dunning Kruger Effect will make lots of people with little experience overestimate themselves. 
+
+Also, small consultancies will sometimes promote employees to senior just so they can sell a senior engineer to their customers (and then this person can legitimately put this title into their CV)."
+1oianvw,comment,nm028do,nlu16zb,FitResource5290,,2025-10-29 21:03:50,1,"What are the requirements for a “senior” developer? He can code faster than a junior or know more programming languages? Or that he is able to think out-of-the-box, have basic leadership skills, be able to articulate a solution to both technical and non-technical audience and convince upper levels that his solution is better than others? Basic questions should try to find people that are matching your basic expectations…"
+1oianvw,comment,nluckgl,1oianvw,diamanthaende,,2025-10-28 23:25:55,71,"The market for juniors is ass because a) companies don't have the time (= money) to invest in them and b) it's completely oversaturated, tons and tons of quantity and little quality. IT has become the new BWL, which means that finding those who are actually passionate about it has become a lot more difficult. So even if you want to find talented juniors, it's a needle in the haystack situation.
+
+Seniors and mid-level professionals have it easier, provided that they actually know their stuff and are not self-proclaimed. Our company, despite the times not being the easiest, hired a dozen new devs this year - completely new jobs, not replacements of retirees etc. But none of those were juniors.
+
+For juniors, we prefer ""Duales Studium"" Azubis that we basically train and prepare ""in house"". Way less risk involved and easier to find those that actually fit in."
+1oianvw,comment,nluv6xs,nluckgl,DE_Auswanderung,,2025-10-29 00:55:34,6,"Can a portion of ""self-proclaimed"" skills be acquired by lots of self-studying at the current job (because one is not directly involved in the exercise of those skills on a project with the current employer)? I hope the question makes sense."
+1oianvw,comment,nlvepqr,nluv6xs,yeahitwasme,,2025-10-29 02:28:54,13,"Not who you replied to, but am in charge for hiring developers at our company and we definitely do hire junior/trainee developers who demonstrate passion and a high level of inner drive by proving the things they self-taught during the interview. Soft skills matter a lot too."
+1oianvw,comment,nlu0evl,1oianvw,Endless_Zen,,2025-10-28 22:25:03,89,Probably a ton of people who got into IT during covid times after a month of bootcamp when companies hired anybody. Now they consider themselves seniors.
+1oianvw,comment,nluzfmg,nlu0evl,DrProfSrRyan,Baden-Württemberg ,2025-10-29 01:15:36,42,"Probably, also because „senior“ isn’t necessarily a standardized term in every country at every company. 
+
+Plus, even if you just look at experience, there is a large spread between 5 years at Google and 5 years at a failed start-up in India.
+
+There was a guy on here recently looking, and failing, to find a job as a senior developer with 2 years of experience just because his previous company called him a senior.
+
+He considered it a demotion to look for an junior role."
+1oianvw,comment,nlx7z7f,nluzfmg,arisht3,Nordrhein-Westfalen,2025-10-29 08:03:07,5,"I used to be a lead and here I joined as a jun-mid even though I had 10+ years of experience. I never cared about the title as long as the job pays well and takes care of me. 
+
+Interestingly, my wife is a doctor and her industry people who were consultants,Fachärzte are working as Assistenzärzte"
+1oianvw,comment,nlvu1p4,1oianvw,Professional-Fee-957,,2025-10-29 03:44:29,45,"I think the biggest issue is, just like you, every single job ad is for seniors, and they want senior seniors, 10yrs+, but will settle for a really really promising 7 years, maybe.
+
+Nobody is taking juniors unless it is ""junior position - 5 years experience"". That means you have hundreds of junior engineers not getting positions and a whole lot of mid-level engineers refusing to demote to junior and are trying their best to get senior.
+
+While your post is interesting, you fail to take the effect this prolonged tech job crash has had on the levels of desperation within the applicant pool."
+1oianvw,comment,nm5yux7,nlvu1p4,SolidDeveloper,,2025-10-30 18:06:21,2,"&gt;every single job ad is for seniors, and they want senior seniors, 10yrs+, but will settle for a really really promising 7 years
+
+They do settle, that's true. I've seen companies that advertise for seniors, and will hire someone with only 3 YOE who aced the interview, and award them the senior title.
+
+Also, from experience, I've seen lots of 20-somethings being far better skilled at DSA and technical stuff compared to 15YOE+ veterans, just because they have a lot of energy and curiosity, and free time to code in their personal time."
+1oianvw,comment,nmdnf88,nm5yux7,YourMomCannotAnymore,,2025-10-31 22:45:04,1,"I mean, it's incredibly dumb for a company (OP should know this really well, or I doubt their company will survive for long) to stick to pre-set criteria (especially number of years) when selecting personnel. Yes, you add some restrictions if you get a lot of candidates and you're bad at organizing to the point you can't even make time to interview 20% of the applicants. In the case of OP, who claims they struggle to find unicors, they should compromise and check the other candidates because it's very likely they are only selecting liars or the most incompetent from the lot they got, while ignoring someone who has 1 month less experience than they'd need to for OP to consider them ""seniors"".
+
+I somehow get the feeling OP has zero technical knowledge and is basing his choices on trivial factors as a result."
+1oianvw,comment,nlug23u,1oianvw,teeeh_hias,,2025-10-28 23:42:44,21,"Other way round, do you pay a senior level salary and benefits that actually attract the kind of people you are looking for? I was recently looking for a new job too, senior with more than 10 years xp. I can tell, some offers were a slap in the face. I wouldn't even accept that as newbie. Also there were not many job offers that would even fit remotely when you are specialized to some point."
+1oianvw,comment,nm5z9um,nlug23u,SolidDeveloper,,2025-10-30 18:10:02,3,"Indeed. I'm a Lead Software Engineer (senior+), and I see a lot of job ads for Staff &amp; Principal roles that advertise salaries half of what I make now. Just last week I saw a Principal role that paid the same salary that I had in 2016 as an early Senior."
+1oianvw,comment,nm6bol9,nm5z9um,teeeh_hias,,2025-10-30 19:47:26,2,"Crazy right? I might also add, most people this far in their career won't even write full applications anymore. I got my new job through recruiters or the HR person approached me directly. And I actually expect some sort of effort from the companies side too. Like, for a starter, maybe answer my questions about their 'competitive' salary, before venturing further into the application process. At least I want to know if it's worth my time."
+1oianvw,comment,npdobcl,nm5z9um,Canadianingermany,,2025-11-18 04:48:23,1,"Of course.  That was at the peak, now we have a different market so the supply demand curve has shifted meaning people are paying less."
+1oianvw,comment,nphdiac,npdobcl,SolidDeveloper,,2025-11-18 20:35:06,1,"Yes, but the point is that for people who do have high salaries, changing jobs for a 50% pay cut is a definite deal-breaker. I will never apply for those low paid Staff+ roles that I mentioned, and it may be that those employers are wondering, just like OP is, why they’re not getting quality candidates. Well this is why.
+
+And even the qualified people who have been laid off might not apply for those low paid roles, because they know how much work and stress they involve, so they will just not want to bother for that compensation. "
+1oianvw,comment,nlu07t9,1oianvw,curious_meh,,2025-10-28 22:24:01,41,What questions do you ask?
+1oianvw,comment,nlu3da0,1oianvw,DE_Auswanderung,,2025-10-28 22:40:19,60,Are you looking for 15 years of experience but offering 60k?
+1oianvw,comment,nlu4jxq,nlu3da0,ScaryDev,,2025-10-28 22:46:19,-2,"Nope, we don't specificy minimum years as seniority doesn't work that way. But min 5 years.
+
+As for salary I can tell you it is much more."
+1oianvw,comment,nlu6jqi,nlu4jxq,PapaDonkey2024,,2025-10-28 22:56:12,27,By how much? My company offers Junior more than 60k also 🤷
+1oianvw,comment,nmdokoq,nlu6jqi,YourMomCannotAnymore,,2025-10-31 22:50:53,2,Bet it's Berlin or München. I really doubt juniors get paid that much in other cities.
+1oianvw,comment,nluyqu6,nlu6jqi,hokage-flash,,2025-10-29 01:12:21,2,What experience does your company look for in junior ?
+1oianvw,comment,nlvqvvk,nluyqu6,PapaDonkey2024,,2025-10-29 03:28:43,1,"To be honest, it depends on the team. But in my team, 3 out of 7 junior engineers that were hired in the last year were fresh graduates (2 masters &amp; 1 bachelor's [The bachelor's dude is a genius though]).
+
+The most important skills my manager looks for when hiring are: domain knowledge (signal processing) and sufficient C &amp; C++ skills."
+1oianvw,comment,nlvy69u,nlvqvvk,hokage-flash,,2025-10-29 04:04:55,0,Thanks for reply! I have working with both python and c# right now in my current job. What do you think is it a good skillet. Also trying to start ml projects so did one with computer vision and nowntrying RAG for local ai agent
+1oianvw,comment,nlw0ztl,nlvy69u,PapaDonkey2024,,2025-10-29 04:18:33,3,"I would be honest with you, I don't have answers. 
+
+I used to think embedded software engineering skillsets were future proof until the auto industry started collapsing, affecting lots of adjacent industries."
+1oianvw,comment,nlyzm31,nlw0ztl,nik_supe,,2025-10-29 15:49:08,2,Thanks for the inputs! It's a scary time right now
+1oianvw,comment,npdogps,nlu6jqi,Canadianingermany,,2025-11-18 04:49:09,1,they are way above average then
+1oianvw,comment,nlx5p6d,nlu6jqi,ForeignStory8127,,2025-10-29 07:50:09,-1,Would you be willing to DM me which firm? I'm in the process of looking...
+1oianvw,comment,nmdoanr,nlu4jxq,YourMomCannotAnymore,,2025-10-31 22:49:30,5,"&gt; Nope, we don't specificy minimum years as seniority doesn't work that way.
+
+&gt; But min 5 years.
+
+💀"
+1oianvw,comment,nlv75fm,nlu4jxq,kmierzej,,2025-10-29 01:52:23,2,Do you happen to still have the job post somewhere around? Could you please link to it?
+1oianvw,comment,nludv2t,nlu3da0,ufo2000,,2025-10-28 23:32:13,-4,5 years would be mid level not senior
+1oianvw,comment,nlul8ja,nludv2t,padmitriy,,2025-10-29 00:07:33,11,it really depends on experience
+1oianvw,comment,nlvvmth,nludv2t,Craftkorb,Hamburg → Zürich,2025-10-29 03:52:23,6,There are quite a few engineers who've been doing this stuff in their free time since they've been teenagers. Five years is plenty for them.
+1oianvw,comment,nlvbw73,nludv2t,Unhappy_Researcher68,,2025-10-29 02:15:06,9,I know 3 year seniors and mid level devs with 15 years experince I would only hire as juniors.
+1oianvw,comment,nlv3hcv,1oianvw,badseed90,,2025-10-29 01:34:57,10,"The seniors you are looking for will either already have a good contract or no problem finding something new. 
+
+They have no reason to come to Reddit and complain. 
+
+The rest will apply for your position and hope for the best."
+1oianvw,comment,nm5zvzk,nlv3hcv,SolidDeveloper,,2025-10-30 18:15:27,1,"Lead SWE here. My reason for coming to Reddit is to vent. I don't particularly have problems finding new roles, as I've been very fortunate, but I absolutely hate the interview process and the massive amounts of prep I need to do every time I need to change jobs. I do the prep, but I also need to complain about it – it's cathartic. And I fully empathize with the people who have a hard time finding jobs.
+
+It's also why I always push against bad or unreasonable interview practices in the companies I work. Because I know how it is on the other side."
+1oianvw,comment,nlu3zd6,1oianvw,[deleted],,2025-10-28 22:43:25,35,[deleted]
+1oianvw,comment,nlunlnn,nlu3zd6,Ok_Vermicelli4916,,2025-10-29 00:19:05,7,Was it a basic programming job or something highly specific?
+1oianvw,comment,nlu70ug,1oianvw,user38835,,2025-10-28 22:58:33,34,"I have had it the other way, where they ask for salary expectations for a 10yr senior dev, then either ghost or come back with a technical round interview and then reject on basis of very specific nitpicks like “We can’t hire you because you used ‘recharts’ instead of ‘d3.js’ to create this chart in the code”. And then repost the job on LinkedIn again and again and never hire anyone."
+1oianvw,comment,nlvcomb,nlu70ug,plsdontlewdlolis,,2025-10-29 02:18:57,27,This!!! Employers nowadays hardly want transferrable skills. There are hundreds of tech stacks out there. I'm sure a mid/senior dev could easily pivot to a similar stack but those managers want 100% match or not at all
+1oianvw,comment,nlvmxpg,1oianvw,spacetime_navigator,,2025-10-29 03:09:12,16,"Apply yourself to a bunch of postings, see how many replies you get"
+1oianvw,comment,nlzmc2y,1oianvw,Tentacula,,2025-10-29 19:20:57,7,"&gt;meme 
+
+""Who wants to employ seniors?"" (all hands raise)
+
+""Who wants to train and nurture juniors until they can become seniors?"" (no hands raise)"
+1oianvw,comment,nlu04uv,1oianvw,Sad-Candle2545,,2025-10-28 22:23:36,13,"
+How do you typically select candidates for interviews? Do earlier applicants have a higher chance of being shortlisted? Also, do you use an Applicant Tracking System (ATS) in your selection process?
+
+
+What was the first question that you asked? 
+
+
+Thanks"
+1oianvw,comment,nlu0w40,nlu04uv,ScaryDev,,2025-10-28 22:27:30,11,"HR manually reviews CVs on a daily basis, if they pass they review they do a quick intro call.
+
+Afterwards they are promoted to the tech interview.
+
+The question about a process lifecycle management."
+1oianvw,comment,nlufvoo,nlu0w40,hankyujaya,,2025-10-28 23:41:52,51,"\&gt;HR manually reviews CVs  
+I have bad news for you..."
+1oianvw,comment,nlwhr75,nlufvoo,WanderingSelf,,2025-10-29 05:40:52,7,LOL That's the 1st thing came to my mind
+1oianvw,comment,npdooc1,nlufvoo,Canadianingermany,,2025-11-18 04:50:13,0,"You did notice you are in Germany sub, right?"
+1oianvw,comment,nlue6xc,nlu0w40,Dry_Hotel1100,,2025-10-28 23:33:47,34,"\&gt; HR manually reviews CVs   
+So, your HR are qualified, experienced and tech savvy in the discipline you are looking for?"
+1oianvw,comment,nlvds8z,nlue6xc,Alternative_Jello_70,,2025-10-29 02:24:19,5,Maybe I'm the rare person who has come across ONE HR who REALLY knew what technology stack her company needed for the role.
+1oianvw,comment,nlv2stt,nlue6xc,michary,,2025-10-29 01:31:38,-7,"&gt;We got 150 applications, 70% did not read the job post and doesn't have the required experience and skills or doesn't have a valid work permit,
+
+So it takes an engineering manager to check if he has a valid work permit?"
+1oianvw,comment,nly2mip,nlv2stt,dodobird8,,2025-10-29 10:59:25,10,"OP doesn't know much about Germany if he thinks you need a work permit BEFORE getting a job.  I think it's even illegal to attempt to exclude candidates on this, so that shows how well OPs company knows what they're doing.  If they'd give someone a job without already having a work permit, then the new hire simply gets their work permit.  In many cases, it's not possible to get a work permit without first having a job contract....."
+1oianvw,comment,nlyhu99,nly2mip,michary,,2025-10-29 12:52:44,0,"Maybe this was part of the requirements listed in the job description.
+A lot of companies, don’t want to wait and go to the process. And just require a visa, that you can switch from another job.
+
+All the people here suggest, that only skilled developers should judge a CV. But they don’t know all the laws and regulations as HR does."
+1oianvw,comment,nlvhjxf,nlv2stt,Dry_Hotel1100,,2025-10-29 02:42:52,9,"According the OP, HR does a lot more than checking a work permit. According OP, HR filters 70% of the candidates, by making an assessments about the candidate's experience and their skills.
+
+HR is responsible for a lot of things, but they are NOT recruiters, who are *specialised* in the tech discipline where they are looking for *specialised* candidates, for example backend development with Java and Spring."
+1oianvw,comment,nlvn63x,nlvhjxf,michary,,2025-10-29 03:10:21,3,"&gt;HR filters 70% of the candidates, by making an assessments about the candidate's experience and their skills.
+
+This is your interpretation. To my understanding the 70% is in total:
+
+*  Did not read the job post, or
+* Not required skill or
+* Missing work permit
+
+We both don’t know, how percentages of the rejection reasons.. So I would not make false assumptions.
+
+In my previous job, I was an engineering manager, and was involved in the hiring. We also received it pre-filtered.
+
+* There where lots of Indians applying for the job, even when they are not located here..
+* There were people applying for seniors with only a couple years of experience
+* An SAP consultant applying for a frontend position.
+
+You don’t need any deep technical background the reject it..
+
+So for me, the filtering was actually okay, and saved me time.
+
+  
+HR are not recruiters, but Devs are?"
+1oianvw,comment,nlzgx5c,nlvn63x,sc_emixam,,2025-10-29 18:37:39,1,"OK so, let me begin by saying you are both correct on some levels, but you are making some strange points. 
+
+When you assume, in your bullet points for rejection that one point being ""did not read the job post"" and another being ""not required skills"" you automatically assume their HR is familliar with what's needed and understand the difference is someone applied to a Java + Spring position asking for 5years, the HR person knows if the candidate with 6 years of SpringBoot and Hibernates is a fit or not. 
+
+And maybe your HR can, but 98% of HR employees out there cant.
+
+And that's a problem"
+1oianvw,comment,nluop3i,nlu0w40,augustus_klass,,2025-10-29 00:24:21,15,Yeah found the problem. It's HR
+1oianvw,comment,nlxolpu,nlu0w40,lizufyr,,2025-10-29 09:37:09,3,"Maybe have a senior or lead developer be part in the review process. HR has their list to check, but they are likely to reject fitting applications for formal reasons as well as accept applications that check all the right boxes but have nonsense job descriptions."
+1oianvw,comment,nluwqfm,1oianvw,kingmustd1e,,2025-10-29 01:02:48,28,"Are you aware that first you get a job, and then you get a work permit?"
+1oianvw,comment,nlv1ris,nluwqfm,wasbatmanright,,2025-10-29 01:26:40,7,They are trying to hire german residents not foreigners
+1oianvw,comment,nlv2opk,nlv1ris,kingmustd1e,,2025-10-29 01:31:03,8,The OP says no German is required
+1oianvw,comment,nlwoowf,nlv2opk,Vida_they,,2025-10-29 06:17:06,18,So they also hire bavarians xD
+1oianvw,comment,nlwgv9p,nlv2opk,JonDowd762,,2025-10-29 05:36:22,6,By that they mean no German language ability is required. The right to live and work in Germany is different. There are German residents who have little or no German language skills but can work in the country as well as any EU citizen.
+1oianvw,comment,nlwqxuk,nlwgv9p,kingmustd1e,,2025-10-29 06:29:20,9,I’m only saying that a foreigner also gets a right to work and live in Germany as soon as they get a job.
+1oianvw,comment,nly36ys,nlv1ris,dodobird8,,2025-10-29 11:03:09,2,...so they're openly discriminating..
+1oianvw,comment,nm0cjes,nly36ys,wasbatmanright,,2025-10-29 21:59:09,2,I don't think you got the meaning of discrimination right!
+1oianvw,comment,nlyy2l5,nly36ys,PabloZissou,,2025-10-29 15:32:48,-3,"No, you are totally wrong. It is clear that they mean they are currently not sponsoring relocation..."
+1oianvw,comment,nlz4yfs,nlyy2l5,dodobird8,,2025-10-29 16:44:41,5,"&gt;70% did not read the job post and doesn't have the required experience and skills or doesn't have a **valid work permit**
+
+Then why did they mention work permit?  Those are vastly different things.  A German person might even want relocation expenses. 
+
+I'm really curious how people like you even form your comments.  Are you just trolling?  I honestly don't think you're serious.  If you are serious, how can you speak so confidently and be so so wrong?"
+1oianvw,comment,nlz652p,nlz4yfs,kingmustd1e,,2025-10-29 16:56:32,4,It sounds to me that either HR or OP are not aware of how it works. OP wanted to make it sound solid but they actually have no idea about „working permits“.
+1oianvw,comment,nlz6uas,nlz652p,dodobird8,,2025-10-29 17:03:38,3,"OP's company is a red flag.  If they mess up the very basics like that, there're probably a lot more problems and lack of organizational skills in the company that many Senior level employees might not want to deal with."
+1oianvw,comment,nlzc9uv,nlz6uas,kingmustd1e,,2025-10-29 17:56:44,1,"Yep, that‘s my impression too. I also would assume it‘s easily noticeable in their job profile, so experienced people avoid them."
+1oianvw,comment,nlzbbih,nlz4yfs,PabloZissou,,2025-10-29 17:47:53,2,"There are multiple reasons why a person might not have a work permit right? Visa tied to an employer, residence for language learning but now that person wants to work -&gt; needs to request a visa change that can take several months and never be approved, and more cases... instead of being so arrogant have you consider these situations?"
+1oianvw,comment,nlzcokz,nlzbbih,dodobird8,,2025-10-29 18:00:31,2,I've considered those situations.  Are you by chance HR from OP's company?
+1oianvw,comment,nlzdmmu,nlzcokz,PabloZissou,,2025-10-29 18:09:03,0,And how is that discrimination? As you stated the company is discriminating and does not seem like that at all they just don't offer handling the personal issues of people that does not have the correct permits... what's the mental process you follow to consider that discrimination or what law states that's discrimination?
+1oianvw,comment,nlzikf5,nlzdmmu,dodobird8,,2025-10-29 18:51:11,2,"I'm not a lawyer, but my understanding is it's discrimination based on nationality or potentially even some protected characteristic that might be strongly associated with a nationality.
+
+It's not allowed in the EU to discriminate based on nationality.
+
+&gt;Within the scope of application of the Treaties, and without prejudice to any special provisions contained therein, any discrimination on grounds of nationality shall be prohibited.
+
+[https://eur-lex.europa.eu/eli/treaty/tfeu\_2008/art\_18/oj](https://eur-lex.europa.eu/eli/treaty/tfeu_2008/art_18/oj)
+
+It's not allowed in Germany to directly or indirectly discriminate based on a protected characteristic for a job, including job applicants and during the application process.
+
+[https://www.antidiskriminierungsstelle.de/EN/we-offer-advice-to-you/information\_material\_for\_people\_seeking\_advice/discrimination\_workplace/discrimination\_workplace\_node.html](https://www.antidiskriminierungsstelle.de/EN/we-offer-advice-to-you/information_material_for_people_seeking_advice/discrimination_workplace/discrimination_workplace_node.html)
+
+[https://cms.law/en/int/expert-guides/cms-expert-guide-on-discrimination-in-the-workplace/germany](https://cms.law/en/int/expert-guides/cms-expert-guide-on-discrimination-in-the-workplace/germany)
+
+Edit:
+
+&gt; they just don't offer handling the personal issues of people that does not have the correct permits
+
+The company just needs to provide an employment contract and maybe like one other form.  There's no external costs for the employer to do this.  People from some countries outside of the EU can even apply for jobs in Germany while visiting on a tourist visa and then use their employment contract to get a work residency. In many cases, the work residency is only granted AFTER a person has signed an employment contract.  I think you're missing this last part."
+1oianvw,comment,nlzln40,nlzikf5,PabloZissou,,2025-10-29 19:15:39,2,"A work permit is a legal requirement to be employed sorry but that's not discrimination, does that put someone without permanent residency or citizenship in a harder spot? That's a different discussion but still no discrimination I am 99% sure, we would need a lawyer to clarify to be 100% sure. The other part, and yes playing devil's advocate a bit, I grant you that, what happens if a contract is extended without checking work permit and that person does not get a work permit? Now the position is not filled again and for the work permit to be processed it can take months..."
+1oianvw,comment,nlugx9n,1oianvw,salaxar,,2025-10-28 23:46:50,5,"It’s a complex situation. As an employer I also agree that finding good candidates is a Herculean task, because all sourcing channels are flooded and noise is extremely high. LinkedIn indeed and corporate email are immediately flooded with applications from India, Bangladesh, Vietnam and even candidates in Germany are unqualified fresh grads with no relevant experience, and the boot camp graduates from 2021 applying everywhere doesn’t help either. Add ChatGPT automated applications to the mix. I genuinely got 50 applications turning an hour of opening a job post and were small startup. 
+
+There’s no doubt that number of openings across the board is down compared to last few years, but it’s amplified by the fog of Ai slop which makes a scenario where you have to apply to hundreds of places to be lucky enough for someone to respond to you. 
+
+Brutal truth for immigrants: being an immigrant makes things worse for you. I know this subreddit loves to say do C1 German and your problems are solved but it’s not true. There is ample supply of candidates for whom we don’t have to deal with agentur für Arbeit. There’s zero incentive to get involved with bureaucracy. If the markets were booming and it was growth above all else, sure, but right now there’s no rush to hire and you can wait for a good fit"
+1oianvw,comment,nlzav18,1oianvw,EmpressCosplay,,2025-10-29 17:43:31,6,"Companies want young 20somethings with ideally 30 years of work experience.
+No one's training juniors anymore, how are they supposed to become seniors???"
+1oianvw,comment,nlu4p1s,1oianvw,Toby-4rr4n,,2025-10-28 22:47:02,10,Not weird buddy. There is a lot of IT people on market but there is not many skilled
+1oianvw,comment,nlubmwp,1oianvw,tosho_okada,,2025-10-28 23:21:21,11,"How do you know they possess or do not possess a valid work permit? And what kind of specialist are you looking for? It is true that when someone posts a position on LinkedIn it receives mass applications that are not even tailored to the job description, I’ve been on the side of helping recruiters filter candidates.
+
+However, some areas are indeed saturated, specifically front-end development, and this is the line where I think some recruiters are failing to grasp that it’s better and less costly to hire a senior developer who doesn’t have exactly all the right buzzwords or trending libraries in their CVs and train them rather than keep looking for the exact match. Last interviews I did I failed because someone saw I had experience with some adjacent technology more than 10 years ago and expected me to remember and keep up to date with the latest advancements in that field which was not even relevant to the position I was applying for.
+
+It’s an employers' market now and most of the positions are looking for 3 roles or more in one. You have to be a full-stack developer with knowledge of devops, UX/UI/Figma, backend, frontend, network specialist with cybersecurity skills, a team lead, a coach, an assistant to the POs, and some other BS. And don’t forget AI!"
+1oianvw,comment,nlvdrkj,nlubmwp,plsdontlewdlolis,,2025-10-29 02:24:14,10,"&gt; You have to be a full-stack developer with knowledge of devops, UX/UI/Figma, backend, frontend, network specialist with cybersecurity skills, a team lead, a coach, an assistant to the POs, and some other BS. And don’t forget AI!
+
+And willing to be paid junior wage"
+1oianvw,comment,nlzil45,nlvdrkj,sc_emixam,,2025-10-29 18:51:20,2,"&gt;And willing to be paid junior wage
+
+This. This is mainly what destroys mid and Senior roles."
+1oianvw,comment,nlxvosx,nlubmwp,kingmustd1e,,2025-10-29 10:17:41,6,Alone based on the work permit thing it tells me their HR might be incompetent and filter out good candidates
+1oianvw,comment,nluk4lb,1oianvw,FireNavigator,,2025-10-29 00:02:07,3,"I started selecting the option to say I have a visa already (half true) otherwise I just get insta-rejected.  
+  
+I am living in Germany on Chanchenkarte Visum and don't require sponsorship, just a job offer which  I take to auslaenderbehoerde to convert to Bluecard visa.  
+  
+7 years experience, started backend but last 4 years have been heavily front end focused with React, Typescript, Next and Node. Have experience with legacy apps and building apps from scratch. Also have experience with Java Spring boot, SQL/Postgres databases, geospatial data, writing DevOps pipelines, etc.
+
+Its been rough for me, compared to my experience finding jobs in the UK. I have applied to hundreds of jobs and have had a few interviews which have gotten several rounds in, but no job landed."
+1oianvw,comment,nlw5erj,nluk4lb,DepartureDry5573,,2025-10-29 04:39:45,-4,Not really the case you need sponsorship still …
+1oianvw,comment,nlxvwvq,nlw5erj,kingmustd1e,,2025-10-29 10:18:54,4,What do you understand under the sponsorship? It‘s not a thing in Germany.
+1oianvw,comment,nlur2rj,1oianvw,No_Tennis_2126,,2025-10-29 00:35:53,4,"Why would they already need a valid work permit exactly?
+The eu blue card means they just require a job offer letter. No sponsorship required. They take that with evidence of their own skills to the German government to get a work visa
+Much simpler than moving to most countries"
+1oianvw,comment,nlxwzvb,nlur2rj,kingmustd1e,,2025-10-29 10:25:04,3,Because the company is incompetent in hiring and don‘t know the process. So they just avoid „foreigners“ altogether
+1oianvw,comment,nlwuryr,1oianvw,Nemeszlekmeg,,2025-10-29 06:50:21,5,"I'll just add my 2 cents that before COVID, I was offered positions in software engineering when my background is in experimental physics...
+
+It just feels like HR is never doing the rational thing when hiring. Just becaue I have Python knowledge for signal processing and handling my data and I also like the neat plots and graphs you can make with python :3, it doesn't make me even remotely qualified for software development. At the time I didn't even know what backend and frontend meant, yet I was ""head hunted"" for the job.
+
+It does not at all surprise me now that you get so many applications of unqualified people when years ago the same people were snatched like candy."
+1oianvw,comment,nlz2e52,1oianvw,dornroesschen,,2025-10-29 16:18:06,4,The issue is that no one hires entry positions anymore. Same at my company. We can’t find senior roles but don’t want to take the burden of educating juniors.
+1oianvw,comment,nlz2pqd,1oianvw,PilotFlimsy1743,,2025-10-29 16:21:28,3,"Why not hire a Junior and train them ? I dont understand employers these days. Clearly there are a lot of motivated Juniors on the market. Seniors get less and less. If employers dont hire Juniors, then there simply wont be any new Seniors created on the market, cause ever Senior started as a Junior."
+1oianvw,comment,nlu3nnm,1oianvw,[deleted],,2025-10-28 22:41:47,19,[deleted]
+1oianvw,comment,nluoaot,nlu3nnm,Laucien,Argentinia,2025-10-29 00:22:24,8,"&gt; If you are mid or senior who knows the job, even without German you can find something, although salaries are not on Covid level anymore. 
+
+Ugh, I had a few interviews for Staff positions and they all offer like 20% less than what I'm currently making. First world problems I know."
+1oianvw,comment,nlu516w,nlu3nnm,Eris-X,,2025-10-28 22:48:45,14,yep and those are all the ones who come on this subreddit and complain theyve applied to 500+ postings and got no response!
+1oianvw,comment,nlu5t0c,1oianvw,amineahd,,2025-10-28 22:52:34,6,"Those two dont contradict each other, its tough for junior developers because the economy is dead but also many people just throw applications randomly because why not?"
+1oianvw,comment,nluxdrr,1oianvw,Dizzy_Arm_1773,,2025-10-29 01:05:53,6,"""doesn't have a valid work permit""
+
+Do you consider Chancenkarte in this group? It's very easy to transfer to a valid work permit and requires nothing from the employer beyond the work agreement, and yet"
+1oianvw,comment,nlxw3x5,nluxdrr,kingmustd1e,,2025-10-29 10:19:59,3,Even without the chancenkarte it‘s just as easy. Their HR don‘t know the process and it‘s telling.
+1oianvw,comment,nlukspb,1oianvw,Silver-Match-3239,,2025-10-29 00:05:24,3,"1. IT job looks really nice.
+2. Somebody believe they can just pass the test, even if they have no idea about programming. Because, sometimes it works!
+3. Even worse. Somebody think they can pass the test by using AI. Oh please..."
+1oianvw,comment,nlwo9fn,1oianvw,Vida_they,,2025-10-29 06:14:47,3,Do you also hire juniors in general? Cause that's where seniors come from :)
+1oianvw,comment,nlyq69i,1oianvw,Ok-Natural4486,,2025-10-29 14:11:14,3,Is there any role available for jr developer?
+1oianvw,comment,nlubitp,1oianvw,CalligrapherNo670,,2025-10-28 23:20:49,6,"Provided a person entered the country legally a company does not need to provide visa sponsorship or ask for a work permit. All they need  to, is provide a valid working contract if they feel the candidate suits their requirements. The candidate then takes that contract to the foreign office to get their work permit. I don’t know why companies ask for work permit."
+1oianvw,comment,nlw59cf,nlubitp,DepartureDry5573,,2025-10-29 04:39:01,-4,lol not really they need to give make it to Germany document that’s like a sponsorship and get approval from worker council as well
+1oianvw,comment,nlxwpd5,nlw59cf,kingmustd1e,,2025-10-29 10:23:22,3,"There is no document „like a sponsorship“, it is only a simple form that the employer fills out. No costs or further organizational effort is required.
+
+Also worker council has nothing to do with hiring a foreigner, they should approve a „local“ just the same. You‘re mixing things together. Why spread information online if you have no idea?"
+1oianvw,comment,nlyjgsr,nlxwpd5,DepartureDry5573,,2025-10-29 13:06:58,-1,"I don’t think you have any idea that how it works , a employer needs to do lot of paperwork ,time and commitment to hire a foreigner as compared to someone who is local , that includes getting approval from there worker council which always pushes for local person . If you don’t understand this then no point explaining you , i live in Germany and have first hand experience getting hired and hiring people who are from different countries other then EU"
+1oianvw,comment,nlyumiu,nlyjgsr,kingmustd1e,,2025-10-29 14:56:45,3,"Then list the difference please what the employer must do in hiring a person who yet doesn‘t have a permit yet, comparing to someone who does (as an example: a foreigner on a student visa who just finished uni in Germany not having a permit to work full-time).
+
+If you are so experienced in hiring, you must know that the majority of companies don‘t even have a worker‘s council. Not even every Konzern does have it. And to my experience it‘s extremely rare that someone is not passing a worker‘s council stage of hiring.
+
+And you‘re not the only person living in Germany. I was hired as someone without a permit yet. All it took for the employer is to fill out a form. (I was curious and found out.)"
+1oianvw,comment,nlywpam,nlyumiu,CalligrapherNo670,,2025-10-29 15:18:16,3,Exactly. You only need a valid working contract and that formed filled. In some cases you can get the permit without that formed being filled. A lot of employers don’t know this. They don’t need to do any extra work apart from giving the person a valid working contract.
+1oianvw,comment,nm0f5p1,nlyumiu,DepartureDry5573,,2025-10-29 22:12:25,0,"Well I guess then the organisations who actually hires people don’t know anything… smh easy to argue just for sake of arguing , I will rather hire a person who has valid blue card / pr then hiring someone who doesn’t have even it it reduces my cost by 1 percent . And for you time doesn’t matter which a person requires to get a valid work permit but for every organisation it’s money .."
+1oianvw,comment,nm0h5l9,nm0f5p1,kingmustd1e,,2025-10-29 22:22:32,3,"There is no additional cost to hiring a non-resident. Moreover, non-residents tend to expect lower salaries."
+1oianvw,comment,nm0h8yg,nm0h5l9,DepartureDry5573,,2025-10-29 22:23:01,1,lol then why aren’t they hiring ?
+1oianvw,comment,nm0iea1,nm0h8yg,kingmustd1e,,2025-10-29 22:28:48,3,Bingo. Because some people are incompetent and just assume that hiring a non-resident is complicated. It‘s easier for them to say No rather than figure things out. If you ever dealt with HR you know how often it is the case.
+1oianvw,comment,nm0imjj,nm0iea1,DepartureDry5573,,2025-10-29 22:29:59,1,Why will a HR put effort to figure things out when he can get candidate locally
+1oianvw,comment,nm0ihc3,nm0iea1,DepartureDry5573,,2025-10-29 22:29:14,0,lol yeah you wish 😄
+1oianvw,comment,nlu73c9,1oianvw,ai_kage,,2025-10-28 22:58:54,6,"I’ve had the opposite experience. I interviewed for a “backend” role, but the first question was about React. When I mentioned it was advertised as backend, they said they now wanted someone who could do everything. Since then, I’ve started applying to roles where I meet about 40% of the requirements, as expectations often shift during interviews."
+1oianvw,comment,nlux6g6,1oianvw,Various_Disasterer,,2025-10-29 01:04:55,3,Can you share the job posting?
+1oianvw,comment,nlwb157,1oianvw,[deleted],,2025-10-29 05:07:05,4,"IT salaries are quite low in Germany (the very best dev gets ~150k whereas the same level gets ~500k in the US), so nobody good is rushing to Germany these days. You end up drowning in applications from those that didn't make it to the US essentially or couldn't find a better remote job."
+1oianvw,comment,nlxhkq9,nlwb157,Comfortable_Relief62,,2025-10-29 08:57:03,9,An extreme minority of US devs are making 500k
+1oianvw,comment,nlz5xto,nlxhkq9,[deleted],,2025-10-29 16:54:31,2,I am talking about top devs. That brings averages/median higher as well. It's common to start at 200k as a fresh grad in the US; in Germany one would be happy with 50k.
+1oianvw,comment,nlzq2w5,nlz5xto,Comfortable_Relief62,,2025-10-29 19:48:21,2,It’s not even common to start at 200k. The top roles that pay those numbers are like 1-2% of the roles in the market.
+1oianvw,comment,nlzw6cn,nlzq2w5,[deleted],,2025-10-29 20:28:16,2,"We can squeeze minute details further, however, the fact is that Germany pays rather low salaries compared to the US and has enormous effective taxes (~60% when considering VAT everywhere) and even when one goes freelancing, the mandatory health insurance is around 1200 EUR (assuming high income), which is way more than a comparable coverage in the US. You get what you pay for."
+1oianvw,comment,nm0pbjt,nlzw6cn,Comfortable_Relief62,,2025-10-29 23:03:04,2,"Yeah sorry I agree with your point about there being a gap in pay, I just don’t want people to get the idea that software is paid so absurdly in the US as a common case."
+1oianvw,comment,nm57xuo,nlxhkq9,RainbowSiberianBear,,2025-10-30 13:37:20,2,And an even smaller minority of the German devs get 150k. So no contradiction here. 
+1oianvw,comment,nlu7pgt,1oianvw,ragold,,2025-10-28 23:01:55,2,Are these from an indeed.de posting?
+1oianvw,comment,nlvezqs,1oianvw,vondrausimwalde,,2025-10-29 02:30:16,2,"People are getting risk averse and are less willing to take the risk of a new job, especially if it is a smaller / newer company"
+1oianvw,comment,nlum9jx,1oianvw,RelevantSeesaw444,,2025-10-29 00:12:34,5,"For better or worse, you have limited your talent pool to people who must have the right to work in Germany. 
+
+
+That directly narrows down to EU citizens or people with permanent status in Germany (Niederlassungserlaubnis).
+
+
+Seniority is a separate topic."
+1oianvw,comment,nlxwthl,nlum9jx,kingmustd1e,,2025-10-29 10:24:02,1,Funny given they don‘t require German language
+1oianvw,comment,nlu3zvb,1oianvw,HoneyPretty9703,Nordrhein-Westfalen,2025-10-28 22:43:29,2,Out of interest senior in which tech stack?
+1oianvw,comment,nluba9b,1oianvw,Vannnnah,Germany,2025-10-28 23:19:38,4,how's the pay? Companies that have this issue usually don't pay enough to get good candidates.
+1oianvw,comment,nlug9jp,1oianvw,PhilosopherOnTheMove,,2025-10-28 23:43:44,2,"The market is quite competitive now globally, however, most of the poeple who complains here are not skilled enough anyway."
+1oianvw,comment,nlw9222,nlug9jp,Some_other__dude,,2025-10-29 04:57:28,2,"Well how do you get skilled without a job? 
+
+I did besides graduating with a good Mastersdegree internships, working student and some side projects. 
+
+Still doesn't count as proper experience and landing a first job is a struggle."
+1oianvw,comment,nlw9s8z,nlw9222,PhilosopherOnTheMove,,2025-10-29 05:01:01,1,"I wasn’t commenting for entry level jobs anyway, rather mid level and above. To address your point, entry level jobs at software engineering are facing the domino effect of AI hype. Also, the bad economy is not letting companies invest in those jobs."
+1oianvw,comment,nlzjrha,nlw9s8z,sc_emixam,,2025-10-29 19:00:48,1,"So, in 2 replies you just explained how circular the issue is and how idiotic it is LOL
+
+Dont hire juniors -&gt; need senior in X, Y and Z -&gt; They are incompetant (because they dont have a job) -&gt; bonus point, since you dont have the money to invest in juniors you also dont have the money to offer to the competant seniors in X, Y and Z, who are employed -&gt; ""the maket is competitive and people are not skilled enough!"" 
+
+No joke, that's from A to Z the companies fault. There are no many juniors on the market not all of them are incompetant, just not trained in X, Y and Z the way Company A does it."
+1oianvw,comment,nltzg9s,1oianvw,AutoModerator,,2025-10-28 22:20:06,1,"
+**Have you read our extensive wiki yet? It answers many basic questions, and it contains in-depth articles on many frequently discussed topics.
+[Check our wiki now!](https://www.reddit.com/r/germany/wiki/index)**
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/germany) if you have any questions or concerns.*"
+1oianvw,comment,nluqylp,1oianvw,ausstieglinks,,2025-10-29 00:35:18,1,"That’s cool to hear that the experienced developer market is good. I’m going to start a search next year I think
+
+We’re also having a really tough time finding senior or higher for one of our roles."
+1oianvw,comment,nlvf6o1,1oianvw,napalix,,2025-10-29 02:31:13,1,"With a sparkle of AI, anyone can meet the job criteria on a paper."
+1oianvw,comment,nlvguvo,1oianvw,FjarPhaeton,,2025-10-29 02:39:30,1,Did you already find somebody suitable? I would be interested if you want to send me a DM.
+1oianvw,comment,nlvz7fl,1oianvw,ImpossibleRule2717,,2025-10-29 04:09:57,1,Hello. Sorry But if the job is still open can I dm you. I hope I may be an exception
+1oianvw,comment,nlwob5s,1oianvw,OkBarracuda910,,2025-10-29 06:15:03,1,"I’m failing interviews because my last couple of years didn’t face a lot of engaging situations and my communication skills sucks, to tell the story or sell myself are awful but I consider myself an amazing engineer, with good experience in two big companies :("
+1oianvw,comment,nlxpuwx,nlwob5s,lizufyr,,2025-10-29 09:44:28,3,"Communication is incredibly important though, especially in senior roles and beyond."
+1oianvw,comment,nlwqwpe,1oianvw,Petaranax,,2025-10-29 06:29:10,1,"Same experience, we’re really struggling to find 3 real seniors to staff our roles, 800 candidates so far and almost 7 months of interviews and nothing, just a lot of self proclaimed seniors with complete lack of fundamentals. Even if they make it somehow on technical interviews (which are fully based on real world problems and context we’re in, not some google algo or leet code bullshit), almost all of them fail on social / leadership parts … Makes us really appreciate people we have in the company that are truly seasoned and old school seniors who get shit done with no fuss."
+1oianvw,comment,nlxa93w,1oianvw,ClemensLode,,2025-10-29 08:15:58,1,"Well, it goes both ways. It seems that you have not done market research before putting up the job ad."
+1oianvw,comment,nly959n,1oianvw,hlzn13,,2025-10-29 11:44:12,1,"What stack are companies looking for mostly in Germany? I have the intention to start looking in a couple of years as I'm starting A2 level (ideally would like to move with at least a certified B1) and I have +15 years of experience in .Net development+SQL/Postgresql.
+
+Edit: and is the age a problem in Germany? I'm beginning my 40s but I know companies like to deal with fresh meat ideally"
+1oianvw,comment,nlyvxz3,1oianvw,Stunning_Bid5872,,2025-10-29 15:10:23,1,yes
+1oianvw,comment,nlz3gpi,1oianvw,Marcelo554,,2025-10-29 16:29:15,1,"Foreing senior IT professionals also are having a bad time applying in Germany, most positions ask for c1 german and HR exclude resumes for formalities.. What is your tech stack? I am a senior developer living in Germany, wanna talk?"
+1oianvw,comment,nlzbhyg,1oianvw,orissus,,2025-10-29 17:49:34,1,How much do you pay?
+1oianvw,comment,nlznwfy,1oianvw,theSilence2,,2025-10-29 19:32:40,1,"The candidate needs a work contract to get a work permit. The companies only need to fill out a form, and he needs to handle his visa. Why is not having a work permit a no-go? There are lots of non-eu condidates living in the EU who might fit."
+1oianvw,comment,nm0iu0w,1oianvw,Dazzling_Pride1,,2025-10-29 22:31:00,1,"Where did you post it? The small companies I worked previously in Germany had the same, so they would hire a company for recruiting. This is a good option if you don't have a recruiting department."
+1oianvw,comment,nm38h65,1oianvw,edvin92posao,,2025-10-30 06:14:50,1,Looking for some QA? 😁
+1oianvw,comment,nm50ts5,1oianvw,Desperate_Mine_3472,,2025-10-30 12:34:44,1,I just wanted to know where I stand. I have been reading a lot of posts where the people are struggling to find a job in germany I was planning to go there for master’s solely because I want to study (not that I want to escape the job market) I have a job right now in india at a wealth management firm as a junior software engineer although the department is very new here and my senior left the org. I am currently leading a portfolio analysis platform development for my organisation and after piloting it as an internal tool the plan is to expand it as a b2b solution. I am also working on a side project. What can I expect from germany in terms of growth going forward. I would really like to work at an automobile company in software. For this sole reason I was thinking of pivoting a bit to hardware integration too but since I am leading this project I am really liking this financial engineering field as well but I don’t think I should pursue it as a degree. Reading on this subreddit really makes me question my future.
+1oianvw,comment,nmi1u2c,1oianvw,S201S,,2025-11-01 15:43:27,1,"""Doesn't have a valid work permit"" Bro people need a work contract to get the work permit. Please stop pretending this is anything other than Xenophobia. It's disgusting that some recruiters only want applicants with a EU citizenship. I honestly don't understand how that kind of blatant discrimination based on one's country of origin is even legal. That's part of the reason the job market is hell rn."
+1oianvw,comment,nmlmy9o,1oianvw,Pale_Candy664,,2025-11-02 05:36:23,1,There has been definitely a decline in jobs in the recent 2 years. I remember a few years ago when I just finished my degree I had like 3 jobs offers. And people had been writing me on a daily basis on LinkedIn. Nowadays I get like 2 messages per month at most.
+1oianvw,comment,nmoa3dl,1oianvw,Common_Arm_2896,,2025-11-02 16:37:44,1,"Hello, if you are still looking for a developer, I'd be interested. Is this a web dev role? or a C++ role? I'm comfortable with both."
+1oianvw,comment,nmre2s5,1oianvw,Many-Breakfast9723,,2025-11-03 04:05:44,1,"How much German language is important?? I m observing that most of the companies require c1, native , however IT and related fields are naturally and originally English"
+1oianvw,comment,npibutd,1oianvw,Comfortable_Onion318,,2025-11-18 23:43:43,1,can you tell me how much you‘re paying and what your candidates are expecting?
+1oianvw,comment,nlu0hdp,1oianvw,The_Prodigal_Son_666,,2025-10-28 22:25:24,2,"Sounds so good to be true, send me the link to this job offer. I’m interested !"
+1oianvw,comment,nlu1ddf,nlu0hdp,ScaryDev,,2025-10-28 22:29:57,2,"We already hired a consultant, but what's your experience"
+1oianvw,comment,nlw0gvc,nlu1ddf,Kapri111,,2025-10-29 04:16:02,5,"Is this consultant a firm who hires anyone, and then inflates their CVs to pretend to match client expectations, and then that works because clients didn't know what they wanted in the first place...?"
+1oianvw,comment,nlu4eoo,1oianvw,Significant-Egg8516,,2025-10-28 22:45:34,1,"Hi OP, unrelated to your post but can I ask how long in terms of weeks / months does it take for your company to hire starting from posting the job to the job offer/signing of contract? Thank you"
+1oianvw,comment,nlv1xar,1oianvw,Inner-Ad-9615,,2025-10-29 01:27:25,1,Then you have to change the selection process. Should give exact job descriptions. Maybe they had done some bootcamps and all you have to ask them and find out what the issue with the process
+1oianvw,comment,nlvcn0n,1oianvw,Alternative_Jello_70,,2025-10-29 02:18:44,1,"Maybe if you shared a little more description about the job, you could've found it here.. 😉"
+1oianvw,comment,nlu1tz4,1oianvw,Kosovar91,,2025-10-28 22:32:21,-12,"You seriously think people who apply for 200-300 applications have the interest to read your job posting? Oh yeah, they fit 4 /10 requirements or 5/10. Better not apply then...
+
+And you expect them  to answers highly Technical questions, as if during the job you arent allowed to use google or research back home to deal with specific issues.
+
+This entire industry is a joke. If you work in HR, or conduct techincal interviews, please quit aswell. People like you, who are making such dumb questions, shouldn't be working in HR.
+
+Stupidity should be disqualifying for employers aswell."
+1oianvw,comment,nlu4w1m,nlu1tz4,Creatret,,2025-10-28 22:48:01,10,"People who don't read the postings are just the other side of the problem coin.
+
+You think people don't realise you just spat out a low effort CV without being remotely qualified for the job? 
+
+Look for a position that actually suits you and then put some effort into an Anschreiben and I guarantee you will be in top 10% of applicants already.
+
+Or keep shitting out ten applications a day for positions you're not qualified for and then complain about not finding a job."
+1oianvw,comment,nlua7np,nlu4w1m,Kosovar91,,2025-10-28 23:14:24,-6,"Buddy, eff offf with that attitude. Putting effort telling peoppe to put effort to a CV is a meme tier response. Its ridiculous. A competent CV should suffice for all.  
+
+Secondly, tailor making your CV specific for thst company is a waste of time.
+
+Looking for positions that suit you will exhaust all of those positions very fast. But this post is erong to talk about this because this is for a senior position. 
+
+&gt;Or keep shitting out ten applications a day for positions you're not qualified for and then complain about not finding a job.
+
+You obviously are some spoonfed rich kid or somethig have you never been rejected despite fulfilling all the requirements? Go drive your porsche and take care of your poodle."
+1oianvw,comment,nlu5l4o,nlu1tz4,tejanaqkilica,Albania,2025-10-28 22:51:29,6,"HR rarely pulls questions or requirements out of their ass. If the IT Department is looking for someone with a certain skillset, that skillset is going to be provided to HR by the IT department.
+
+Also, in the interviews that my company has conducted, there was always someone from IT present in the interview, precisely for the technical questions.
+
+If we're hiring someone for the heldesk role and I ask him what's best for X scenario, LACP or Round Robin and he says he needs to Google what those are first, that's fine, there's nothing wrong with finding more information before giving an answer.
+
+If we're hiring a senior network engineer and he says that, well he isn't nowhere near senior level.
+
+Germany lacks qualified IT personnel, some people refuse to see it or are too over confident in their abilities."
+1oianvw,comment,nluc2ja,nlu5l4o,Kosovar91,,2025-10-28 23:23:30,-1,"Most unemployed people complaining are not seniors. The senior market is healthy, mostly because most people dont become seniors or those who are, have decent jobs already."
+1oianvw,comment,nlu5xzy,nlu1tz4,IllustriousFault6218,,2025-10-28 22:53:15,5,Not sure it /s or just a salty person who wasn't hired.
+1oianvw,comment,nluzjoh,nlu5xzy,edgar-alien-poo,,2025-10-29 01:16:08,3,"Saltier than the Dead Sea, judging by the follow-up replies."
+1oianvw,comment,nlu5z7y,nlu1tz4,xface66,,2025-10-28 22:53:25,8,Here we found one of those applicants 😂
+1oianvw,comment,nlu8cbn,nlu5z7y,Kosovar91,,2025-10-28 23:05:07,-7,Im not in the market darling. You missed.
+1oianvw,comment,nlu529k,nlu1tz4,ScaryDev,,2025-10-28 22:48:53,5,"Well I'm a tech lead and interviewing a senior developer so I expect them to answer technical questions especially when they mention that they have 9 and 10 experience years.
+
+You have time to prepare and the questions are basic so funny to say dumb questions without know what the question is.
+
+Are you good?"
+1oianvw,comment,nlu99qp,nlu529k,Kosovar91,,2025-10-28 23:09:44,4,"You should probably also know that there are several factors present why people complain about not finding a job.
+
+Going to reddit,  and saying hmm I dont see it, is so ignorant.
+
+This is the same logic as saying, well its cold today, therefore people compaling about summer being too hot is fake.
+
+Your anecdotal case, including the fact this is a senior position, there are hundreds of senior openings, is a non factor for most.
+
+Most people arent 15 YoE seniors.
+
+
+Edit
+
+Most complaints dont come from unemployed seniors."
+1oianvw,comment,nlxjf19,nlu529k,Comfortable_Relief62,,2025-10-29 09:07:22,1,I’m a senior developer and I’d love to know if I’d be able to answer the questions. Maybe you could DM them to me and we could discuss?
+1oianvw,comment,nlu5lbb,nlu1tz4,PeterTheGreat777,,2025-10-28 22:51:30,4,"This guy probably fails the personality test interviews :)) 
+
+(and then blames HR)"
+1oianvw,comment,nlu86un,nlu5lbb,Kosovar91,,2025-10-28 23:04:21,0,"Dont worry, im not in the market. You are safe from me."
+1oianvw,comment,nlu40mf,nlu1tz4,QualityOverQuant,Berlin,2025-10-28 22:43:35,1,"Absolutely!  I bet like most cases we have been reading, INSTEAD OF QUESTIONING THEIR HR they come in Reddit to bitch
+
+It’s like saying I created an amazing advert for hand sanitizer and it’s amazing, but the only people engaging are those who don’t use hand sanitizers!!
+
+Where the F Is your HR woman advertising these position? Who wrote out the JD? What does it say specifically? And did you screen the CV’s your self?
+
+150 CV’s is a joke. Your dumb ass HR most probably doesn’t know how to do their job. Find someone else! On average every job posted these days on LI and elsewhere get over a 1000 applications. I have heard the same from people in HR Say the same and seen it first hand in my last company. 
+
+Advertised 4 roles- intern in finance, junior designer, financial control manager and a director asset management- all received over 800 applications in two days. Out incompetent HR stopped reviewing after finding three qualified candidates that could be put forward to interview. It was a shameful sight to see because a lot of interns put in some good effort for their CV’s and cover letters. But were even read by our useless HR TEAM"
+1oianvw,comment,nlu1uff,1oianvw,New_Anon01,,2025-10-28 22:32:25,-6,Are you looking for someone over seas? Or it had to be only in Germany ?

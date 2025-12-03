@@ -1,0 +1,497 @@
+﻿post_id,type,id,parent_id,author,author_flair,created_time,ups,content
+1mbge23,post,1mbge23,,Thatmangifted,,2025-07-28 21:37:06,269,"【标题】What’s the reality of the IT job market in 2025?
+【内容】
+Curious to hear how others are experiencing the IT job market right now. I’ve been seeing a lot of conversations about the field becoming oversaturated especially with more people entering tech chasing high salaries or remote work flexibility.
+
+Are you seeing more competition for roles? Has the demand for sysadmins and IT pros actually slowed down? Or is it just shifting toward cloud, DevOps, and automation-heavy roles?
+
+Honestly I’d love to hear your insights whether you’re hiring, job hunting, or just observing trends from within."
+1mbge23,comment,n5lyffy,1mbge23,TahinWorks,,2025-07-28 21:58:11,253,"It would really help this thread if people post their generic location and industry. Linux sysadmins working for a F500 online retailer in the USA is a 100% different market than a Windows sysadmin working at a hospital in Ireland.
+
+Rural Western US: professional services firms: Job market is great. Plenty of local companies giving in-person interviews at first call back."
+1mbge23,comment,n5mmys0,n5lyffy,Generic_User48579,,2025-07-28 23:56:57,36,"Yeah I'm based in Germany, started an apprenticeship as a software developer. Since finishing that I've switched employers twice every few years and I always had lots of positions to consider. I'm currently switching again and many of the positions are pretty good and I feel like I'm being wined and dined honestly.
+
+With my last employer I'm halfway into IT Security which seems to be even more sought after than IT itself already, so maybe it also has to do with that.
+
+If you have a passion for IT work, are not stupid and can sell yourself well you honestly will have a good time here."
+1mbge23,comment,n5mvcp4,n5mmys0,AmiDeplorabilis,,2025-07-29 00:36:45,3,"Been there, done that... I can vouch for that. Really good experience."
+1mbge23,comment,n5p1322,n5lyffy,ThrowingPokeballs,Sr. Sysadmin,2025-07-29 06:51:21,15,"Linux systems engineer for DoD, south. I hired for few companies and the amount of people lying on their resume to get their foot in the door was insanity, even with certifications and degrees. They could not tell you basic networking protocols, tech stacks, difference between frontend and backend, hell even the difference between SSDs and HDDs let alone explaining what SAS drives do differently. It’s a tough market, but if you know your shit and strike some luck you’ll be golden albeit being able to talk jargon decently and know what things mean or at the very least google stuff."
+1mbge23,comment,n5mi5ur,n5lyffy,MichaelScotsman26,,2025-07-28 23:34:36,11,Can you elaborate a bit more on rural west US?
+1mbge23,comment,n5n4kll,n5mi5ur,[deleted],,2025-07-29 01:18:51,15,"New Mexico, AZ (outside Phoenix), Utah, Nevada (outside Vegas), you get the point."
+1mbge23,comment,n5mh3ho,n5lyffy,Thy_OSRS,,2025-07-28 23:29:32,4,Yeah I thought this too.
+1mbge23,comment,n5nm3sr,n5lyffy,wmcscrooge,,2025-07-29 02:39:46,5,"Higher Ed is doing great too (relatively speaking). Public education sector is obviously seeing a hit with current administration but no higher education job is getting replaced by AI anytime soon. As long as they have the money to hire, they'll hire."
+1mbge23,comment,n5o817i,n5nm3sr,RubberBootsInMotion,,2025-07-29 04:24:26,3,"They'll try though.  Shoving ""AI"" into everything is literally the goal of the richest people and organizations in the world.
+
+It doesn't matter if it doesn't make sense or is counterproductive."
+1mbge23,comment,n5lzztu,1mbge23,Jmc_da_boss,,2025-07-28 22:06:13,58,"Remote: totally saturated
+
+Hybrid/Local: region dependent but far better"
+1mbge23,comment,n5mzr9t,n5lzztu,uptimefordays,DevOps,2025-07-29 00:57:08,22,"Remote is tough, there are limited opportunities as many organizations are hybrid or back in the office. It’s also worth considering that remote jobs are for senior roles which demand actual senior skills not “10 years of doing what you did year one.”"
+1mbge23,comment,n5n1sjo,n5mzr9t,Jmc_da_boss,,2025-07-29 01:06:18,10,"If you are hiring remote you have essentially the pick of the litter in terms of skill. HOWEVER you also have to wade through about 100 miles of shit/slop to find them. 
+
+Local is a lot more consistent hiring wise. lower ceiling but higher floor."
+1mbge23,comment,n5nwry4,n5n1sjo,uptimefordays,DevOps,2025-07-29 03:31:03,5,"My team hires remote, but we expect infrastructure engineers to know OS, networking, on prem hardware, public cloud, and OOP. We have no trouble filling these positions."
+1mbge23,comment,n5orl5z,n5mzr9t,SAugsburger,,2025-07-29 06:00:17,3,"This is the harsh reality on remote jobs. Some companies particularly ones that don't have deep pockets will hire someone that's a true senior fully remote, but those perpetually spinning their wheels career wise that as you said did year one ten years in a row there isn't much reason for companies to hire them remote."
+1mbge23,comment,n5oryp2,n5orl5z,uptimefordays,DevOps,2025-07-29 06:02:16,2,I mean we wouldn’t hire someone for infra who said “I don’t know networking I only know operating systems” on prem either—that applicant doesn’t know enough for the position in 2025.
+1mbge23,comment,n5mf21s,n5lzztu,Plastic_Willow734,Jr. Sysadmin,2025-07-28 23:19:50,5,"More or less in America you’re gonna have to live in a place that actually gets a winter (not including nyc, possibly Philly and Chicago"
+1mbge23,comment,n5lzkyh,1mbge23,christronyxyocum,Systems Engineer,2025-07-28 22:04:06,173,"It is terrible. Absolutely terrible. I was laid off on March 13th from my last company where I was a Senior DevOps Engineer for 6 years. Was with the company for 11. I just finally got an offer, after over 120 applications, as a Systems Engineer. The offer was higher than I expected, but only 65% of what I was making at my last company. Everything I applied for told me I was either overqualified or underqualified for a job I did for 6 years.
+
+I'm thankful I have a job, but the whole process was disheartening and had some major ups and downs.
+
+For reference, I am in South Eastern PA. I was previously working remote, but now will have to be on-site. Luckily it is only 12 minutes from my house."
+1mbge23,comment,n5m3tkc,n5lzkyh,[deleted],,2025-07-28 22:25:29,75,"Yeah this is my experience as well. The overqualified issue that shouldn't be an issue ""look, I just want to work. Who cares if I'm overqualified, you get more for less."" 
+
+And their response is ""we want someone who will stick around"" 
+
+Have they looked at the job market...?"
+1mbge23,comment,n5md2na,n5m3tkc,ms6615,,2025-07-28 23:10:25,20,This is part of why I stay so long in my current job that I am “overqualified” for…as proof to the next freaks that it is in fact my intention
+1mbge23,comment,n5mrri6,n5m3tkc,ThemesOfMurderBears,Lead Enterprise Engineer,2025-07-29 00:19:37,18,"They don’t like overqualified because they assume you are just taking that job because you have no other options, and you’ll leave as soon as something better comes along.
+
+Before I was in IT, I worked with a guy that would lie about having a master’s degree. He didn’t want people knowing he went that far in school."
+1mbge23,comment,n5mvglk,n5mrri6,[deleted],,2025-07-29 00:37:16,5,The funny thing to me about this thought process is that pretty much anyone regardless of skill level will jump for more money the idea that being overqualified will somehow change this is just asinine. Usually at lower level jobs the odds you lose the employee over them going to jail or getting addicted to drugs or getting engaged to a stripper or some early life crazy shit are higher too.
+1mbge23,comment,n5p1sfr,n5mvglk,ThemesOfMurderBears,Lead Enterprise Engineer,2025-07-29 06:55:11,3,"Yeah but the reality is that a person with credentials that go beyond the job they are at is inherently going to be more likely to leave a position than a less senior person working at where their skill level is. I’m well beyond my MSP days and probably overqualified for a lot of that work now (depending on specifics). Yet I’d take an MSP job given no other choice, and I’d hightail it out of these as soon as something better came along."
+1mbge23,comment,n5sgahg,n5mvglk,V2CS,,2025-07-29 21:30:39,4,"This is absolutely not true of ""pretty much anyone"". I know a lot of people who stay where they are because they prefer perks that are not guaranteed. I'm reasonably certain that at this point in my IT career I am probably qualified to go out and find a higher paying job in the field, but I work from home 80% of the time, am permitted to flex my schedule in almost any weird way that I want, and if I tell my team that I'm not coming in my one day a week the worst pushback I might get is ""You feeling ok?"".
+
+I'm not making bank here, under 6 figures in Chicago, but I make enough to pay all the bills and live comfortably with my wife. I wouldn't trade this for a 50% pay bump that meant I even risk having to go into the office every day and potentially am required to work 9-5, or that my employer might decide to start tracking my mouse activity or some other bullshit.
+
+Everyone else can chase the $1 more but I prefer my happiness, thanks."
+1mbge23,comment,n5mzf3j,n5mrri6,hume_reddit,Sr. Sysadmin,2025-07-29 00:55:37,5,"My first IT company would avoid hiring folks with Masters degrees... not for any concern that they would leave, but because said employees would swagger in like they had PhDs with barely more skill than a Bachelor's.  It was like the peak of [Mt Stupid](https://i.sstatic.net/wAbpc.jpg).
+
+Bachelor folk just wanted to get the job done.  And similarly, *actual* PhDs had seen the Valley of Despair, and they too just wanted to get the job done."
+1mbge23,comment,n5m5pt3,n5m3tkc,christronyxyocum,Systems Engineer,2025-07-28 22:34:53,19,"Exactly! I get where they're coming from, to a certain extent, but I need to keep a roof over my family's head."
+1mbge23,comment,n5m6otm,n5m5pt3,[deleted],,2025-07-28 22:39:37,22,"Pretty much ""I'll tap dance and sing for you so i can feed my kids, if that will help my chances"" I don't have kids but the sentiment stands. 
+
+And look, give me a chance when I need it, and you will Garner this crazy thing called ""loyalty"" and if you promote me internally as higher positions open up and show me that you value my service, you generate more loyalty ... Which means I stick around. 
+
+
+So if they are worried about people sticking around, maybe treat them with some loyalty .. shocking I know in our current world...."
+1mbge23,comment,n5ml4q5,n5m5pt3,WildChampionship985,,2025-07-28 23:48:28,10,"Right, I did 20 years in the Army for my wife's healthcare. You are the one who doesn't understand loyalty or what I will do or endure to support my family."
+1mbge23,comment,n5mr30h,n5m3tkc,dekyos,Sr. Sysadmin,2025-07-29 00:16:17,11,"This is why the ""where do you see yourself in 5 years"" question drives me up the wall.
+
+Karen, look at my work history. I've never been at a job for less than 3 years. This question is a waste of both our time."
+1mbge23,comment,n5nl6da,n5mr30h,lordjedi,,2025-07-29 02:35:19,3,"That sounds like something they'd be asking an intern or a junior.  I don't think I've been asked that question since my 2nd job in IT.
+
+Yes, it's a stupid question."
+1mbge23,comment,n5o8ldp,n5nl6da,RubberBootsInMotion,,2025-07-29 04:27:03,5,"HR and people managers still ask this in some form or another to make it seem like they have something useful to contribute.
+
+Technical managers do not."
+1mbge23,comment,n5momdi,n5m3tkc,fresh-dork,,2025-07-29 00:04:42,11,"&gt; And their response is ""we want someone who will stick around"" 
+
+give me good raises and a positive environment and i will"
+1mbge23,comment,n5mq0te,n5momdi,ktbroderick,,2025-07-29 00:11:17,7,"In the current environment, I'd settle for a positive environment and sustainable business model even with economic challenges.
+
+I find the overqualification concern particularly annoying when they post a salary range that's more than I've been making. Like, I'd happily do this job at that lower end of the range you posted, I would be damn good at doing it, and you don't want to interview me?"
+1mbge23,comment,n5mqfxh,n5mq0te,fresh-dork,,2025-07-29 00:13:16,3,"yeah, i'd change my tune then - ""that's a significant salary bump and less on my plate. i'll stick around, get promoted, and make even more for doing what i've demonstrated that i can do now."""
+1mbge23,comment,n5nfg43,n5momdi,Legionof1,Jack of All Trades,2025-07-29 02:08:15,3,"aye but in a shit economy when your taking a 40% hit, if the economy rebounds your out of there as soon as you can find a position."
+1mbge23,comment,n5nft9z,n5nfg43,fresh-dork,,2025-07-29 02:09:58,2,a smart company will look at this and decide to be proactive
+1mbge23,comment,n5nkvvz,n5nft9z,lordjedi,,2025-07-29 02:33:57,3,You mean you expect them to give you a 40% increase when the economy rebounds.  Are you also willing to take a 40% cut during the next downturn while staying at the same place?  I think we all know the answer to that.
+1mbge23,comment,n5p1c4u,n5m3tkc,goingslowfast,,2025-07-29 06:52:44,3,"Hit those points in your cover letter. 
+
+Identify why you want the “lower” role and why having that benefits you in your personal life. 
+
+I had that exact question about candidate that I ultimately hired. He said, “My kids are about to graduate and move out so I want to spend as much time with them as possible and I’d love the shorter commute for the 5 years I have until I retire. I’ve had the title and the salary before and I’m not looking for that again.”
+
+So I knew he was good for the five years until retirement and offered him the role. We actually got just over 6 years before he retired. 
+
+I was wildly overqualified for a role I took pre-pandemic and noted in my cover letter that I was looking for more time to work on a degree, ride my motorcycle &amp; spend time enjoying life. I mentioned that I had an upcoming natural decision point in my life’s trajectory in 24 months giving them comfort that I was happy with the role and the pay for 24 months. That got me the interview and the job."
+1mbge23,comment,n5mv2g5,n5lzkyh,Unicorndrank,,2025-07-29 00:35:24,6,"My experience was very similar.
+
+I was a director before and the only company that gave me an opportunity was as a Sr Analyst, 11% less then what I was paid so it’s perfectly fine with me but this layoff was a huge mind f*ck since I have been in the field for 12 years."
+1mbge23,comment,n5mze71,n5mv2g5,christronyxyocum,Systems Engineer,2025-07-29 00:55:31,8,"Don't even get me started on how shitty being laid off made me feel. I turned 39 this year and gave 11 years to that company. Over 25% of my life, even more of my working life. They locked me out of everything within 30 minutes. I couldn't do any KT with my coworkers, for their own benefit and because I liked them, or say goodbye to people. Nothing. Right to the curb."
+1mbge23,comment,n5nvpxf,n5lzkyh,After_Nerve_8401,,2025-07-29 03:26:00,3,"The tech layoffs in the Bay Area have never stopped. Although they have become smaller, they are now much more frequent. I know quite a few former FAANG employees who had to take jobs that require far more work for less pay."
+1mbge23,comment,n5pjfp9,n5lzkyh,Debonaircow88,,2025-07-29 08:32:59,2,"Im also in SE PA and was thinking of looking for a new job. Think I'll stick around a little longer with that experience. Sorry, you got laid off but congrats on the new job."
+1mbge23,comment,n5sbpid,n5pjfp9,christronyxyocum,Systems Engineer,2025-07-29 21:05:23,2,"Thanks. I should've gotten out of my last company last year, but grew complacent and comfortable."
+1mbge23,comment,n5m05n2,1mbge23,mdervin,,2025-07-28 22:07:04,120,"The IT job market only has two phases
+
+1) anybody who can fog a mirror and go eight hours without saying “I’m not a computer person.” Will have multiple offerings. 
+
+2) oh, you can repair any system wide outage costing the company millions of dollars per minute in 30 seconds or less? Put you CV at the bottom of the pile, we have 200 candidates who can do fix it in 15 seconds. 
+
+There is nothing in between."
+1mbge23,comment,n5n8viy,n5m05n2,ouarez,,2025-07-29 01:38:19,68,"2018:  It's ok that you only have one arm, we will grow you a new one for free and then teach you how to type using a keyboard. Training is paid of course and free food and coffee delivered to your home everyday. Fully remote position with unlimited PTO you don't even have to let us know, just sign off and go enjoy your life we'll wait
+
+
+2025: applicants must have 18 years experience with Angular, React, Vue, Svelte, Go, Rails, Python, as well as C+, a new hybrid of C and C++ that we invented last week just to mess with you and make our requirements even more absurd.  
+
+Applicants must submit to a 7 day mandatory skill evaluation, located at our remote assessment area  15 miles off the coast of Papua New Guinea. Transport will not be included and you are expected to find the island without directions.  
+
+Applicants must smelt and assemble a laptop from metal ore and other raw materials found on the island, and then write and compile a fully functional production ready version of the Linux kernel in assembly language.
+
+
+Applicants must remember to bring a portable desalinator as fresh water will not be available for the duration. 
+
+NOTE: our lawyers recommend to update your life insurance policy, and mail us a signed and notarized copy of your last will and testament before you apply. This will save us some trouble in the event you are unable to complete your evaluation.
+
+Salary range for this position: 18 to 22 / hour"
+1mbge23,comment,n5t5je8,n5n8viy,New-Sys-Admin,,2025-07-29 23:34:22,4,"*""Applicants must smelt and assemble a laptop from metal ore and other raw materials found on the island, and then write and compile a fully functional production ready version of the Linux kernel in assembly language.""*
+
+HAHAHAHA, this part had me rolling. Bravo!
+
+![gif](giphy|l3E6uhDAN3W7vylji)"
+1mbge23,comment,n5tpl4x,n5n8viy,wild-hectare,,2025-07-30 01:07:11,2,1099 no CTC
+1mbge23,comment,n5o1zhs,n5m05n2,sybrwookie,,2025-07-29 03:55:55,3,"It's because companies will seemingly always fluctuate wildly back and forth from, ""everything basically works, we don't see the ducks' legs churning under the surface, these lazy IT people must be doing nothing.  I bet we can save money with less staff/by outsourcing/by buying this thing a 3rd-party vendor is promising will fix everything for a fraction of the cost!"" and ""oh god, everything exploded and we fired/insulted/drove away everyone who knew what they were doing, quick, we need to hire a whole new group of people to get this under control again!""  
+
+And as companies trend in one direction, other companies who either care more about looking like they're on trend and companies who don't know what they're doing and figure following a trend means doing what others already know is smart, and we get those trends exploding in both directions."
+1mbge23,comment,n5lxwtp,1mbge23,Valdaraak,,2025-07-28 21:55:31,74,"We opened a *temporary* position for an AI/data related *intern* role that was clearly advertised as entry level, *in office*, and asking for 0-2 years experience.
+
+Within a day, we got over 200 applicants. Many of them from all over the country/world. Some of them with a decade of experience in the industry. Others pursuing Masters or higher level degrees. Almost all of them got tossed quickly and we've narrowed it down to five college kids from a local college who haven't spent a day of their life in an IT job.
+
+The current market is a shitshow and people are still shotgunning their resume to literally every position they see open."
+1mbge23,comment,n5mog9k,n5lxwtp,gravityVT,Sr. Sysadmin,2025-07-29 00:03:54,14,That hurts those people who are overqualified. Waste of time
+1mbge23,comment,n5n4q4r,n5mog9k,E-werd,One Man Show,2025-07-29 01:19:32,13,"That's not encouraging. Sometimes I fantasize about dropping back down to a traditional helpdesk role that would probably pay more than I'm making now. Oddly enough I actually enjoy that role at this point, and I'd love to lose the high-level stress. I'd probably be filtered out immediately with over a decade of experience."
+1mbge23,comment,n5p029q,n5n4q4r,goingslowfast,,2025-07-29 06:45:45,10,"I tried that and it didn’t work.  
+
+Within a couple months my job tasks were not helpdesk level and I realized if I’m doing the stressful things that require the skillset, I might as well have the associated title, pay, and team around me.
+
+If you could find a place that didn’t know your background, and convince your brain not to seek out tough problems, you might be able to do it though."
+1mbge23,comment,n5oa0mu,n5lxwtp,Caffeine_Monster,,2025-07-29 04:33:41,5,"&gt;shotgunning their resume to literally every position they see open.
+
+The problem is that the shotgunning is wider and faster these days with all the AI hijinks going on."
+1mbge23,comment,n5mqx38,n5lxwtp,Nik_Tesla,Sr. Sysadmin,2025-07-29 00:15:30,2,"We just hired a pair of interns, and we specifically worked with a local college, so we only got applications from students of theirs. Worked out great."
+1mbge23,comment,n5lvfgr,1mbge23,[deleted],,2025-07-28 21:42:36,253,[deleted]
+1mbge23,comment,n5lysmx,n5lvfgr,Shington501,,2025-07-28 22:00:04,55,My God this is accurate
+1mbge23,comment,n5mog8k,n5lysmx,mobious_99,,2025-07-29 00:03:54,23,"100%
+
+I've been doing this for 30+ changed job types numerous times. Now I'm in cloud stuff just trying to stay relevant one last time.
+
+I get hit up for jobs that have nothing to do with the title. The qualifications look like someone who took them and threw them in a paint can and then threw them against a wall to see what sticks. 
+
+Salaries are another thing, they're starting to pay less now for the same jobs I saw even 6 months ago. 
+
+I have a friend that it took almost a year get a new job after his company did the ""downsizing"" thing. 
+
+Really sad what it's come to, honestly I can't wait to get out of I.T. and have some peace."
+1mbge23,comment,n5m0vsr,n5lvfgr,AmiDeplorabilis,,2025-07-28 22:10:44,83,"Not to disagree--I don't--but it has also been pointed out that many of the jobs don't actually exist, that they have been created out of thin air and are simply used to collect information and pad recruiting stats. In other words, it's worse than we know AND there are highly qualified people who want these jobs, but the jobs don't exist."
+1mbge23,comment,n5m14aj,n5m0vsr,[deleted],,2025-07-28 22:11:56,32,yeah I forgot to mention the metric fuckton of ghost jobs thanks brother.
+1mbge23,comment,n5ndl1r,n5m0vsr,hamburgler26,,2025-07-29 01:59:35,14,"Or, they are posting them so that they can document ""See we tried but couldn't find a good candidate"" and then outsource."
+1mbge23,comment,n5nnint,n5ndl1r,AmiDeplorabilis,,2025-07-29 02:46:28,9,"Some of the job requirements are indeed over the top, wanting that one person who has such disparate skills as a DBA, sysadmin, dev ops, network engineer with Cisco/Juniper certs, programming skills, etc.
+
+In reality, you may not be too far off. After they have determined to not be able to find good candidates, they then outsource for multiple candidates to fill what is rationally multiple jobs, each one at a lower pay grade but which collectively pay much higher... higher commissions for the recruiting company, lower-wage employees for the hiring company."
+1mbge23,comment,n5qjclc,n5ndl1r,gashandler,,2025-07-29 12:14:51,2,Or they want to just hire their unicorn friend who the job spec is completely tailored for.
+1mbge23,comment,n5w55n4,n5qjclc,hamburgler26,,2025-07-30 08:16:04,2,"In my experience the ""Unicorn"" friend is completely unqualified but the department gets saddled with their bloated salary and incompetent decisions until both get banished, which if it does happens takes years."
+1mbge23,comment,n5m9cxe,n5lvfgr,exposarts,,2025-07-28 22:52:30,18,I see some it jobs listed aroind 16-20$.... My god some retail jobs(just being a standard cashier) pay as much as that lmfao it's fucking disgraceful. I suppose they do that because they know some people just want the experience and dont necessarily care aboit the pay.
+1mbge23,comment,n5mbm77,n5m9cxe,nerdyviking88,,2025-07-28 23:03:26,3,"I'd argue that some basic, entry level helpdesk is no more complex then retail"
+1mbge23,comment,n5mnwxd,n5mbm77,beastwithin379,,2025-07-29 00:01:22,17,"If that's the case than entry level help desk should have the same requirements as retail, aka a pulse. There's no point paying hundreds to thousands of dollars in certifications and degrees if you make the same pay at the local grocery store without them."
+1mbge23,comment,n5myx1d,n5mnwxd,Fantastic-Day-69,,2025-07-29 00:53:23,3,I spent 40k on batch tech and i cant feel i messed up. A welder makes 65 an hour with 5 years of exp.
+1mbge23,comment,n5n4hy8,n5myx1d,DigitalAmy0426,,2025-07-29 01:18:31,2,"Currently considering leaning more heavily into trade for that reason, plus it seems trades grease immigration wheels."
+1mbge23,comment,n5n8w0a,n5n4hy8,Fantastic-Day-69,,2025-07-29 01:38:23,3,"10000000% consider a ""white colour"" trade
+Electriciqn, welder, heavy enine repair. 
+
+There ie ads for the local bus setgice that mechanics can get 70 an hour on a 35h work week. 
+Plane or boat engines also. 
+
+Are you kidding me?! 130k for engine repair in like 5/6 years of exp?! 
+People will always need cars so getting into car repair is a good idea."
+1mbge23,comment,n5m63ws,n5lvfgr,WanderingWeasel,,2025-07-28 22:36:48,20,"I’m finishing up hiring for an expansion to my department. Two help desk, two sys admins, network and admin leads. No more than 30 applicants per position outside the few bot applications. Just an additional data point for a FI in the small billions tier. We’re in a mid size city."
+1mbge23,comment,n5mawz5,n5m63ws,[deleted],,2025-07-28 23:00:02,8,Did yall just not post on the job boards that is the only way I can think of this happened?
+1mbge23,comment,n5mctq0,n5mawz5,WanderingWeasel,,2025-07-28 23:09:14,3,I see applications from Indeed and such so fairly sure HR is getting it everywhere it needs to be. I’m fine with 30-100 candidates. Couldn’t imagine 600+ sifting through.
+1mbge23,comment,n5oati9,n5m63ws,thirsty_zymurgist,,2025-07-29 04:37:26,3,"US Mid-West/South, we are hiring for nearly the same positions except swap the sys admin for security. Pay is nearly identical (+~10%).
+
+Market is not exactly great but there are jobs and everyone I know in the industry has a ""decent/good"" job. Wages may not go up very much over the next year but that seems to be the way it is for all labor."
+1mbge23,comment,n5m6bi4,n5m63ws,DezurniLjomber,,2025-07-28 22:37:50,5,Are you offering 65k/yr ? Gotta be the catch22
+1mbge23,comment,n5m9byk,n5m6bi4,WanderingWeasel,,2025-07-28 22:52:22,10,"Leads 90-120, admin 80-100, help desk is right around 65. We’re relatively low cost of living here."
+1mbge23,comment,n5mhj90,n5m9byk,Conyewu,,2025-07-28 23:31:37,5,"This is why I need to find something else, ASAP. I move up from a Help Desk position into an AV specialist role and I make about 50k a year.
+
+It isn't sustainable, but finding another job just seems like an impossible feat."
+1mbge23,comment,n5mn8jh,n5mhj90,WanderingWeasel,,2025-07-28 23:58:12,2,Best of luck to you!
+1mbge23,comment,n5mq4ze,n5m9byk,cSecan,,2025-07-29 00:11:50,2,SysAdmins on which technologies?
+1mbge23,comment,n5mbboh,n5m6bi4,fuckedfinance,,2025-07-28 23:02:01,4,"Once you are outside of major metro areas and the west coast things are better. Not great, but certainly not hundreds of overqualified people applying for help desk jobs."
+1mbge23,comment,n5orvk1,n5lvfgr,SAugsburger,,2025-07-29 06:01:48,5,"The ""I want an IT department"" for not much more than McDonald's pays jobs keep getting reposted. They're not serious about hiring anyone. It is a ghost job."
+1mbge23,comment,n5mmhlo,n5lvfgr,uptimefordays,DevOps,2025-07-28 23:54:45,3,"Eh yes and no. For a modern infrastructure position we expect applicants with “5+ years of infrastructure experience” to know OSes, networking, and related services in some depth. It’s absolutely unclear how one could say troubleshoot a distributed application or service at an intermediate level without understanding both how services work AND how interconnections between nodes in the system work. It’s one thing for the helpdesk or level one folks to engage in speculative troubleshooting but if you’re infra you need to be able to think through issues and identify causes of problems not tell me “I think it’s the network.”"
+1mbge23,comment,n5nn0y2,n5lvfgr,heapsp,,2025-07-29 02:44:07,2,"I have the opposite experience in MA, I got 3 interviews with 4 applications."
+1mbge23,comment,n5lv6iv,1mbge23,Fa7her,,2025-07-28 21:41:17,40,"I'm from the South US- the local market here is normal, and I have gotten an interview every time I have applied somewhere. However, when I spent months applying for remote US jobs, I never got a single answer back from hundreds of applications. I was in the market for SysAdmin/NetAdmin positions, as well as managerial positions for the first four months of this year."
+1mbge23,comment,n5m0kye,n5lv6iv,derango,Sr. Sysadmin,2025-07-28 22:09:13,18,"This is my experience. If you're trying to get a remote job, you better know somebody or you might as well not apply. Market is flooded with AI bots and out of work silicon valley types that got laid off and you're competing against 1000 other people for a single role.
+
+Local Hybrid or on site jobs are out there, depending on the market, but there's a lot of entry level stuff or stuff paying entry level wages for not entry level positions. I just completed a job search. Landed two interviews through recruiters, and got offers, but passed on both due to the fit not being right, and then the third was one I cold applied to through indeed and they pulled me in for an interview and I got another offer which I ended up accepting. There's another position in higher ed that I'm in theory supposed to get called back on, but they take FOREVER...
+
+EDIT: I'm in upstate New York, for geographic location. I was looking for a system admin role with a primary focus on either networking or datacenter virtualization/SAN storage administration. I've got \~7 years of experience in software development and \~13 or so years in enterprise infrastructure IT"
+1mbge23,comment,n5oitw9,n5m0kye,Tuns0funn,,2025-07-29 05:15:51,2,"I've had a similar experience and am also located upstate. In-person positions seem to be gaining more traction, but remote jobs especially for cleared roles are practically nonexistent. Lately, I've had a good number of interviews, mostly for positions requiring a clearance, but many of them are in areas of the country that aren't ideal for me, like the DMV region. So far, I've only had one interview for a job locally but everything else has been out of state. 11 yrs sys admin experience here with a TS."
+1mbge23,comment,n5lvber,1mbge23,ImBlindBatman,,2025-07-28 21:42:00,58,"From my perspective, the market is still very much oversaturated and will likely continue to be as AI matures."
+1mbge23,comment,n5lxi55,n5lvber,ImBlindBatman,,2025-07-28 21:53:25,8,"
+Edit: but this depends on where you are, physically, and professionally in the world. This is just what I see in my local/regional orbit"
+1mbge23,comment,n5m0u6q,n5lxi55,freezeontheway,,2025-07-28 22:10:31,3,Agreed
+1mbge23,comment,n5madrd,n5lvber,jimmothyhendrix,,2025-07-28 22:57:27,18,Always indians 
+1mbge23,comment,n5n432e,n5madrd,E-werd,One Man Show,2025-07-29 01:16:40,5,"I like that one.
+
+Can you imagine what it would be like to be a competent Indian IT worker, unrelated to any schemes or call centers, trying to get a job right now? That's got to be frustrating. We're all so tired of dealing with those scammy types, the poor bastards would probably be filtered out so fast."
+1mbge23,comment,n5lvs9e,1mbge23,Garfield-1979,,2025-07-28 21:44:28,11,What market?
+1mbge23,comment,n5m0p0u,1mbge23,brownhotdogwater,,2025-07-28 22:09:47,12,Remote jobs are super hard to land.  On site is bad in full swing and your best bet.  I got almost nothing from remote job ads but on site I had a few interviews within weeks.
+1mbge23,comment,n5lvcu4,1mbge23,FederalDish5,,2025-07-28 21:42:13,57,"It sucks. We need more job security and better earnings. IT people need to gather and close the market a little, same as doctors or judges.   
+Now we simply sacrifice our money, time and lifes so big tech can earn a shitload of money.
+
+  
+They need to pay up. They need to use this money so everyone can have a batter life (throw it to devs to develop more user friendly software and throw it to workers so they can secure).
+
+  
+IT sucks, unless you are in sales - then you just talk shit and earn money."
+1mbge23,comment,n5lxl0d,n5lvcu4,fakehalo,,2025-07-28 21:53:49,28,"That's not gonna happen though, as the barrier for entry into IT is low.  There will always be people to fill the gap that don't care about unionizing."
+1mbge23,comment,n5nchgz,n5lxl0d,Fallingdamage,,2025-07-29 01:54:36,7,There are also way too many underskilled IT 'professionals' out there that dilute what it means to be good at your job. C suite just assumes we're all geek-squad workers with no life or self-esteem. There is a gradient of professionals in his field and they all see us as one color.
+1mbge23,comment,n5m6j50,n5lvcu4,dlama,,2025-07-28 22:38:51,15,Back in the day IT was so specialized it really didn't need a union. But it's becoming pretty apparent now that a general IT union might be necessary.
+1mbge23,comment,n5m1nr3,n5lvcu4,ReadyTheCanonz,,2025-07-28 22:14:41,7,"So you're saying we need to unionize?
+
+...Well, so much for that. It was a good run.
+
+((Want to specify I am pro union. Love unions. Way too many people I've met in this industry disagree.))"
+1mbge23,comment,n5msw3q,n5m1nr3,dekyos,Sr. Sysadmin,2025-07-29 00:25:03,2,I'd join a general union in a heartbeat. But it's never going to happen. Too many brainwashed morons running around thinking that the $50 a paycheck they'll pay in dues is somehow more than the benefits and likely higher pay they'll get from it.
+1mbge23,comment,n5ry1lv,n5lvcu4,LaserKittenz,,2025-07-29 19:40:20,2,What?! IT is one of the best paying professions you can get.
+1mbge23,comment,n5lwz25,1mbge23,kefkas,,2025-07-28 21:50:41,18,"I was job hunting after a layoff in October for mid level sysadmin/engineer jobs. I found myself in the final rounds of interviews for three companies around Thanksgiving.
+
+My experience was better than I expected. I ended with plenty of severance left and a pay increase, but I have job experience, degree, and an arm load of certs.
+
+My old coworkers who dont have the degree or certs had a lot more trouble, and most of them didn't start finding work until February/March. Most took pay cuts as well.
+
+Edit: Midwest nestled between some medium-sized cities, I didn't bother applying to remote roles."
+1mbge23,comment,n5lydl3,n5lwz25,myoutlet101,,2025-07-28 21:57:56,6,Which certs do you have?
+1mbge23,comment,n5lztm0,n5lydl3,kefkas,,2025-07-28 22:05:20,8,"The degree was from WGU. Network operations and security
+
+The certs were the ones required for that path: CCNA, comptia trio, Project +, the basic AWS one, and a few other unimportant ones."
+1mbge23,comment,n5m8djo,1mbge23,uptimefordays,DevOps,2025-07-28 22:47:48,8,"The market seems fine if you have current skills, I think we’re seeing the longer term impact of a broader shift from “2000s-2010s wintel/VMware admin” to either M365 admin or more general engineering roles like cloud, devops, or SRE.
+
+It seems like the M365 admin roles are a move down unless you’re an implementation expert for an MSP or consulting company. Meanwhile the engineering roles require a broad skillset folks here consistently complain “is unrealistic” or “unicorns” but has become the norm for the roles folks want."
+1mbge23,comment,n5noqpy,n5m8djo,Leucippus1,,2025-07-29 02:52:18,4,"I try to explain this to people, you need to evolve. I left a job and came back, when I came back 5 years later the guys had created powershell classes with functions that automate almost every process we have. I had to create a VM for some reason and I typed ""New-\[companyname\]VM"" and answered a few questions and a few minutes later there was a VM ready which was already joined to the domain. 
+
+We are introducing containers and github actions and all that good shtuff (I had to go in front of a committee to have Linux approved in the domain) that replaces button clicks with writing code that will break in 7-8 months when some knobhead changes a module/library without telling us. C'est la vie. 
+
+Is it unrealistic? I don't know, not for the money we are getting paid."
+1mbge23,comment,n5nvi7p,n5noqpy,uptimefordays,DevOps,2025-07-29 03:24:58,2,This is just what the job looks like. The people who think it’s unrealistic or don’t wanna learn are the NetWare admins or bare metal folks of the early 2000s.
+1mbge23,comment,n5pry7n,n5noqpy,atrca,,2025-07-29 09:21:50,2,"I think you put this nicely and that’s good advice. If I had someone asking me for advice I would say tailor the application to the job/company as well.
+
+So many sankey diagrams of hundreds or thousands of applications. We all know each posting is getting hundreds of apps. Chances are some kind of AI is vetting it. If you apply to a company and don’t get a call. Tweak the resume and try again. Also be early. I think they are probably already to interview scheduling within 1-2 weeks. 
+
+I have no name catching companies in my past. The most impressive thing imo on my resume isn’t even in my current roles toolset. My current role is at a major firm and I had no referral or network to draw on and got it after only a few tries.
+
+I generally only put 2-5 apps in every few years and find something. And if I get an interview I am researching the company, branch, news whatever and bringing it to the interview. They make me nervous but the interviews the easy part. Getting the interview is the challenge. Tweak the resume and/or the format if you aren’t getting calls. It can look great but that doesn’t matter if only you or the computer are looking at it. Get the foot in the door to get eyes on it or a conversation.
+
+I’ll end by saying maybe I’m lucky but I’m no one special on paper. Network helps a lot too. Most every job I got before my most recent one was leveraging an acquaintance but that’s not always a given and when it’s not, tailor the resume."
+1mbge23,comment,n5m1q3i,1mbge23,Silver-Interest1840,,2025-07-28 22:15:00,21,"we laid people off, and are hiring them back in India.  Same as we've been doing for 10 years now."
+1mbge23,comment,ngzr9jt,n5m1q3i,dbaservice,,2025-09-30 20:02:57,2,That has been going on since 1990. Look at all the CEOs of top tech companies in USA. They have been happily offshoring jobs in their home countries while laying off US workers. Amazon laid off 25000 employees while they hired 15000 H1B. Facts speak for itself.
+1mbge23,comment,n5lwfi5,1mbge23,princessdatenschutz,technogeek with spreadsheets,2025-07-28 21:47:50,7,"Depends on where you are and what market. My area is hurting for IT people badly, still, and basically never stopped even when the US market went in the shitter."
+1mbge23,comment,n5lyo9u,n5lwfi5,Specialist-Ad7393,,2025-07-28 21:59:27,3,What area are you in?
+1mbge23,comment,n5m2jsr,n5lyo9u,princessdatenschutz,technogeek with spreadsheets,2025-07-28 22:19:10,5,Germany
+1mbge23,comment,n5muo33,n5m2jsr,traumalt,,2025-07-29 00:33:30,3,"Though the question is, presumably you guys require German language skills?
+
+Because IT market for mostly English jobs is very dead In Netherlands."
+1mbge23,comment,n5ly9zz,1mbge23,DefinitelyNotDes,Technician VII @ Contoso,2025-07-28 21:57:24,7,"In my area, a moderate amount of companies hiring but WAY too many applicants, mostly from currently employed IT workers that are unhappy with their wages due to inflation."
+1mbge23,comment,n5mt7bd,n5ly9zz,dekyos,Sr. Sysadmin,2025-07-29 00:26:32,7,"therein lies the problem. Companies don't give competitive raises anymore. They expect us to either take it for the team or move on and be replaced, usually with a candidate making way more than a decent raise would have cost. It's fucking stupid."
+1mbge23,comment,n5m1jkh,1mbge23,davy_crockett_slayer,,2025-07-28 22:14:05,7,"You need a CompSci degree or experience to be competitive for desirable roles such as Cybersecurity or DevOps. Yes, it is possible to not have anything, but that's the exception, not the rule."
+1mbge23,comment,ngzqpmv,n5m1jkh,dbaservice,,2025-09-30 19:59:13,3,"I have a MS degree in Computer Science, 41 Certificates and 24 years of IT infrastructure and 12 years of AWS cloud architect experience. Without a job since October 2023 till December 2024 and again from March of 2025. A lot of recruiters based out of India who are using fake English name are calling and they are looking to hire a unicorn with Indian market salary. I stopped accepting them in my LinkedIn list. 
+ So, give me a brake."
+1mbge23,comment,nh17plx,ngzqpmv,davy_crockett_slayer,,2025-10-01 00:39:13,3,"Ah, sorry :( Is the job market that bad? That’s awful and I’m sorry you’re in that situation.
+
+All of my colleagues and friends that are getting jobs right now, are getting work through their network. That’s the only way I’ve seen it happen, unfortunately. :(
+
+I can’t wait for this terrible job market and economy to end."
+1mbge23,comment,n5m39rf,1mbge23,MasterL001,,2025-07-28 22:22:46,6,"As someone who was recently laid off and that's actively on the hunt. All I can say is this job market is weird. This is the first time I've experienced roles getting cancelled\put on hold while you are actively interviewing for said role, referrals don't have the impact like they used to, and the ghosting is out of control. While I'm close to a major tech hub it's looking more and more likely that I'm going to have to take a pay cut if I want to have any chance to have something lined up before my severence runs out."
+1mbge23,comment,n60e4px,n5m39rf,YeetedApple,,2025-07-31 01:07:37,3,"I just had pretty much the same experience. Was also laid off recently, and had multiple roles get canceled while going through the process with them. At least around me, sysadmin roles were basically nonexistent any more and was fighting other sysadmins over desktop support type roles just to get something. I was at least able to land one of the desktop support positions and negotiated a senior level of it from my experience, but I'd agree that weird is a perfect description of the market right now."
+1mbge23,comment,n5lzsz9,1mbge23,RestartRebootRetire,,2025-07-28 22:05:14,6,"I made a bad decision to stay in a small business for the majority of my career, so I never got great benefits or rose in the ranks, but in my graybeard years I am actually quite content now in another small business as their sole IT department.
+
+Pay and benefits are very good for the area, and they appreciate me to no end after having been burned by MSPs for years."
+1mbge23,comment,n5mcu8j,1mbge23,Phyxiis,Sysadmin,2025-07-28 23:09:18,6,I believe there are a lot of ghost jobs . Haven’t gotten barely any even rejection emails it’s crazy  right now I think in my recent experience
+1mbge23,comment,n5m0ay1,1mbge23,Expensive-Rhubarb267,,2025-07-28 22:07:48,5,"challenging for new entrants:
+
+\-post covid hiring hangover  
+\-uncertainty  &amp; skills churn (slow death of the GUI only sysadmin). Plus cloud-repatriation &amp; broadcom aquiring Vmware  
+\-tech firms racing to grab a slice of the AI pie, charging more for everything. Less money for IT departments to spend on staff.  
+\-lots of new entrants looking at IT as a safe career bet.
+
+Picture if different the more senior you are. If you have a broad(ish) skillset then you put yourself in a better position. Market favours generaists over narrow specialists at the moment.
+
+I'm sure it'll recover. But it'll take a while."
+1mbge23,comment,n5m65gu,n5m0ay1,Cheomesh,I do the RMF thing,2025-07-28 22:37:01,2,"How does one escape the GUI only sys admin?  When I still did it, GUI was mostly what I worked through with limited PS/batch files in use."
+1mbge23,comment,n5mb9vz,n5m65gu,pinkycatcher,Jack of All Trades,2025-07-28 23:01:47,6,"Learn a programming language and put it into practice, and learn business. 
+
+So if you're doing something in PS, just do everything in PS, create scripts and automations. Hook that up to a SQL database and learn SQL. Now you've done that, do some Python to do some advanced programming, pass data off about your environment and manipulate it and then use that to automate things. 
+
+If you can use those three, you can build basically any application a company ever needs and you can slot yourself into a really wide variety of jobs."
+1mbge23,comment,n5maudc,n5m65gu,Expensive-Rhubarb267,,2025-07-28 22:59:41,2,"Start slowly, Use something like Powershell DSC or Terraform to spin up &amp; configure some VMs. Think about actual automation with Azure Automation Accounts, Terraform, Ansible, Puppet, etc. rather than just 'magic scripts'.   
+  
+Then try looking at cloud native principles &amp; think about how to integrate them into your on-prem setup (if appropriate)."
+1mbge23,comment,n5nj7e2,n5m65gu,themaverick1313,,2025-07-29 02:25:56,2,Do the things you do regularly with a GUI without it and mess up a bunch of times in the process and eventually it'll click. Atleast you have the GUI process to fall back on to correct the learning mistakes.
+1mbge23,comment,n5lzama,1mbge23,mixduptransistor,,2025-07-28 22:02:38,3,"I think it's very lumpy. I am much more on the cloud/devops side but in this weird IT crossover, not purely dev related, and I started a job search thinking it would take 6 months but I lucked into a job just 3 weeks after starting my search, landing a position that had been open for 4 months
+
+It was very much circumstance, I was in the right place and the right time willing to take job that while flexible about it, is primarily in-office
+
+Some people with seemingly great resumes are going without a job for a year. You hear stories on this very subreddit of people falling backwards into jobs they really don't qualify for. It's very obvious it's easier to find a job if you already have one, and also you need some way to cut through the AI and bot slop applying to every job
+
+Don't apply to jobs that take applications directly on LinkedIn. Easy Apply on LinkedIn is a joke. Spearfish your opportunities and tailor your resume and do as best you can to make it look like a human wrote it not AI"
+1mbge23,comment,n5m0c8d,1mbge23,ballzsweat,,2025-07-28 22:07:59,3,"Old head here, my experience usually opens doors but there are very few doors nowadays!"
+1mbge23,comment,n5mexc1,n5m0c8d,vhalember,,2025-07-28 23:19:12,4,"That's been my experience.
+
+In 2022, I got roughly a dozen headhunters per week trying to scalp me from my employer.
+
+In 2025, I get a small pack of headhunters about once every three months, usually hiring for the same position - competing with one another."
+1mbge23,comment,n5m74c9,1mbge23,JealousRhubarb9,,2025-07-28 22:41:42,4,What i notice is help desk is one of those “everything in one” jobs. Your expected to just figure it out for $22 a hour. It’s insane
+1mbge23,comment,n5mbq1a,1mbge23,matthegr,,2025-07-28 23:03:57,4,I know of two really good IT engineers struggling to find a job.
+1mbge23,comment,n5nmiw8,1mbge23,heapsp,,2025-07-29 02:41:45,5,"For systems administrators, bad.
+
+For network engineers, good.
+
+For cloud and security engineers, excellent.
+
+I was nervous entering the market after being with the same place for 15 years as a cloud engineer that didn't do much cloud engineering... But I got interviews with 3/4 applications I submitted.
+
+It will be hybrid or in office roles only though, remote work is tougher.
+
+MA"
+1mbge23,comment,n5lxrbh,1mbge23,red5_SittingBy,Sysadmin,2025-07-28 21:54:44,3,"I just changed jobs. From sys admin to sys admin.
+
+It's still very hard to get noticed for national work-from-home jobs, at least in the sys admin market. A lot of auto replies, but I was able to land 3-4 initial interviews before eventually being passed on. I can't speak to the tech support/help desk roles. There were a lot of those listed, and I'm sure they get thousands of applicants. 
+
+Locally is a different story... I live in the rural north east. I had three interviews with three different companies. Nothing seems to be limiting the hiring here. Where I live though, the pay doesn't reflect what I could get in a larger city, so the offers were a little low. But I was able to find something I liked and successfully switched jobs in about 2 months."
+1mbge23,comment,n5m0ru8,n5lxrbh,Ok_Response9678,,2025-07-28 22:10:11,2,"Are they smaller operations? Feels like small shops need the skills, especially if they have older systems that need to be dragged into the current decade. Otherwise they're contracting it out to some larger 3rd party who probably needs your skills anyway.
+
+Entry level is a whole other story though."
+1mbge23,comment,n5m4hh5,n5m0ru8,red5_SittingBy,Sysadmin,2025-07-28 22:28:45,2,Two of the three were small shops. The third was a university.
+1mbge23,comment,n5m0d1a,1mbge23,RickSanchez_C145,Security Admin (Infrastructure),2025-07-28 22:08:06,3,"From my neck of the woods its rough for IT but im seeing its really tough for people in the Tier 1-3 roles - if its more specialized roles then people seem to be moving around ok.  Cyber Security is brutal, but I think the market oversold how people get into those roles."
+1mbge23,comment,n5m30yf,1mbge23,djgizmo,Netadmin,2025-07-28 22:21:32,3,"The reality is being a sys admin generalist , pc generalist, cloud generalist, or any general tech person is being superseded by AI / AI Agents.  While it may be done poorly now, the IDEA is there.  Same thing happened when manufacturing of cars started to become more automated. Initially the welds were terrible and inferior, but over time, it got better and better.  Now we have less humans on a car assembly line.
+
+Instead of needing a team 5 sys admins, a network admin, and 10 help desk reps to reset passwords and restart printer queues all day, setting up / terming accounts, standing up vms.... you reduce that headcount by half. 3 sysadmins, no network admin, and 5 help desk reps, and the sysadmins now manage AI agents which do most of the work that the help desk was doing prior, allowing the 5 remaining reps to provide top tier customer service / training / or other physical hands on help.  The sysadmins check the logs for the AI agents weekly, and are alerted for problems/failures of those agents.
+
+Even with expensive tooling, this is a massive money savings of $500k per year.... year after year, and in theory, a quality of life improvement for the persons IT serves and also for IT themselves to stop doing mundane.
+
+This is causing a mass hold on hiring due to this carrot.
+
+My suggestion for anyone wanting to get into IT, find something that interests you, and go deep into that niche.   Instead of just wanting to be a linux admin or Windows admin, you should look how you can design a ""1 click"" deploy domain controller, dhcp server, print server, dns server, nps server, and CA to be able to expand a company
+
+Does this mean you need to be expert in all of those things.... probably not, but if you're going to be windows based admin, go balls deep.
+
+On prem AD is going away in a LOT of orgs, both large and small.
+
+I got lucky.   I fell into networking (after a LOT of pain of help desk) and have gone deeper into the rabbit hole. I've done some wierd things in networking which become permanent solutions.  (Like actually DST NAT targeting the broadcast address of a subnet to make WOL work across a different vlan)
+
+However, eventually, I can see systems like Unifi, Netgear ProAV, and Extreme automating most of my work away to the point I'm only called in to troubleshoot things."
+1mbge23,comment,n5o9opn,1mbge23,NRG_Factor,,2025-07-29 04:32:08,3,"I’m in AR and I literally can’t find anything. I have been hired twice and canned twice, not even due to my own fault (which both companies told me upon laying me off)
+
+Honestly even with 8 years experience in cabling, networking, administration and other things I just feel entirely hopeless."
+1mbge23,comment,n5pohh3,1mbge23,kuahara,Infrastructure &amp; Operations Admin,2025-07-29 09:01:49,3,"I interviewed 10 candidates for a position last year, and it was mostly some of the dumbest people alive that made it to the interview."
+1mbge23,comment,n5qvhev,1mbge23,300HPWasAlotBackInTD,,2025-07-29 13:52:34,3,Either you get a job or you don’t
+1mbge23,comment,n5lxcyb,1mbge23,[deleted],,2025-07-28 21:52:41,6,"I’m on my 6th or 7th year of my career. Only by the grace of God have I managed to stay employed and moving up the ladder. I am currently working in a FAANG company. 
+
+I feel optimistic about my job prospects, given my experience. "
+1mbge23,comment,n5n23tx,1mbge23,Scary_Bus3363,,2025-07-29 01:07:43,3,"Too many degreed people and paper admins in the market. The people who actually are good at the job get weeded out because they dont need either to succeed in better markets. 
+
+A degreed inexperienced tech, in my experience is the absolute worst type to work with. Know it alls who know nothing except how to talk too much."
+1mbge23,comment,n5lxnvt,1mbge23,Candid-Molasses-6204,Ignorant Security Guy who only reads spreadsheets,2025-07-28 21:54:14,2,"Salaries are like pre COVID, the amount of people trying to get any tech job is REALLY high and the number of qualified candidates is also overwhelming at times (depending on role and salary). That being said there are a lot of hacks out there who can't spell command line posing as insert ""X IT skill here"" and that isn't helping."
+1mbge23,comment,n5m0rdg,1mbge23,BrainWaveCC,Jack of All Trades,2025-07-28 22:10:07,2,"The entry level market is really hurting...
+
+And there are lots of applicants (real and bots) to every role.
+
+But depending on location and role specifics, things are either just slower than in the past, or quite miserable, with long lead times.
+
+And there is increasing wage pressure (downward, of course)."
+1mbge23,comment,n5m787s,1mbge23,[deleted],,2025-07-28 22:42:14,2,"From monitoring multiple subreddits focused on the IS job market and based on personal experience, it seems increasingly oversaturated. This has been amplified even more so as organizations shift toward SaaS solutions over traditional IS models.
+
+Add to that the accelerating growth of AI, and it's hard not to see a future where job growth in IS stagnates or even shrinks. As SaaS becomes the norm, I could foresee a future where infrastructure roles disappear entirely; either outsourced to consulting firms or managed by minimal in-house teams.
+
+My take would be that within 10 years, most infrastructure-related positions will either be obsolete or heavily consolidated."
+1mbge23,comment,n5mbn68,1mbge23,t_whales,,2025-07-28 23:03:34,2,"It depends. Depends on you, your skills, and your personality. The IT job market is always “bad”. Like with anything, skills and luck will get you a long way"
+1mbge23,comment,n5mkdec,1mbge23,Va1crist,,2025-07-28 23:44:58,2,"It’s really bad , even though I am in the government sector , the budget cuts , current trend of electing idiots in charge has really damaged IT in the government sector at least in my area , and now we are in a full job freeze until 2027 so we won’t be hiring anymore IT across the whole agency for years , even people that leave will have to go through major reasons why they need to re fill its bad, can’t imagine the private sector right now"
+1mbge23,comment,n5mm6k1,1mbge23,RhymenoserousRex,,2025-07-28 23:53:21,2,"Part of the problem is the market is saturated with ""Fakes"" now just like it was 20 years ago. We literally had one guy show up for an interview, get hired, then on the first day a completely different person was on Camera saying ""Ready to go boss"".
+
+This has happened twice, I've never seen such insanity."
+1mbge23,comment,n5mvu4x,1mbge23,chodalloo,,2025-07-29 00:39:04,2,"I've been applying for work in the greater Melbourne area for about 2 weeks and have an interview after around 80 applications, the majority of which were through LinkedIn Easy Apply. Seems like the market is pretty tough right now."
+1mbge23,comment,n5n5xqe,1mbge23,Last_Sir2496,,2025-07-29 01:25:02,2,"Enterprise SysAdmin, Physical Infra, Virtualization-HyperV-Vmware, Windows Servers and End-Point Hardening.  There's roles out there, but it appears as soon as they are listed people are flooding them. From what I am gathering is maybe half of them are Ghost Postings. I am also hearing that a lot of people are tailoring there resumes to match what the recruiters/companies are actually looking for, in other words.... in the real world these people are less than 50% or lower for what the listing actually calls for. My resumes, Match my exact skillset and I only apply to postings that I meet at a minimum of 85% of what they are asking for. Hope that helps. I would also note, if you have a heavy stack and not just a basic T1 T2 person, you can likely land something remote or hybrid easier than someone who does basic triage."
+1mbge23,comment,n5nvjkv,1mbge23,kerosene31,,2025-07-29 03:25:09,2,"I feel like in 2021-2023ish, we had the post-covid boom.  I half expected recruiters to be sitting on my porch when I get home.  I got so many cold calls for jobs.  It was nuts.  
+
+Companies over-hired and panic hired.  People were jumping around and getting huge jumps in salary.
+
+That kind of crashed.  Hopefully, things will recover to some sort of happy medium between the two extremes.  Right now, be ready for ""ghost jobs"" (postings that aren't real), lowball salary, and tons of competition.  
+
+I used to have a simple $100,000 salary filter on Indeed.  2023 and before?  I'd have pages of jobs.  Suddenly, there was just nothing.  I thought my filter was failing, but I dropped it down to $75k and there's some jobs.  
+
+Beyond that it is definitely region specific.  I've heard anything from bad to really bad."
+1mbge23,comment,n5tow9c,1mbge23,irohr,,2025-07-30 01:04:01,2,Offshoring has killed the industry. Any gig thats historically been great is now getting done by someone from the phillipines. Its only going to get worse as well.
+1mbge23,comment,n65ibt4,1mbge23,gakazan,,2025-07-31 20:22:04,2,"In my opinion, the market is not saturated, but rather they started to choose better, a year spent looking for vacancies in the area, several selection processes and nothing, could it be that they were not qualified or were there better people?  This was a question that echoed in my mind, so I continued studying and qualifying in my time, my brother had already been working in the area for about 3 years and recommended me to another company that his boss knew, a friendly 20-minute chat, about 3 technical questions and some practical tests on a daily basis, I have the job, so if I were to give you a tip, I would tell you to study hard, practice and create connections with those who are already in the area, I'm not in the IT area I want yet, but studying to get there, a lot of patience and that's it."
+1mbge23,comment,n5lv2qn,1mbge23,[deleted],,2025-07-28 21:40:44,8,[deleted]
+1mbge23,comment,n5lwu4k,1mbge23,Dramatic_Teacher8399,,2025-07-28 21:49:58,3,There is not much to be saturated. As it has already in too much saturated area
+1mbge23,comment,n5m1je0,1mbge23,Cruxis192,,2025-07-28 22:14:04,3,"The field is becoming oversaturated by people who refuse to put the time in to develop the skills that come with entry level positions. They would rather take the easy route with chasing high value certifications, but they slowly get filtered out as the length of time increases in the job market.
+
+It used to be common thought that applicants were jumping every year to chase a higher a salary or the perfect job. But the reality is they've held the same position over the last 5 years in those short 9-12 month stints because they knew they would be let go because the employer learned that they can't do the job.
+
+Nobody in this market should think they are above the entry-level positions. The skills you learn and develop in the first 5 years at the bottom is what will make you strong in the field."
+1mbge23,comment,n5lz8uj,1mbge23,Olleye,IT Manager,2025-07-28 22:02:23,2,Crashed.
+1mbge23,comment,n5mazzn,1mbge23,Caddy666,,2025-07-28 23:00:25,2,fucked.
+1mbge23,comment,n5lypox,1mbge23,Sufficient_Yak2025,,2025-07-28 21:59:39,1,"Well you live in an age of AI, so it’s incredibly easy to scaffold a résumé and mass apply to jobs. Then by some miracle if they get the job, because of AI, they actually have a shot of doing the job. So yeah, competition is going to get a lot steeper.
+
+Then, automation actually is king. So businesses are going to leverage AI to automate as many tasks as humanly possible to where, after a decade or so, as employee attrition just normally happens, they won’t fill the job openings anymore.
+
+So basically, get the bag while you can because there won’t be a bag in a few years anymore. If you’re not automating these tasks that management finds so valuable, you will never be promoted to a “we can’t lose him” status and that’s it for you."
+1mbge23,comment,n5m1h4c,1mbge23,ForgettableJesse,,2025-07-28 22:13:45,1,Great if you don’t live in the US. All of our vendors use low cost labor in other countries. We have more 3rd party contractors in other countries than we do IT employees. Every IT employee on staff is doing 3 jobs
+1mbge23,comment,n5mahjx,1mbge23,seamonkey420,Jack of All Trades,2025-07-28 22:57:57,1,"From what i've seen w/three prev co-workers who were let go a month ago or so.  Its all about having a network with employed IT people. my peeps are high in the IT ranks though but all found jobs via network of prev IT people / co-workers. 
+
+Not as good pay but very close.  a few other people i know not in IT and don't have as wide of a network are def having problems (however they are also in marketing so... yea..)"
+1mbge23,comment,n5mb9jp,1mbge23,Space-Boy,button pressing cowboy IV,2025-07-28 23:01:44,1,"looking rough, been applying here and there to see if I can increase salary. have gotten one interview in ~250 applications"
+1mbge23,comment,n5mdlx8,1mbge23,Deodedros,,2025-07-28 23:12:59,1,"Im not sure tbh. In my area there some companies hiring, in fact a recruiter reached out to me to apply. Sadly though I didn't even get an interview, so my resume must've sucked big time"
+1mbge23,comment,n5mfgof,1mbge23,ImaginationFlashy290,,2025-07-28 23:21:46,1,"Maybe things will change, but it seems like a race to the bottom. I.E: Who can have the most credentials, handle the most work, for the lowest amount of pay?
+
+Build your own escape, rather than fighting for promised crumbs of the future imo"
+1mbge23,comment,n5mj8q0,1mbge23,native-architecture,,2025-07-28 23:39:42,1,"We need seniors , we get juniors."
+1mbge23,comment,n5mn6p8,1mbge23,[deleted],,2025-07-28 23:57:58,1,I left IT 10 yesrs ago after getting brought on as a project resource and was hired FT in a tech risk mgmt capacity. Best move i ever made. It was a yearly struggle in IT to get ahead.
+1mbge23,comment,n5mnff6,1mbge23,Mae-7,,2025-07-28 23:59:06,1,Curious to know who exactly is from where in this thread. I know Europe has a very difficult time looking for opportunities compared to the U.S.
+1mbge23,comment,n5mq9im,1mbge23,Woolfie_Admin,Jack of All Trades,2025-07-29 00:12:25,1,"IMO, it's stable but not growing - despite my own operations growing. Because people don't want to invest in IT Infrastructure. They see AI, and devs being laid off - and think that you can vibe-code your way to security and integration. You can't. Where we're suffering isn't in hiring, but in compensation and benefits. We're located in a poorer region of NA, where people don't want to pay standard rates for IT. We also want to help boost our local economy, by enabling local business. That has made it hard to stay competitive."
+1mbge23,comment,n5mqe4j,1mbge23,eric-price,,2025-07-29 00:13:01,1,"I scrape the jobs in the Tulsa metroplex for local companies only, and I don't include jobs posted by recruiting and staffing firms. Here, the number of jobs week to week is actually up from earlier this year. I ran these stats in June but here they are  
+  
+About 10% of jobs are perpetual - seemingly never coming off the job board.   
+Average time posted for developers was 50 days.  
+For helpdesk roles it was 28 days.  
+For infrastructure roles that were NOT helpdesk it was 46 days.  
+
+
+But anecdotally looking at my own connections people sure do seem to be unemployed for a long time, and not just in IT."
+1mbge23,comment,n5mrv0n,1mbge23,GeeGeeMachine,,2025-07-29 00:20:05,1,"I've applied to over 100 places over the past 2 months, after leaving my last job (toxic manager). I have 4 years of relevant IT experience, a degree in IT Security, and an A+ certification. I live in Wisconsin.
+
+The jobs have been across a few domains - SOC, Sysadmin, Helpdesk.
+I've used varying degrees of effort through the apocation process. I've gotten about 12 interviews for local companies with a couple of final-round interviews. Haven't landed anything yet, but have several more interviews coming up this week and am quite hopeful.
+
+My advice:
+- Do not bother applying to remote positions unless you can tailor resumes within the first 10 minutes they're posted, or you know somebody. Not worth the effort with how flooded they are.
+- Tailor your resume to EXACTLY what they're asking for. The resume sorting software is looking for keywords that they've usually included in the job posting. Skills &amp; experience.
+- Some jobs have excellent pay for contracted positions. In the Madison, Wisconsin area I've came across and interviewed for jobs paying $34.50/hour. Don't sell yourself short for some cocksuckers paying &lt; $20 an hour to configure and deploy ServiceNow for an organization.
+- Do better than me in interviews."
+1mbge23,comment,n5mvr9q,1mbge23,MickCollins,,2025-07-29 00:38:41,1,"I'm looking a little but not a lot. I'm not super impressed by some of the postings I'm seeing. Usually I'll just read the Linkedin stuff that gets sent my way and some are OK others are ""CISSP for $40 an hour"" type shit. 
+
+Slightly off topic but wanted to bring up - I saw a very good post about HR stuff last night - wish I had a link - talking about not being willing to discuss salary. I had an offer two and a half years ago when I was more than a little overqualified for the position and they only offered 72k. I countered at 78k and they said ""I had removed myself from consideration."" What a waste of time. Glad I dodged that bullet.
+
+EDIT: [Found it, it's worth the read I think.](https://old.reddit.com/r/AskReddit/comments/1mb3vf0/whats_a_red_flag_in_a_job_interview_that_says/n5ji4jf/?context=3)"
+1mbge23,comment,n5mwls4,1mbge23,Far_Cut_8701,,2025-07-29 00:42:43,1,"I have found it incredibly shitty, and rewritten my CV about three times at this point and been searching while employed for the last year. I've been getting interviews, but in some cases, they decide to pull the job or simply not respond after the first interview. I think it's picking up again, but it was very slow for the last 9-10 months. This is in Ireland though so may be different in other european countries."
+1mbge23,comment,n5mxbsx,1mbge23,jetcamper,,2025-07-29 00:46:06,1,Bad one
+1mbge23,comment,n5myqux,1mbge23,povlhp,,2025-07-29 00:52:36,1,In Denmark experienced people can easily get a job. Companies have started to hire graduates to train them themself as outsourcing seems to disappear with more cloud taking over.
+1mbge23,comment,n5mzgnq,1mbge23,cooljak96,,2025-07-29 00:55:49,1,"Senior Systems Engineer, North East USA - I was laid off back in November 2024. Over 600+ applications later, I finally got a job offer in June, 2025. One interviewer for a position that went to the final round said that they had over 330 applications for the role.  
+
+I was probably getting about 1 call back per month between November - March, but that picked up to around 2-4 calls per month from April - June. I was applying for positions across the entirety of the US. I even put on my resume that I was willing to relocate if needed, didn't seem to matter. 
+
+Out of the call backs that I received, 4 ended up either in the final stage interview or job offered- 
+
+- One of them was offering a very low salary for the position they were trying to fill, not including the 60 minute commute, so I passed on that one
+
+- Second one got to the final (3rd) stage, but they ultimately went with someone externally that an internal employee recommended. This is the one that had over 330 application for the role. 
+
+- Third offered me the position, but then ended up pulling the offer back and said they decided they were not going to fill that role anymore. 
+
+- Fourth offered me the position and I signed right away.
+
+I honestly thought there was something wrong with my resume. The second position I mentioned above used an outside IT business coach to pick the best peoplewith interviews"
+1mbge23,comment,n5n1yql,1mbge23,reward72,,2025-07-29 01:07:05,1,"I’m an employer myself, located in Canada. We open very few jobs and when we do we receive hundreds if not 1000+ of applications. 
+
+A lot of companies big and small are holding by a thread and will do massively layoffs if things don’t improve soon. I’m afraid it is going to get way worse before it gets better unless geopolitics suddenly becomes sane again."
+1mbge23,comment,n5nbusg,1mbge23,PowerOfTheShihTzu,,2025-07-29 01:51:46,1,"In the US is great ,dynamic and handsomely paid ,in Europe it's struggling and badly paid ,as pretty much all things lately"
+1mbge23,comment,n5nd9nd,1mbge23,ozzy74pc,,2025-07-29 01:58:09,1,"There are a lot of IT job not related to developer or similar. Just the IT guy. Salary is not too high of course , but if you need to work and you like to work, There is always demanding."
+1mbge23,comment,n5ndeed,1mbge23,Darth_Noah,Jack of All Trades,2025-07-29 01:58:45,1,"…IMHO… its ass, uncertainty with AI changes along with Trumps tariffs have made businesses timid in hiring. Mass layoffs in IT have made it an employers market 
+
+Im SE USA and market is barren with few jobs that are there are for crappier companies."
+1mbge23,comment,n5nrfbs,1mbge23,Turbulent-Falcon-918,,2025-07-29 03:05:17,1,"Changing job about evert 3 to 5 years , hustling contracts and having about  three spcialites"
+1mbge23,comment,n5oleuf,1mbge23,hells_cowbells,Security Admin,2025-07-29 05:28:49,1,"Gloom, despair, and agony on me."
+1mbge23,comment,n5owjtb,1mbge23,Greedy_Ad5722,,2025-07-29 06:26:36,1,"M365 admin in Utah area here. I have been in IT for about 3 years in US, and it has been hell to get into IT, and to move company. It took me exactly 6 months of applying to 60~80 jobs per day for me to get out of helpdesk tier2 and into M365 admin. 
+
+I would say a lot of things under the umbrella of IT are still saturated as hell. I have a coworker from my previous employer who is still trying to get out and he has way more experience than I do lol."
+1mbge23,comment,n5p1yuq,1mbge23,Desol_8,,2025-07-29 06:56:09,1,We have this exact conversation every other day
+1mbge23,comment,n5p90ji,1mbge23,Gloomy_Cost_4053,,2025-07-29 07:34:27,1,Southern US is booming with facilities going up for data centers and stuff.
+1mbge23,comment,n5q5ol6,1mbge23,badboybilly42582,Virtualization and storage engineer,2025-07-29 10:42:48,1,"We’ve been interviewing a lot of people this year.   Part of the issue is our HR department is putting up vague job postings so we’re getting all sorts of applicants.  We’ve complained to HR asking them to fix the postings so they more accurately list the roles and responsibilities.
+
+I’ve easily interviewed probably close to 15.  Out of the 15 maybe 2-3 actually impressed me skillset wise.
+
+Don’t get me started on their resumes.  Easily half of them look like a 3rd grader wrote them."
+1mbge23,comment,n5r3hld,1mbge23,Final_Campaign_2593,,2025-07-29 15:05:41,1,Desktop Support Part Time 26k Single Man Midwest USA
+1mbge23,comment,n5ra7qi,1mbge23,Longjumping-Cat-2988,,2025-07-29 16:09:54,1,"From what I’ve seen, there’s still demand but it’s shifted. Traditional sysadmin roles are getting squeezed – more companies are leaning into DevOps, cloud or hybrid infra setups and they expect folks to wear multiple hats. I’ve also noticed that for mid-level roles, competition is rougher than before with more bootcamp grads, more layoffs = more people applying. That said, niche skills still get snapped up fast."
+1mbge23,comment,n5u36ms,1mbge23,Jeffrey_Leeroy,,2025-07-30 02:08:25,1,"I, and a lot of IT guys with decades of experience that I know, despise hearing mention: Dev-Ops .. in any sense.  My infrastructure guy I've worked with for maybe 10 years? left a managerial role at Turbine when they were all told they were 'moving to a more dev-ops centric model' and joined an MSP organization.  The automation project I'm almost at the end of now with Autostore, gave me specs for a complete rack (various specs for app/synq/sql/test/jumpbox, etc..) and I built it all out with a VRTX and 3 blades.  Set up VEEAM and some VTL, plus Azure for backups, and it took a month or two to get everything smooth with their Palo Alto, VLAN's, segmenting their stuff, buying all the hardware and everything needed, only to have the PM for the company tell us (two days before the go live date) that they had different requirements now from their engineering team, and I needed to scrap all the VM's, licenses, MS Server, SQL, everything.. for their new docker crap and for me to spin up a red hat box or two.  2 days before go-live!  On the call, their new engineering manager sounded like a 20-year-old, and of course said ""us Dev-Ops guys use Docker and Linux... here's links to all the freeware stuff, let us know when it's built"" ... I threw a fit, my boss threw a fit, saying they violated signed contractual agreements, and we followed the specs, spent a fortune... and after a week of fighting they caved in and had to get their new dev-ops guy to install their software and BeyondTrust stuff the old-fashioned way.  Dev-ops .. ::spits::  .."
+1mbge23,comment,n5wyr29,1mbge23,miguelson,,2025-07-30 11:11:34,1,You guys really make me appreciate my job

@@ -1,0 +1,467 @@
+﻿post_id,type,id,parent_id,author,author_flair,created_time,ups,content
+1kqbe08,post,1kqbe08,,Greenscreener,,2025-05-19 21:14:25,179,"【标题】Is AI an IT Problem?
+【内容】
+Had several discussions with management about use of AI and what controls may be needed moving forward.
+
+These generally end up being pushed at IT to solve when IT is the one asking all the questions of the business as to what use cases are we trying to solve.
+
+Should the business own the policy or is it up to IT to solve? Anyone had any luck either way?"
+1kqbe08,comment,mt493bn,1kqbe08,BlueNeisseria,,2025-05-19 21:23:08,105,"""IT will become the HR of AI"" - Jensen Huang, CEO Nvidia
+
+but the business MUST define the Policy objectives that IT works within"
+1kqbe08,comment,mt4bsx4,mt493bn,[deleted],,2025-05-19 21:39:01,75,[deleted]
+1kqbe08,comment,mt4hfqd,mt4bsx4,pmandryk,,2025-05-19 22:09:51,28,"&gt; I can become an incompetent asshole who fails upwards.
+
+This guy's got management written all over him. /s"
+1kqbe08,comment,mt4ik2k,mt4bsx4,ISeeDeadPackets,Ineffective CIO,2025-05-19 22:15:43,25,"Is uh....is that not what we're all doing?
+
+![gif](giphy|vUEznRmVQfG2Q)"
+1kqbe08,comment,mt63tst,mt4ik2k,Rawme9,,2025-05-20 02:58:07,7,Sometimes I feel that way and then I talk to some of my co-workers
+1kqbe08,comment,mt4j59r,mt4bsx4,EldeederSFW,,2025-05-19 22:18:43,14,"The HR motto, “If there aren’t any fires to put out, start one!”"
+1kqbe08,comment,mt55eik,mt4bsx4,pdp10,Daemons worry when the wizard is near.,2025-05-20 00:11:02,5,"It's very competitive, failing upwards in the pyramid."
+1kqbe08,comment,mt57aou,mt55eik,[deleted],,2025-05-20 00:20:29,4,[deleted]
+1kqbe08,comment,mt5rs7r,mt57aou,SparkStormrider,Sysadmin,2025-05-20 01:59:20,3,Keep firing assholes!  There can be only one!
+1kqbe08,comment,mt48j59,1kqbe08,NoSellDataPlz,,2025-05-19 21:19:48,128,"I raised concerns to management and HR and let them hash out the company policy. It’s not IT’s job to decide policy like this. You let them know the risks of allowing AI use and let them decide if they’re willing to accept the risk and how far they’re willing to let people use AI.
+
+EDIT: oh, and document your communications so when someone inevitably leaks company secrets to ChatGPT, you can say “I told you so” and CYA."
+1kqbe08,comment,mt4c5xb,mt48j59,Greenscreener,,2025-05-19 21:41:03,27,Yeah that is the road I am currently on. They are still playing dumb to a degree and wanting IT to guide the discussion (that we are trying to do) but I seem to be going in circles. Thanks for the reply.
+1kqbe08,comment,mt4egs4,mt4c5xb,NoSellDataPlz,,2025-05-19 21:53:46,24,"Welcome.
+
+Were I in your shoes and I was being put on the spot to make a decision, I’d put my wishlist together… and my wishlist would be 1 line:
+
+Full corporate ban on the use of LLMs, SLMs, generative AI, general AI, and all other AI models currently and yet to be created with punitive actions to include immediate dismissal of employment.
+
+And the only way this policy is reversed is once the general public understands the ramifications of AI use and data security. This will hopefully result in management and HR rolling their eyes and deciding it’s just best to consult IT with technical questions and leaving policy making with them."
+1kqbe08,comment,mt5o1ns,mt4c5xb,iliekplastic,,2025-05-20 01:41:39,3,They are trying to make you do work that you aren't paid to do because they are too lazy to do it themselves.
+1kqbe08,comment,mt72at0,mt4c5xb,FarToe1,,2025-05-20 05:52:22,3,"Remember that it's okay to say no. 
+
+Your job is to inform the decision makers about the risks, and any mitigations you can form against them. 
+
+If the risks are still present (and some will be) then you make them clear and loud and unambiguous."
+1kqbe08,comment,mt4e1ii,mt48j59,RestInProcess,,2025-05-19 21:51:26,12,"IT usually has a security team (maybe it's separate), but it's them that hash out the risks. In our case we have agreements with Microsoft to use their Office oriented Copilot, and for some we have the Github Copilot and all other AI is blocked. 
+
+Business should identify the use case, security (IT) needs to deal with the potential leak of company secrets as they do with all software. That means investigation and helping managers at the upper levels understand, so proper safeguards can be put in place."
+1kqbe08,comment,mt4hmb5,mt4e1ii,NoSellDataPlz,,2025-05-19 22:10:49,7,"I’d agree this is the case in larger organizations. In my case, and likely OP and many others, security is another hat sysadmins wear. In my case, I don’t have a security team - it’s just lil ol’ me."
+1kqbe08,comment,mt4kvuj,mt4hmb5,MarshallHoldstock,,2025-05-19 22:27:45,4,"I'm the lone IT guy, but we have a security team of two. One of them is third-party. They meet once a month to go over all ISMS stuff and do nothing else. All policies, all risk-assesment, etc. that would normally be done by security I have to do, because it's less than an afterthought for the rest of the business."
+1kqbe08,comment,mt4rc4d,mt4hmb5,Maximum_Bandicoot_94,,2025-05-19 23:00:45,2,Putting the people charged with and goaled upon uptime in charge of security is a conflict of interest.
+1kqbe08,comment,mt57b4p,mt4rc4d,NoSellDataPlz,,2025-05-20 00:20:32,1,"You’d be shocked what a small budget does to drive work responsibilities. I’ve been putting together a proposal to expand IT by another sysadmin, a cyber and information security admin, an IT administrative assistant, and an IoT admin for systems that aren’t servers or workstations. My hope is that it slides the Overton Window enough that they’ll hire a security admin and forego the other items and will be thrilled if they hire an additional any of the other staff."
+1kqbe08,comment,mt5stz0,mt57b4p,Maximum_Bandicoot_94,,2025-05-20 02:04:22,1,"My last shop worked like that.  I fixed the problem by dumping their toxic org.  They floundered for 2+ years to completely replace me, by the time my last contacts at the former org left they had to replaced me with 5 people which combined, including benefits etc, probably cost that org 3x what I did.  ""At will""' cuts both ways in the states.  Companies would due well to be reminded of that more often."
+1kqbe08,comment,mt5yddv,mt5stz0,NoSellDataPlz,,2025-05-20 02:31:24,1,"My employer isn’t toxic or anything like that. It’s a state job with a very well spent budget. If my proposal gets accepted, even if in part, it’s up to the bean counters to find the money. It’s not my problem. My problem is exposing the risks to the organization should they fail to act. If they opt to not act, I’m free and clear and I still get my paycheck should shit hit the fan."
+1kqbe08,comment,mt5sc36,mt4e1ii,RabidBlackSquirrel,IT Manager,2025-05-20 02:01:57,2,"Security itself would rarely be the one to hash out the policy. It's not infosec's job to accept risk on behalf of the company. We would however, detail the risks and propose controls and detail negative outcomes so Legal/whoever can make an informed risk decision, and then maintain controls going forward. 
+
+If I got to accept risks, I'd have a WAY more conservative approach. Which speaks to the need to not have infosec/IT be the one making the decision - it's supposed to be a balance and align with the business objectives."
+1kqbe08,comment,mt48o1a,1kqbe08,admlshake,,2025-05-19 21:20:37,43,Yes and no.  We can block it or allow it.  But it's up to the company decision makers to decide the use cases.
+1kqbe08,comment,mt5aq1j,mt48o1a,NobodyJustBrad,,2025-05-20 00:37:30,13,I feel like it's also up to Legal/HR to own the use policy.
+1kqbe08,comment,mt64naw,mt5aq1j,skob17,,2025-05-20 03:02:11,1,Data Protection Office at our place
+1kqbe08,comment,mt5hpmk,mt48o1a,ehxy,,2025-05-20 01:11:27,2,"They are the ones that make use of it.  We facilitate it and set it up but it's not what we rely on to do our job.  Yes, AI can help us but we've been doing this since before AI has been a thing.  AI can't troubleshoot physical world space and perform the fix.  It knows as much as the person tells it and a user can ask it whatever vague non informative answer it wants and it will spit out a dozen scenarios until it gets to the answer and a user that can stand long enough to read it wouldn't be hitting us up on anything anyway if they had that kind of patience let alone do a Google search themselves."
+1kqbe08,comment,mthkcv7,mt48o1a,bh0,,2025-05-21 23:22:49,1,"This is basically it. I've been asked what options we have to block certain AI sites/tools, but as far as policy decisions about using them, that's not on us to decide."
+1kqbe08,comment,mt48psy,1kqbe08,[deleted],,2025-05-19 21:20:54,39,It's an everyone problem.
+1kqbe08,comment,mt5ewh0,mt48psy,7FootElvis,,2025-05-20 00:57:54,6,Opportunity
+1kqbe08,comment,mt5ie1k,mt5ewh0,[deleted],,2025-05-20 01:14:43,12,My eye is twitching in your general direction.
+1kqbe08,comment,mt5jcao,mt5ie1k,7FootElvis,,2025-05-20 01:19:18,5,"Lol! I'm half serious, half mocking the corporatese."
+1kqbe08,comment,mt5jphu,mt5jcao,[deleted],,2025-05-20 01:21:02,4,"Aye, only one eye is twitching in some other direction then."
+1kqbe08,comment,mt66nho,mt5jcao,Baerentoeter,,2025-05-20 03:12:18,2,But for real though... never waste a good crisis.
+1kqbe08,comment,mt6gyi7,mt66nho,7FootElvis,,2025-05-20 04:04:05,1,"Yes, and it's a great opportunity for IT people to lead the way to help use the proper tools, in the proper way, to achieve better business outcomes, or to achieve existing outcomes more efficiently or effectively."
+1kqbe08,comment,mt5glk0,mt48psy,ehxy,,2025-05-20 01:06:05,1,Yeah but who wants to own it 😄
+1kqbe08,comment,mt4gzf2,1kqbe08,Dreilala,,2025-05-19 22:07:27,28,"We have a very expensive project regarding copilot with extremely positive people spouting the virtues of using AI in the work place.
+
+I once dared ask what actual (monetary) benefit has arisen for the company as a result of said AI I was deemed too negative. 
+
+I have since changed my attitude.
+
+Go Copilot!!!"
+1kqbe08,comment,mt6ltxv,mt4gzf2,TheMagecite,,2025-05-20 04:28:18,9,"Our company drank the Gen AI kool aid and went mad trying to get AI wins.  I have noticed virtually all of our AI wins lately have strangely been lumped in with automation wins with just traditional automations using Power Automate considered ""AI"".
+
+I have been telling everyone for ages we will get far more bang for buck automating than Gen AI could ever deliver.
+
+  
+Go AI ..... I guess."
+1kqbe08,comment,mt9rgga,mt4gzf2,JazzlikeSurround6612,,2025-05-20 18:08:33,2,"Sadly that's how it is. All the smooth brain MBA C-level types creaming themselves over AI but they don't care to hear if you don't have the proper data sets, environment, resources etc to implement it, or actual use cases that may have a payback."
+1kqbe08,comment,mt48goa,1kqbe08,[deleted],,2025-05-19 21:19:24,137,"The business 
+
+If it’s up to IT just blanket ban it until further notice"
+1kqbe08,comment,mt48v43,mt48goa,thecstep,,2025-05-19 21:21:47,15,Everything has AI. So what now?
+1kqbe08,comment,mt4cajd,mt48v43,TechCF,,2025-05-19 21:41:46,15,"Yes, it is like the API craze from 20 years ago. Is API an IT issue?"
+1kqbe08,comment,mt4gwp8,mt4cajd,TheThoccnessMonster,,2025-05-19 22:07:02,16,…. Depends on whose but yes.
+1kqbe08,comment,mt4vlyi,mt4gwp8,Thoughtulism,,2025-05-19 23:22:13,9,"Unless there's HR consequences and procurement controls you can accept responsibility all you want if nothing happens when rules are broken then they're not rules
+
+That being said putting the rules in and measuring the lack of compliance is a good first step to getting clueless leaders to make better decisions and understand they have zero control over anything unless they put in specific levers to exercise control."
+1kqbe08,comment,mt7iccv,mt4vlyi,ImFromBosstown,,2025-05-20 07:24:45,1,Correct
+1kqbe08,comment,mta4x1k,mt4cajd,daishi55,,2025-05-20 19:57:08,1,"&gt; API craze
+
+Are you referring to computers interacting with each other? I didn’t realize that constituted a craze"
+1kqbe08,comment,mt6ojgg,mt48v43,hkusp45css,IT Manager,2025-05-20 04:41:36,3,"Yeah, I'll just blanket ban the Edge browser. 
+
+There, no more AI. 
+
+How do you like THAT?"
+1kqbe08,comment,mt807io,mt48v43,RobertBiddle,,2025-05-20 09:12:43,1,Malicious compliance level 9000!!! 😈
+1kqbe08,comment,mt4952m,mt48goa,SocialDoki,,2025-05-19 21:23:25,5,This is my approach. I can be there to advise on how different AIs work if the org wants to build a policy but I don't know what ways people are going to use it and I'm not taking that risk if it ends up on my shoulders.
+1kqbe08,comment,mt48o49,mt48goa,nohairday,,2025-05-19 21:20:38,15,"Personally, I prefer ""Kill it with fire"" rather than a blanket ban."
+1kqbe08,comment,mt4aa3w,mt48o49,Proof-Variation7005,,2025-05-19 21:30:09,33,"Half of what AI does is just google things and then take the most upvoted Reddit answers and present them as fact so I've found the best way to prevent it from being used is to put on a frog costume and throw your laptop into the ocean.  
+
+If you don't have access to an ocean, an inground pool will work as a substitute.  Above-ground pools (why?) and lakes/rivers/puddles/streams/ponds won't cut it."
+1kqbe08,comment,mt4c1s1,mt4aa3w,poorest_ferengi,,2025-05-19 21:40:25,2,What about a dragon costume and thermite?
+1kqbe08,comment,mt4nvmk,mt4c1s1,Proof-Variation7005,,2025-05-19 22:43:14,1,that only makes AI stronger
+1kqbe08,comment,mt4gyjy,mt4aa3w,jsand2,,2025-05-19 22:07:19,-2,"You do realize that there are much more complex AI out there than the free versions you speak of on the internet, right??
+
+We pay a lot of money for the AI we use at my office and it is worth every penny. That stuff seems to find a new way to impress me everyday."
+1kqbe08,comment,mt4ij8k,mt4gyjy,nohairday,,2025-05-19 22:15:36,11,"Can you give some examples?
+
+Genuinely curious as to what benefits you're seeing. My impression of the GenAI options is that they're highly impressive in terms of natural language processing and generating fluff text. But I wouldn't trust their responses for anything technical without an expert reviewing to ensure the response both does what is requested and doesn't create the potential for security issues or the like.
+
+
+The good old ""just disable the firewall"" kind of technical advice."
+1kqbe08,comment,mt6l2r4,mt4ij8k,perfecthashbrowns,Linux Admin,2025-05-20 04:24:36,3,"I recently had to swap from pgCat to pgpool-II because I ended up hating pgCat so I told Claude to convert the pgcat.toml config to an equivalent pgpool-ii config and it did just great. I also use it for things like double-checking GitHub Actions before I commit them so I don't miss anything dumb. Or I'll have it search the source code for something to find an option that isn't documented, which I had to do a bit with pgCat. Lots of times I'm also using it to learn, asking it to test me on something and I will check my understanding that way. Claude once got an RBAC implementation in Kubernetes correct while Deepseek R1 got it wrong, though! And sometimes I'll run architectural questions to a couple different LLMs to see if they give me any ideas or they correct me on something. I also recently asked Claude if an idea I had with Facebook's Faiss would work and it pumped out 370 lines of Python code to test and execute my idea which worked. But that is code that's not going to be used. I'm just going to use it as a guideline and re-write all of it since I need to actually double-check everything. I didn't even ask it to write anything! Just asked it if my idea would work. It can get annoying when I just ask a quick question and it pumps out pages of code, lol."
+1kqbe08,comment,mt4rvqn,mt4ij8k,jsand2,,2025-05-19 23:03:29,1,"We have 2 different AIs that we use. 
+
+The first sniffs our network for irregularities. It constantly sniffs all workstations/servers logging behavior. When a non common behavior occurs it documents it and depending on the severity shits the network down on that workstation/server. So examples of why it would shut the network down on that device could range from and end users stealing data onto a thumb drive to a ransomware attack. 
+
+We have a 2nd AI that sniffs our emails. It also learns patterns of who we receive email from. It is able to check hyperlinks for mailciousness and lick the hyperlink if needex, check files and convert the document as needed, identify malicious emails, and so much more.
+
+While a human can do these tasks, it would take 10+ humans to provide the same amount of time invested to do all of these things. I was never offered 10 extra people, it was me and 1 other person handling these 2 roles. Now we have AI assisting for half the cost of 1 other human, but providing us the power of 10 humans.
+
+They do require user interaction for tweaking and dialing it in. But it runs pretty damn smooth on its own."
+1kqbe08,comment,mt4upft,mt4rvqn,nohairday,,2025-05-19 23:17:41,8,"So both ML's then. Rather than LLM's.
+
+That's what I was suspecting, but wanted to confirm.
+
+Genuinely curious what the AI is to your examples as opposed to more standard email AV/intrusion detection solutions, as they can also check for dodgy hyperlinks and the like. And the same for the network. Sounds very similar to what SCOM could be set up to do.
+
+Admittedly, I haven't been near SCOM or any replacements for quite a few years.
+
+But giving employees access to Copilot, chatGPT, and the like? That's where all of the security implications *really* come into play."
+1kqbe08,comment,mt51oo8,mt4upft,Frothyleet,,2025-05-19 23:52:35,9,"&gt;So both ML's then. Rather than LLM's.
+
+5 years ago, the technology was just ""algorithms"". Then LLMs made ""AI"" popular, and now any software that includes ""if-then"" statements is now AI."
+1kqbe08,comment,mta5fob,mt4upft,daishi55,,2025-05-20 20:00:43,1,LLMs are ML
+1kqbe08,comment,mt4vep6,mt4upft,jsand2,,2025-05-19 23:21:12,1,"Yea we weren't comfortable opening up AI to the employees. While we feel we have things locked down properly, but we didnt want to take chances unleashing AI through our network folders and giving all employees access to that kind of power."
+1kqbe08,comment,mt81aug,mt4rvqn,giantrobothead,,2025-05-20 09:19:34,1,"“…depending on the severity shits the network down…”
+
+Please don’t correct this typo."
+1kqbe08,comment,mt5576e,mt4rvqn,sprtpilot2,,2025-05-20 00:10:01,1,Not really AI.
+1kqbe08,comment,mta5g7x,mt5576e,daishi55,,2025-05-20 20:00:49,1,How so?
+1kqbe08,comment,mt63lm7,mt4ij8k,Rawme9,,2025-05-20 02:57:01,1,"I have had the exact same experience. It is good if *you* know what it's talking about and can save some time with some tasks. If not, it is outright dangerous and untrustworthy."
+1kqbe08,comment,mt4np8n,mt4gyjy,Proof-Variation7005,,2025-05-19 22:42:20,2,why don't you ask AI what a joke is then
+1kqbe08,comment,mt48xrw,mt48o49,RoomyRoots,,2025-05-19 21:22:14,12,And that is how shadow IT starts.
+1kqbe08,comment,mt493fi,mt48xrw,H3rbert_K0rnfeld,,2025-05-19 21:23:09,5,Seconded
+1kqbe08,comment,mt49ct5,mt48xrw,nohairday,,2025-05-19 21:24:41,5,"Fire cleanses all, including Shadow IT and the perpetrators of it.
+
+Seriously, there are so many potential issues with the current 'AI' craze that I wouldn't let it near any data at present.
+
+It's not my decision, but it is my opinion."
+1kqbe08,comment,mt4h07c,mt48xrw,TheThoccnessMonster,,2025-05-19 22:07:34,2,We call that DevOps these days.
+1kqbe08,comment,mt82we5,mt48goa,azurite--,Sr. Sysadmin,2025-05-20 09:29:35,1,"This is how you get your employees to hate your department. You don't do a blanket ban without an explanation, and even so there is copilot which protects company data on an enterprise level so if you are a Microsoft shop there is less of a reasoning to not explore it at least.
+
+I'm part of an AI initiative in my company and clearly see how people are utilizing AI tools and how it is helping them day to day. Turns out people like tools that help them."
+1kqbe08,comment,mt4cmak,1kqbe08,jbourne71,"a little Column A, a little Column B",2025-05-19 21:43:36,45,"Legal, HR, management/leadership set policy. Cybersec/infosec develops security controls to implement policy. IT executes within scope. 
+
+Or something like that."
+1kqbe08,comment,mt6rpli,mt4cmak,wanderinggoat,,2025-05-20 04:57:05,6,"reminds me of working for an MSP at a larger company and i noticed a machine had become infected and had spread to a share on the NAS, I went straight over to the security team, advised them and asked what the process was and who would manage it.
+blank stairs and somebody said ""maybe the helpdesk.."""
+1kqbe08,comment,mt9ogih,mt4cmak,X0mbiRapt0r,,2025-05-20 17:38:50,1,This. 👆🏻
+1kqbe08,comment,mt4bny9,1kqbe08,thegeekgolfer,,2025-05-19 21:38:15,22,"Not everything that involves a computer is IT. It's easy for businesses to say it's IT, because many are ran by idiots. But, everything coming into a company these days involves a computer in one way or another."
+1kqbe08,comment,mt5av69,mt4bny9,TechIncarnate4,,2025-05-20 00:38:12,21,"&gt;Not everything that involves a computer is IT
+
+You're right.  Its everything that has a power cable.  :-)"
+1kqbe08,comment,mt6fwep,mt5av69,xdamm777,,2025-05-20 03:58:44,7,What about a director opening a ticket because he can’t get Apple Car Play to work on his new BMW? Still IT according to the guy.
+1kqbe08,comment,mt7vz5j,mt6fwep,12inch3installments,,2025-05-20 08:46:37,6,"Our CEO did this.  Bought a brand new M8 convertible, couldn't pair his phone, came to IT for us to pair it for him."
+1kqbe08,comment,mt8d3fh,mt7vz5j,rcp9ty,,2025-05-20 10:33:49,4,"I had a coworker ask me to help setup an app for his new company truck so he could do remote start 🙄
+My boss said do that when you get bored and everything else is taken care of don't even bother giving it a priority or zero."
+1kqbe08,comment,mt608om,mt5av69,GloveLove21,,2025-05-20 02:40:39,4,"Ah yes, ""the water fountain isn't working!""
+
+A ticket I once received."
+1kqbe08,comment,mt8x8xr,mt608om,No_Refrigerator2969,,2025-05-20 13:05:51,2,😂🥲🥲
+1kqbe08,comment,mt48sod,1kqbe08,imgettingnerdchills,,2025-05-19 21:21:23,8,All of these discussions/decisions need to happen at the management level and also very likely need to involve your legal team. Once they decide on the policy then you can do what part you have in enforcing it. 
+1kqbe08,comment,mt49hip,1kqbe08,redditphantom,,2025-05-19 21:25:28,10,I feel it's a shared responsibility.   IT needs to think about security from data exposure and access. Management needs to think about appropriate usage from the business perspective.  Management should also understand the risks to business that they may not be aware of if they aren't versed in IT language.  It is not a black and white discussion and both sides have to discuss and solution the policy to what makes sense for the business.  Every business is going to be different but without understanding the risks and benefits from all sides will this be solved
+1kqbe08,comment,mt7dz4p,mt49hip,ButtThunder,,2025-05-20 06:59:27,3,Absolutely shared. I wrote the policy with input from HR and legal.
+1kqbe08,comment,mt499xp,1kqbe08,Wheredidthatgo84,,2025-05-19 21:24:13,32,"Management 100%. Once they have decided what they want, you can the implement it."
+1kqbe08,comment,mt5avgd,mt499xp,Defconx19,,2025-05-20 00:38:15,13,"Eeehhhh, sort of.
+
+
+I'm say it's joint. The problem is management can quickly decide on a scope of AI implementation that isnt realistic.
+
+
+IT should be at the table to advise what the implications are and what resources are likely needed.  Then ELT can decide from there and IT can deploy.
+
+
+Edit: essentially its a DLP issue so I'd say it's more IT if anything."
+1kqbe08,comment,mt6032f,mt5avgd,GloveLove21,,2025-05-20 02:39:53,1,100% a risk management/IT/leadership joint issue in my opinion and org.
+1kqbe08,comment,mt6oa9p,mt5avgd,hkusp45css,IT Manager,2025-05-20 04:40:22,1,"DLP is a compliance problem, in my sector. Thank goodness."
+1kqbe08,comment,mt5h1dd,mt499xp,blissed_off,,2025-05-20 01:08:13,1,Never let management make technology decisions without involving IT.
+1kqbe08,comment,mt4bch6,1kqbe08,slashinhobo1,,2025-05-19 21:36:26,8,"I raised concerns, but they didn't act on it. It's no longer my problem."
+1kqbe08,comment,mt4ew2w,1kqbe08,toebob,,2025-05-19 21:56:05,8,It is up to IT to explain the risks in clear language that the business can understand. And not just general risks - evaluate each use case. Using AI to create pictures for the intranet department webpage is a much different risk than putting an AI bot on the public homepage.
+1kqbe08,comment,mt4fpyy,mt4ew2w,Greenscreener,,2025-05-19 22:00:35,3,"Yeah that is part of the issue tho. The number of tools and different ways ‘AI’ can be used is changing on a daily basis. 
+
+Big chunk of the challenge is keeping up so advice can be given. It is a major workload addition that is not being recognised."
+1kqbe08,comment,mt4mebe,mt4fpyy,toebob,,2025-05-19 22:35:39,1,"“More work than workers” is not a new problem. We should deal with that the same way we did before AI. Don’t be a hero and work a bunch of unpaid overtime to cover up a staffing problem. 
+
+The way we do it at my place: all new software with AI components has to be evaluated by IT. If IT doesn’t have the staff or time to get to the eval right away then the business doesn’t get that AI component until IT can properly evaluate it and provide a risk assessment. If the business goes around IT and takes the risk anyway - that’s not IT’s fault.
+
+Edit: replaced “evil” with “eval” - though it could have worked either way."
+1kqbe08,comment,mt490qe,1kqbe08,user3872465,,2025-05-19 21:22:43,3,"Policy = HA, or other Descision makers
+
+Realization, Kowhow, Technical Background info = IT
+
+  
+I am not making policies nor do I descide on where,what,how,who can use AI and whatnot. I can give info and context to help others in Policy or Descision making. I'll gladly talk to managment and educate them as far as I know. But I am not making a Descision for them, I don't get payed enough to do that."
+1kqbe08,comment,mt4dkdt,mt490qe,SoonerMedic72,Security Admin,2025-05-19 21:48:50,1,"The only way you should be writing policies is if you are in IT/InfoSec management. Like, I had to write policies before, but I also present any changes to the board every quarter. I wouldn't have asked someone else to do it. 🤷‍♂️"
+1kqbe08,comment,mt4po7g,1kqbe08,JohnBeamon,,2025-05-19 22:52:24,3,"Asking me to use AI without telling me what you want done is like telling me to use Excel without giving me tasks or data. If management has a task that's well-suited for AI, I'll use AI to solve it. Otherwise, they're paying me FT salary to make six-fingered memes all day."
+1kqbe08,comment,mt4qnu8,1kqbe08,Ivy1974,,2025-05-19 22:57:24,3,AI basically an interactive Google. It is as good as the person that programmed it. Till it can weed out the nonsense fixes on its own we are still needed.
+1kqbe08,comment,mt6l8e0,1kqbe08,Kibertuz,,2025-05-20 04:25:22,3,"AI is a marketing problem, they dont know shytttt about AI but want to include AI world in every conversation."
+1kqbe08,comment,mt8xfyo,mt6l8e0,No_Refrigerator2969,,2025-05-20 13:07:35,2,care to have some AI screen protectors 😂😂
+1kqbe08,comment,mtalb31,mt8xfyo,Kibertuz,,2025-05-20 21:39:27,1,HaHa as long as it does cybersecurity i will buy 2
+1kqbe08,comment,mtz2lfr,mtalb31,No_Refrigerator2969,,2025-05-24 15:34:43,1,that would be 100dollars/month standard
+1kqbe08,comment,mt91fbc,1kqbe08,Killbot6,Jack of All Trades,2025-05-20 13:42:53,3,"We blocked all AI websites on our network, except for enterprise Copilot. As Copilot has at least said they will safe guard the info and data that is input into it, and not use it. 
+
+Do I really trust it? Not really, but our C-Suite team has decided they need it and disregard anything else said on the topic."
+1kqbe08,comment,mt9ir8q,1kqbe08,stitchflowj,,2025-05-20 16:38:02,3,"I respect the point of view that most people are making on this thread that it's a business policy problem first - they set the objectives and IT can implement. It's an understandable sentiment but I don't think it's realistic. 
+
+Every CEO is on Twitter reading folks like Aaron Levie (Box CEO) and Tobi Lutke (Shopify CEO) talk about AI enabled productivity and how AI adoption is a strategic imperative. That means AI tools are going to mushroom super fast in your orgs and IT/compliance/security can't be seen as the productivity killing police.
+
+But of course, these shiny new apps are shipping with zero enterprise-grade controls - no SAML, no SCIM, often not even usable user admin controls. So every tool and account turns into a one-off headache. 
+
+Bottom line IMHO: IT/Security/Compliance can't wait for the business to define the policy here. The teams responsible for keeping the lights on are going to be stuck between enabling productivity and cleaning up an ever-growing security, compliance, and cost mess, and so you need to get ahead of it."
+1kqbe08,comment,mt49a9a,1kqbe08,lord_of_networks,,2025-05-19 21:24:16,15,"As usual this sub is full of angry greybeards. The business is asking you because they think IT is the group with the best chance of guiding the org. Now, you need to be upfront with the organisation about needing the budget to do it, you also need to demand help where needed like legal issues. But take the opportunity to shine and be seen as more than a digital janitor"
+1kqbe08,comment,mt4ece0,mt49a9a,[deleted],,2025-05-19 21:53:06,3,"Because we all love taking on more work and responsibility for the same pay. 
+
+You either just graduated and haven't learned that you're nothing more than a disposable tampon to your employer, or you are that employer looking for fresh tampons."
+1kqbe08,comment,mt5etgr,mt4ece0,ABotelho23,DevOps,2025-05-20 00:57:30,2,AI is not a fridge or a toaster.
+1kqbe08,comment,mt4jtuc,mt4ece0,bigwetdog10k,,2025-05-19 22:22:14,2,Some people *like* integrating new tech into our organizations. Any crude analogies for that?
+1kqbe08,comment,mt59h0m,mt4jtuc,nlfn,,2025-05-20 00:31:18,0,"How about ""oh, you're just giving the users a strap-on only to have them turn around and use it on you""?
+
+(I'm team ""ITS should be familiar with AI and help decision-makers"" but it's hard to resist the call of a crude analogy)"
+1kqbe08,comment,mt4el78,1kqbe08,qwikh1t,,2025-05-19 21:54:27,2,IMO; companies should host their own AI. That way is controllable by IT. Put out policy concerning AI usage is only allowed through the company.
+1kqbe08,comment,mt4i2g2,1kqbe08,pmandryk,,2025-05-19 22:13:10,2,Ok. This is great but what about A1? Who gets to use A1 and on what!?!
+1kqbe08,comment,mt4lmqt,1kqbe08,mrtobiastaylor,,2025-05-19 22:31:40,2,"Depend on how many business functions sit with IT.
+
+In my firm - my team look after Data and Compliance (so DPO and associated functions)
+
+Policy first for using AI, any tooling that uses it needs to approved where reasonable i.e Google Search wouldn't be within scope, but Chat GPT would be. Staff cannot setup accounts on systems on behalf of the business, nor share anything relating to the company including PII, IP or internal communications/materials. And we obviously, very strict on this.
+
+Second to that, all systems we use must be protectable by SSO/IDP. This somewhat limits what systems we can use which is useful.
+
+All applications must go on a risk register, and be accountable and auditable. We save all privacy policies and only approve applications where our data can be validated end to end (so we get data flow diagrams e.t.c) along with ensuring that our data does not get shared into any collective LLM. 
+
+Ive always taken the approach that if policy doesn't exist, I'm writing it and sharing it with the firm. If someone kicks up, ask them why they didn't do it if it was their responsibility."
+1kqbe08,comment,mt56gh2,1kqbe08,alexandreracine,Sr. Sysadmin,2025-05-20 00:16:17,2,"The business should create the policy, then you tell them how much it will cost, then they will change the policy :P"
+1kqbe08,comment,mt6856w,1kqbe08,GhostDan,Architect,2025-05-20 03:19:48,2,"I've been asked to troubleshoot coffee machines..
+
+Everything is IT"
+1kqbe08,comment,mt76ils,1kqbe08,accidentalciso,,2025-05-20 06:16:01,2,"It involves computers, so yes, it’s going to get dumped on IT, but in reality, it’s every part of the company’s problem. Like security, if it gets concentrated in a single team/function, you are going to have a terribly difficult time."
+1kqbe08,comment,mt48g92,1kqbe08,kg7qin,,2025-05-19 21:19:20,3,Yes.
+1kqbe08,comment,mt4c6wt,1kqbe08,JimmySide1013,,2025-05-19 21:41:12,2,AI is content and IT shouldn’t be doing content. There’s certainly a permission/logging component which IT would be responsible for but that’s it. We’re not responsible for what users type into their email any more than what they type into ChatGPT.
+1kqbe08,comment,mt49nka,1kqbe08,jupit3rle0,,2025-05-19 21:26:27,1,"It should be 100% up to the business to own the policy. At the very least, they need to have a FULL understanding of what they are asking AI to accomplish, and what it could potentially cover (and replace?). At the end of the day, someone needs to remind these people that AI could very likely end up being their #1 competition in the job market, and I'd imagine that is supposed to result in collective hesitancy, not wonder."
+1kqbe08,comment,mt4b0mm,mt49nka,limlwl,,2025-05-19 21:34:33,1,"Why should it be 100% up to the business to own the policy? Is IT not part of the business?? If you do separation now, then IT will never be the leader; especially when ""the business"" is looking to IT for leadership in the field of AI."
+1kqbe08,comment,mt4ajmp,1kqbe08,vlad_h,,2025-05-19 21:31:45,1,You’d have to elaborate with more details on what controls and what the issue is that you are trying to solve. In my experience LLMs (it’s not AI people!) are a tool and are very useful but far from perfect.
+1kqbe08,comment,mt4c2k3,1kqbe08,psu1989,,2025-05-19 21:40:32,1,AI is a company (tech risk mgt team) concern and any technical controls they request would then be a request to Security\\IT. Any other concerns would be a Company/HR concern.
+1kqbe08,comment,mt4c2ya,1kqbe08,Zolty,Cloud Infrastructure / Devops Plumber,2025-05-19 21:40:36,1,"A company I know of has a policy explicitly banning AI chat bots meanwhile half the departments are shockingly seeing 40-50% increases in productivity on projects. If you ban something this useful you're going to have a revolt.
+
+Get your company a paid for AI provider that will obey your data privacy requirements."
+1kqbe08,comment,mt4c4ko,1kqbe08,TechCF,,2025-05-19 21:40:51,1,"I prefer it IT is asked about tooling, but tools used at a company. Hardware,software or human resources is not an IT issue. Replace AI with words like ""hammer"" or ""powerpoint"" and ask again."
+1kqbe08,comment,mt4cxj1,1kqbe08,Ok-Big2560,,2025-05-19 21:45:19,1,"It's a corporate compliance issue.
+
+I block everything unless a senior leader/decision maker/scapegoat provides documented approval."
+1kqbe08,comment,mt4dm50,1kqbe08,kremlingrasso,,2025-05-19 21:49:06,1,AI is primarily an access problem from an IT point of view. Both who has access to it and what data those people have access to. So whoever controls those best define the AI policy. In most case that's IT unless you have a dedicated compliance/data governance org.
+1kqbe08,comment,mt4dyna,1kqbe08,yawn1337,Jack of All Trades,2025-05-19 21:51:00,1,"IT looks at data protection and cybersecurity laws, then outlines what is allowed and not allowed. Management signs off on the use policies. IT restricts what can be restricted"
+1kqbe08,comment,mt4f9n5,1kqbe08,dankmemelawrd,,2025-05-19 21:58:08,1,Absolutely not.
+1kqbe08,comment,mt4gdcl,1kqbe08,jsand2,,2025-05-19 22:04:07,1,"It depends on the AI you speak of. 
+
+If you were to allow your end users to use AI, you would need to double and triple check k your security on your network folders. For instance, if Harold had access to a folder of Kumar's that Kumar saved his paycheck stubs in, then Harold would be able to see Kumar's pay information via AI. In this instance, yes AI is 100% an IT problem to deal with.
+
+We dont feel comfortable offering AI to our end users. So we have opted to not to offer it to our end users.
+
+We do however use AI in our IT Department. We have an AI that sniffs our network for irregularities and reports them to us. If it feels we have a breach it will shut the network down on that workstation until we can react. We have another that sniffs email for irregularities. It will action accordingly as needed whether it be holding an email, locking a link, or converting an attachment. To be honest, it would be hard working for a company that didnt have AI in place for things like this. It is so much more efficient than humans, but still requires someone like me to manipulate it."
+1kqbe08,comment,mt7izei,mt4gdcl,ImFromBosstown,,2025-05-20 07:28:25,1,What services are you using for this specifically?
+1kqbe08,comment,mt7jxxw,mt7izei,jsand2,,2025-05-20 07:33:58,1,The company is called Darktrace. They offer both solutions.
+1kqbe08,comment,mtkcnn0,mt4gdcl,No-Boysenberry7835,,2025-05-22 07:35:01,1,This ai run on your own server ?
+1kqbe08,comment,mtke5du,mtkcnn0,jsand2,,2025-05-22 07:43:30,1,"We have an in house appliance (basically their server), yes, but most of it happens in the cloud."
+1kqbe08,comment,mtmx71a,mtke5du,No-Boysenberry7835,,2025-05-22 19:21:16,1,So a full external black box identitie can shutdown your network and have full acces over almost everything ? Dont seem like a good practice
+1kqbe08,comment,mtn657o,mtmx71a,jsand2,,2025-05-22 20:22:33,1,"We survived a ransomware attack around 10 years ago. It took our 3 man team 72 hours pretty much straight to rebuild and recover our data. We had to shut our business down those 3 days. I had a 13 hour phone call with our AV company during that time!
+
+That will never happen again. This AI will drop the network of whatever device is corrupted to keep it from spreading. During business hours, we have to take action on 75% of the issues. But after business hours we have something watching for irregularities and stopping anything needed. 
+
+Being afraid of AI, you might think it is a bad idea, but it has been nothing but a benefit to our company. This new email AI I have fallen in love with. We had our shit so locked down it wasn't even funny. We were able to remove the majority of blocks and let the AI do the job. 
+
+Before, any office (word, excel, etc) files were blocked by default. Now, AI scans the file and if it feels it is malicious in any way it converts the attachment to something not malicious. For instance an xlsx file in question would convert to csv. They could still get their data, but it removes the macros, etc same with pdfs. It does the same with links. Vets the link and if it is deemed malicious, it locks the link so they can't click it. This allows content to get to employees and if it was actually legit they can request the original. 
+
+Thats cool if you want to be scared of the future, but I am going to embrace it. I see the good in it and it outweighs the bad. Especially when my job is AI manipulation. I am in control."
+1kqbe08,comment,mt4h0bs,1kqbe08,TuxAndrew,,2025-05-19 22:07:35,1,Unless we have a BAA with them we generally can’t use it for critical data unless we’re hosting the system.
+1kqbe08,comment,mt4iwn0,1kqbe08,BlueHatBrit,,2025-05-19 22:17:31,1,"AI is not a discrete area - it cuts across multiple spaces and will need broad collaboration from areas of the business to ensure it's usage is properly thought about.
+
+IT and technology departments will of course have to play a big role. They'll probably be responsible for a lot of integration work, as well as the technical implementation of policies (blocks or whatever). But the company as a whole needs to figure out what makes sense for each area and where to draw lines.
+
+You probably need a small group with IT, InfoSec, HR, and representation from the revenue generting sections of the business. They can figure out what the starting point is. That's probably blessing a chosen vendor and putting together a policy which says things like ""don't upload healthcare patient data into the chatgpt UI"" or whatever is needed. Then the business as a whole goes from there, each doing their roles.
+
+HR make sure policies are communicated, understood, and enforced. IT and InfoSec do whatever is needed to make the blessed tools accessible and limit access to the others, etc etc...
+
+The businesses that treat this as just one person or departments job to ""do AI"" are the ones who won't find any benefit from it at all. Someone will use it to pad their resume for a year or two, maybe spend a bunch of money badly, and then move on to some strange ""AI Adoption Development"" role in another company."
+1kqbe08,comment,mt4jdw9,1kqbe08,[deleted],,2025-05-19 22:19:58,1,[removed]
+1kqbe08,comment,mt4l9tz,1kqbe08,Fast-Mathematician-1,,2025-05-19 22:29:47,1,"It's up to the business to identify the want an IT to box it up and deliver it. Business drives the need, and IT CONTROLS  the implementation within the scope of the business requirements."
+1kqbe08,comment,mt4mvcb,1kqbe08,axle2005,Ex-SysAdmin,2025-05-19 22:38:07,1,"It's 100% IT's job when upper manglement pushes out an ""AI-based"" application that immediately crashes half the working systems and no one else is smart enough to fix what it broke... unfortunately..."
+1kqbe08,comment,mt4n2er,1kqbe08,Bright_Arm8782,Cloud Engineer,2025-05-19 22:39:07,1,"I think we should, we are the department that think about implications of what we are doing and raise questions that most of the rest of business find annoying, things like compliance with standards, making sure that data we don't want going out to places doesn't get there and the like.
+
+If we don't then someone else will, because they want to use grammarly or the like and then we become the bad guys for taking their toys away."
+1kqbe08,comment,mt4nctq,1kqbe08,Actor117,Sysadmin,2025-05-19 22:40:35,1,"I built a general policy using the framework NIST offers. I already was given an idea bout what AI the company wants to allow and what it doesn’t. I completed a draft of the policy and submitted it to Legal and the CEO to make changes as they see fit. Once that’s done I’ll implement controls, where possible, to enforce the policy and the rest will be handled by an understanding that anything outside of ITs ability to control is a management issue."
+1kqbe08,comment,mt4p0mx,1kqbe08,kitkat-ninja78,IT Manager over 20 years XP,2025-05-19 22:49:04,1,"IMO, it's a joint issue.  IT can not do this alone, yet IT has to be the one to protect users from a technical point of view.  Business management/leader has to be the one to set business policy with other departments to back up and implement, eg HR from a people procedure point of view, IT from a technical standpoint, etc....
+
+Having IT solely sorting this out would be like the tail wagging the dog, instead of the dog wagging the tail."
+1kqbe08,comment,mt4pju8,1kqbe08,CLE-Mosh,,2025-05-19 22:51:47,1,Walk over to the rack power supply.... Pull the plug... Can AI Do That????  Walk Away
+1kqbe08,comment,mt4q1fr,1kqbe08,That_Fixed_It,,2025-05-19 22:54:16,1,"IT should have a better chance of understanding of what products and restrictive policies can be deployed, and how to mitigate specific security implications. I'm not ready to hand my credentials to an AI agent to work on its own, but I've had good luck with anonymous AI chat bots when I need a quick PowerShell script or Excel macro."
+1kqbe08,comment,mt4q7rf,1kqbe08,kerosene31,,2025-05-19 22:55:09,1,"How it would work if I ruled the world:
+
+\-IT would be a strategic parter at the table with the same voice as other areas of the business.  IT should have a seat at the table from the start when decisions are made until implementation.  
+
+How it will likely work:
+
+\-Businesses will buy things without consulting IT at all, and leave it to the IT janitors to clean up the mess."
+1kqbe08,comment,mt4t567,1kqbe08,ephemere_mi,,2025-05-19 23:09:51,1,"Company policies, by their nature, should be owned by HR, and enforced by the appropriate management.
+
+That said, if you are asked to help write the policy, you should take that opportunity to make sure it doesn't end up being a bad one.  If you're still early in your career, it may also end up being a valuable experience and you'll likely get facetime with the people that will approve your next promotion."
+1kqbe08,comment,mt4uon3,1kqbe08,zerinsakech1,,2025-05-19 23:17:34,1,"IT doesn't make the rules, we follow them."
+1kqbe08,comment,mt4y5ql,1kqbe08,m0henjo,,2025-05-19 23:35:08,1,"Business leaders are being sold on the idea that they need AI.  So in essence it's a solution in search of a problem.
+
+Can it help? Sure.  But if your organization is littered with ancient technology that can't easily be swapped out, AI isn't going to help.
+
+As an IT professional, it's important to learn it and understand it."
+1kqbe08,comment,mt51r5e,1kqbe08,MalwareDork,,2025-05-19 23:52:55,1,"Unless your confidentiality is ironclad, it's a general assumption IP is going to be leaked into chatGPT or the equivalent. The whole Tencent grift here on Reddit for Deepseek was a very comical circus show of the lack of concern people have for IP protection.
+
+I'd just assume you're going to implement it in the future or shadow IT already has it churning its wheels. College students and professors already use chatGPT and its associates to a mind-numbing degree so it's a matter of when, not if. Have the proper policies and NDA's in place so legal can deal with inevitable leaks."
+1kqbe08,comment,mt52o0f,1kqbe08,imnotabotareyou,,2025-05-19 23:57:21,1,It’s just another software to manage.
+1kqbe08,comment,mt52thk,1kqbe08,SifferBTW,,2025-05-19 23:58:04,1,"I give input when asked, but I'm not drafting language. That's for the lawyers"
+1kqbe08,comment,mt53h6a,1kqbe08,[deleted],,2025-05-20 00:01:23,1,"It’s both. The company decides what is and isn’t appropriate. IT use technology to enforce rules where and when they can.
+
+I never understood these questions. Yes, the policy is for the business to make and for the employees to follow. That doesn’t mean we still don’t enforce. Oh your policy says you cannot install any unapproved software on your work machine. Do you give everyone local admin? I mean, they won’t install anything because of policy so.. 
+
+That’s how I see these things as. If the business wants to blocked, it gets blocked."
+1kqbe08,comment,mt540d2,1kqbe08,Timberwolf_88,InfoSec Engineer,2025-05-20 00:04:03,1,"The CIO/CISO needs to own the policy and governance, IT may need to own implementation and config to ensure compliance with policy.
+
+If the company is/wants to be iso270001/nis2/cis/etc. compliant then ultimately the board witll have personal accountability."
+1kqbe08,comment,mt55e44,1kqbe08,kagato87,,2025-05-20 00:10:58,1,"It informs management if risks that require considering.  For example customer data or pii needs to be kept out of public models.
+
+Management creates the policy, IT tells them it's impossible to enforce from a purely technical standpoint and they need HR backing.
+
+At least, that's usually how it goes..."
+1kqbe08,comment,mt5el27,1kqbe08,ABotelho23,DevOps,2025-05-20 00:56:23,1,"I think it's silly to think IT shouldn't at least be consulting about AI.
+
+Do you really want laypeople making these decisions?"
+1kqbe08,comment,mt5f9br,1kqbe08,Carter-SysAdmin,,2025-05-20 00:59:36,1,"ISO 42001 is a new cert not many folks have locked in yet, I imagine it will become more and more relevant to more and more companies as things keep speeding up."
+1kqbe08,comment,mt5i3ft,1kqbe08,dcsln,IT Manager,2025-05-20 01:13:18,1,"  
+Do you want another department to manage AI in your organization? 
+
+AI is like any other software/SaaS/product/etc. You can manage it, or someone else can manage it. The more tech tools are managed outside of IT, the less valuable IT is. Is that fair? No. Is that more work with no more compensation? Maybe. 
+
+Broadly speaking, IT's role is to be smart about tech, and help the org make good technical decisions. Some of that involves managing tech directly, some of it involves being a trusted advisor. Both roles are really important. That's why all your vendors want to manage your systems and/or be your ""trusted advisor"". 
+
+Give your advice. Recommend a program. Recommend training, project time, proofs-of-concept, and other stuff the IT team can do. Treat it like real work, that pushes out some other work. 
+
+Whatever you do, don't sit on the sidelines."
+1kqbe08,comment,mt5k4rd,1kqbe08,Apfaehler22,,2025-05-20 01:23:02,1,"We had training done for all our users. Especially in a healthcare environment it’s wild West with some of these guys. Very scary how security best practices are thrown out the window with the info they put in there. 
+
+But who ever made the training video was not IT. Someone in upper management. It was trash and pretty sure half of the video was generated with AI. Using examples such as smart Alexa speakers and google assistant and calling them AI devices. 
+
+I’ve been telling users who ask about it. To treat it like any other security measure we have while using the internet or checking emails and so on. And no your google assistant is not AI. 
+
+It’s a wild time for sure."
+1kqbe08,comment,mt5lh34,1kqbe08,povlhp,,2025-05-20 01:29:24,1,"A cloud service is a problem of whoever uses it and those who pays. 
+
+IT pays for servers and services in the cloud here. So our AI is our problem. 
+
+The other AI is a problem for legal."
+1kqbe08,comment,mt5lsp6,1kqbe08,fresh-dork,,2025-05-20 01:30:55,1,"i work at a largish company that has an articulated AI policy:
+
+* business set the policy (don't leak confidential info to external AI, bounds on how we use it internally, etc)
+* IT and security implement controls to execute the policy and make exceptions from the norm when warranted.
+
+i think the company is a but stuffy, but generally consistent in following good practices"
+1kqbe08,comment,mt5pw93,1kqbe08,ARobertNotABob,,2025-05-20 01:50:20,1,"There are *very few* Directors fully conversant with the ramifications of embracing AI, which means it's going to be a case of the blind leading the blind most everywhere, with only bottom-lines truly scrutinised for effect, as increasingly usual."
+1kqbe08,comment,mt5qbq1,1kqbe08,aintthatjustheway,,2025-05-20 01:52:22,1,"It's a business decision. My company blocks all public 'AI' resources.
+
+I'm really happy about that."
+1kqbe08,comment,mt5qs7w,1kqbe08,Xibbas,,2025-05-20 01:54:33,1,Its a legal/IT/Cybersecurity problem.
+1kqbe08,comment,mt5sl7i,1kqbe08,Zenin,,2025-05-20 02:03:11,1,"TL;DR - Yes, it's *VERY* much an IT problem.
+
+Our vendors have been pushing it on us with free credit bribes, etc...because as IT we're where their money comes from.  I've been pushing back hard on a few fronts:
+
+1. We're IT, we don't build projects we support them.  Get us *training* and on how to best deploy and support the AI applications we're sure Business will be throwing at us.  We don't want to be the roadblock to progress, but we're probably not going to be the driver.
+2. Hey you the vendor: If there are good use cases for IT to be using AI directly (not just deploying/supporting it), surely you've already got some idea of those from your other customers?  Please give us some high level (no NDA info) examples of how IT using AI directly is helpful.  And then explain how those use cases aren't already being covered by features of the IT apps we do use today such as within CrowdStrike, etc.
+3. What specific guardrails can we put around these AI tools?  AWS for example is telling us that Q Developer in the Console/CLI will have ""the permissions of the user"".  As someone with pretty extensive permissions...that sounds absolutely horrible.  Our TAM is currently going to get back to me on what limit policy, if any, we can put around Q to satisfy this.  For example I *do* want Q to be able to see most all resource meta data, metrics, and logs, but absolutely *not* see data within buckets, dynamo tables, etc.
+4. Additionally talk to me about your *business* AI tools in depth for two reasons: First, because like I noted in #1 we'll probably be asked to deploy and support them, but Secondly because as IT *we* can probably be customers for these ""Business"" tools.  For example, Amazon Q for Business can train against our Confluence docs, past issues in Jira, Slack discussions, email threads, etc and possibly combine those knowledge bases with our monitoring data, etc and be able to help IT trace down and connect the dots around new trouble tickets more efficiently and effectively.  BUT...like #3...that's going to need some very solid and clear guardrails because we certainly can't have user A seeing data that only user B should have access to simply because user A was clever with their prompts or whatever.
+5. ROIs on *everything*.  AI is stupidly expensive.  What's the story around proving what the business spends on this actually returns meaningful value?  In revenue, in time to market, in systems reliability, etc.  Can we trace per-user metrics of AI to see if/how it's being adapted and/or what results it does or doesn't bring?"
+1kqbe08,comment,mt5w39u,1kqbe08,ultraspacedad,,2025-05-20 02:20:11,1,It's 100% Management that decides what AI Controls are needed moving forward. If they are asking you because they don't know and pushing it on you then good. Just make sure company Data is Private and if the Boss doesn't know just use best practices and pray
+1kqbe08,comment,mt61dm5,1kqbe08,DaemosDaen,IT Swiss Army Knife,2025-05-20 02:46:12,1,"My answer is going to be ""It depends""
+
+Each org has a different set to regulation, guidelines and requirements concerning data. Your bosses may not know what those all are since they rely on IT to keep them on the up and up. (Or at least to let them know and they ignore. Make sure you document it.)
+
+So it could easily be on the IT Department to make a suggestion that gets sent and Lawyered up before becoming Polify.
+
+Example:
+
+I work for several Police Departments, due to the unreliable nature and the fact that the data leaves our reasonable control, it is not acceptable for CJIS data to be opened to it. I advised my Director then we advised the County Admin (my Primary employer) of this and now we have a lawyered up version of ""No AI at this time."" One of the cities I work for has already made their own Policy. Once I advised of the CJIS information, they decided to have use separate the data."
+1kqbe08,comment,mt63551,1kqbe08,loupgarou21,,2025-05-20 02:54:48,1,"In our organization it was somewhat easy because policies like that all come from HR, so our AI policy is coming out of the HR department.  That being said, HR worked with us in IT to help draft the policy."
+1kqbe08,comment,mt658r7,1kqbe08,BarsoomianAmbassador,,2025-05-20 03:05:11,1,"The assumption would be that the IT department would have a better understanding of AI than the management team. It's tech, so it falls under the umbrella of the IT department to manage, ultimately. IT would help guide management in creating policies for AI use."
+1kqbe08,comment,mt67ztp,1kqbe08,Complex86,,2025-05-20 03:19:03,1,It is a legal issue more than anything
+1kqbe08,comment,mt685b7,1kqbe08,discosoc,,2025-05-20 03:19:49,1,"It's an HR and/or legal problem, same as watching porn or exfiltrating company data.  Sure, you can implement technical measures to curb it, but those measures need to be framed around what's established at a policy level.
+
+Right now, however, nobody really knows what ""AI"" actually means for businesses because it's being tossed into fucking everything by everyone.  This is probably not going to chance until we finally see corporate lawsuits from AI fallout slugging it out in court, or Boeing going under after AI designed planes start crashing or something equally crazy.
+
+Even then, I suspect it's not going to be ""banning AI"" so much as just trying to regulate how it's used -- especially in regard to client data.  I'm seeing this a little in insurance and HIPAA industries but it's kind of vague, like there's a known concern about protected or client data being ingested in an AI model, but nobody is really sure how to even outline the risk or verify such an infraction.  So it gets mentioned as prohibited with zero guidance on *how*."
+1kqbe08,comment,mt69azx,1kqbe08,Redacted_Reason,,2025-05-20 03:25:38,1,Establish an SLA
+1kqbe08,comment,mt6b90y,1kqbe08,MoeraBirds,,2025-05-20 03:35:26,1,"AI needs a joint governance approach: Privacy, Legal, IT, Security, Business. That lot agree the policy and governance model. 
+
+Then IT operations people make it work within the guardrails. 
+
+In a few years it’ll be core IT but right now it needs special attention."
+1kqbe08,comment,mt6l7ne,1kqbe08,xgreenyflo,,2025-05-20 04:25:16,1,"no, it's a tool"
+1kqbe08,comment,mt6lgyl,1kqbe08,telmo_gaspar,,2025-05-20 04:26:32,1,No! It's s tool.
+1kqbe08,comment,mt7k1m8,1kqbe08,MateusKingston,,2025-05-20 07:34:34,1,"Shared as most people said, no one has all the info needed to do this alone"
+1kqbe08,comment,mt7nxr6,1kqbe08,[deleted],,2025-05-20 07:57:22,1,It is when idiots think they can use AI to fix a problem and end up making it worse because AI is so confidently wrong so much of the time.
+1kqbe08,comment,mt7wnfa,1kqbe08,ShowMeYourT_Ds,IT Manager,2025-05-20 08:50:47,1,"Starting place:
+
+Free AI:
+Don’t put anything in any AI you’d wouldn’t want in public. 
+
+Paid AI:
+Pay for an AI that won’t use your data to train."
+1kqbe08,comment,mt7zwj6,1kqbe08,RobertBiddle,,2025-05-20 09:10:49,1,"From a corporate perspective, the concerns about AI usage fundamentally amount to data policy and management. 
+
+That  &lt;i&gt;&lt;b&gt;is IT&lt;/i&gt;&lt;/b&gt;."
+1kqbe08,comment,mt8180k,1kqbe08,mrcollin101,,2025-05-20 09:19:05,1,"It’s a technology, it’s IT’s role to document the risks and controls, then partner with the business units to determine what controls to put in place and what risks to accept.
+
+Sysadmin determines the technologies capabilities for controls
+
+Security Admin documents the risks
+
+IT manager sets expectations for the above and determine priorities and timelines (maybe with a project manager in there if your org has one)
+
+IT director partners with the business units to articulate and document the controls and accepted risks
+
+CIO pulls rank when business units demand stupid shit
+
+Then one the decisions are made it all flows in reverse to production"
+1kqbe08,comment,mt8l8hl,1kqbe08,SwiftSpear,,2025-05-20 11:30:44,1,I assume IT manages things like accounts for third party services.  The vast majority of AI business use are variants of that system.  Very few businesses are running their own AI in AWS or something like that.
+1kqbe08,comment,mt8vyxh,1kqbe08,NorthAntarcticSysadm,,2025-05-20 12:55:02,1,"It is a shared responsibility, not a problem
+
+
+When used right it can enable roles and businesses to excel.
+
+
+Most think it is solely an IT function to manage. Any policy or process which does not have backing of management, leadership, HR, etc, doesn't have any teeth. As IT you can guide the business leaders, HR and Legal to come up with policies for the business, but without a top-down approach it'll end up like your home lab. You know, the lab that is full of old equipment you don't have the time or energy to even power on."
+1kqbe08,comment,mt9w20b,1kqbe08,dontmakemewait,,2025-05-20 18:49:46,1,"I don’t think any one department should be setting the rules. 
+
+It’s a risk management problem. If your company is big enough, they will have a risk team. If it’s not, then someone still has the role of deciding what is your appetite for risk. That’s going to start defining your guard rails. Once they are in place tech teams need to figure out how to manage the tech side of the problem. It probably starts with education. Teach your staff about where the info
+Comes from that builds Ls and make sure they are not adding IP or PII data into that mix."
+1kqbe08,comment,mta4yxv,1kqbe08,Warm-Reporter8965,Sysadmin,2025-05-20 19:57:30,1,I work in healthcare so I'm unsure of AI within the industry due to the risk of HIPAA since you know some dingus is going to plug in client data looking for exact results.
+1kqbe08,comment,mta8cdh,1kqbe08,Jacmac_,,2025-05-20 20:20:24,1,"Not an IT problem. Most organizations that are having panic attacks over AI are flailing around trying to stop it's usage, meanwhile Joe Employee is on his cell phone sending and recieving attachments and using AI left and right to get work done faster. The orgs worried about information leakage are straight up shouting at clouds."
+1kqbe08,comment,mtall7j,1kqbe08,ryuut,,2025-05-20 21:41:01,1,It's cybers problem to define the guidance
+1kqbe08,comment,mtbab9w,1kqbe08,lsudo,,2025-05-20 23:45:18,1,"The advent of AI in the school setting is no different from the impact of calculators in the classroom.  Our stance is that It's not going anywhere so faculty need to learn to work with not against.  We can block AI all day long but It's not going to do a damn thing.
+
+The most important thing is for the school to establish what resposible AI utlilzation looks like with the students and faculty.  Secondly,  outfit faculty with the tools to evuate irresponsible AI utilization (When a student is letting AI do their thinking for them).  Thirdly is for the district to adopt firm policies for what happens when AI is abused.  At no point is IT involved aside from helping with the deployment of staff tools and resources."
+1kqbe08,comment,mtgcsod,1kqbe08,Wulf621,,2025-05-21 19:14:29,1,"Monopolize. Offer to build an in-house AI, get some nice, fat GPUs. They make it your responsibility, you make it your power"
+1kqbe08,comment,mtgjt6i,mtgcsod,Greenscreener,,2025-05-21 20:04:59,2,"First you get the GPU, then you get the women, then you get the power..."
+1kqbe08,comment,mts88qz,1kqbe08,[deleted],,2025-05-23 12:55:16,1,It’s a people problem.
+1kqbe08,comment,mu5nwfn,1kqbe08,Aerdi,,2025-05-25 19:47:41,1,"IT in collaboration with the CISO consults the C-Level Decisionmakers, usually CEO&amp;CFO on the risks and opportunities. I wouldn’t be comfortable with taking responsibility for a decision on such a regulatory pitfall."
+1kqbe08,comment,muccetj,1kqbe08,Kungfubunnyrabbit,Sr. Sysadmin,2025-05-26 21:55:56,1,I feel that there should be a collaboration between the business and IT. If we leave the technology decisions to the business who knows what you will end up with.
+1kqbe08,comment,neayk5c,1kqbe08,Clyph00,,2025-09-15 14:28:20,1,"AI is not an IT problem. The business owns policy with Legal and HR, security frames risk and control requirements, and IT implements. Start with a RACI, data classification, and a simple intake for AI use cases so approvals and exceptions are traceable. Tie it to ISO 42001 or your existing risk register.
+
+What worked for us: business defined acceptable uses, security wrote control standards, IT enforced. We kept it lightweight and auditable. In the browser, we use LayerX to quietly keep prompts compliant while we sort out bigger governance pieces. Kept everyone productive and out of trouble."

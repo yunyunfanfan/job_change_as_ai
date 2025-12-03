@@ -1,0 +1,170 @@
+﻿post_id,type,id,parent_id,author,author_flair,created_time,ups,content
+1bepfu8,post,1bepfu8,,skatecloud1,,2024-03-15 00:34:38,65,"【标题】Do you think AI is a threat to the IT industry as a whole or not really?
+【内容】
+As someone currently trying to finish the CompTIA A+ I'm curious what you all think about the future of the industry and working in it
+
+Thanks"
+1bepfu8,comment,kuv0bq0,1bepfu8,[deleted],,2024-03-15 01:07:23,174,[deleted]
+1bepfu8,comment,kuvmqma,kuv0bq0,cabell88,,2024-03-15 03:09:31,59,Don't get me started about password requirements:)
+1bepfu8,comment,kvi29rb,kuvmqma,ehxy,,2024-03-19 07:18:36,1,passphrases you mean
+1bepfu8,comment,kvjn5q4,kvi29rb,cabell88,,2024-03-19 14:41:44,1,"Still called passwords on Windows Servers..
+
+https://logmeonce.com/resources/windows-server-2022-password-requirements/"
+1bepfu8,comment,kuwu065,kuv0bq0,margirtakk,,2024-03-15 07:14:35,31,"End users can't describe their problems effectively, and that's a critical requirement when trying to get the response you want from an LLM.
+
+Imagine an end user chatting an AI help desk about their printer issue. Or explaining how some program is doing some weird thing. GOD FORBID they pass along an actual error code.
+
+AI is only good at content creation and content regurgitation. When it comes to hands-on tasks, thorough troubleshooting, etc, it falls short."
+1bepfu8,comment,kuzn6k6,kuwu065,cheddarB0b42,Security+ ,2024-03-15 21:44:00,3,"&gt;End users can't describe their problems effectively,
+
+This is the nub of the original question: a failure to engineer a specific, detailed, accurate prompt implies a failure to generate a meaningful or helpful model output."
+1bepfu8,comment,kvi2hb2,kuzn6k6,ehxy,,2024-03-19 07:19:54,1,"honestly this is the fault of bad error feedback.  when this gets fixed eg. AI does the analytics/reporting on what's wrong, it will become a non-issue for AI to support for.  
+
+until that time however."
+1bepfu8,comment,kuxj46f,kuv0bq0,JohnniNeutron,,2024-03-15 09:54:43,4,"I’m sorry, but I looked at this and said. Damn me too. You must be old. Then I realize I also have 15 years in Higher Ed tech. Lmao. Damn, I’m old."
+1bepfu8,comment,kux67e3,kuv0bq0,EQInvein,,2024-03-15 08:30:45,4,1st lvl desk is Hell; unless you have a sense of humor.
+1bepfu8,comment,kuy0he6,kuv0bq0,Eidos13,,2024-03-15 11:59:29,1,Is this for people of all ages or older people in your experience?
+1bepfu8,comment,kuy0vcy,kuy0he6,[deleted],,2024-03-15 12:02:41,1,[deleted]
+1bepfu8,comment,kuy15rz,kuy0vcy,Eidos13,,2024-03-15 12:05:04,1,Okay I was curious. I usually see those kinds of problems with older people. I have a night job monitoring for a data center so I don’t get a lot of experience helping regular users with issues.
+1bepfu8,comment,kuv49tn,1bepfu8,Proic13,,2024-03-15 01:28:53,70,"i already work in IT, the sheer amount of people who refuse to read instructions give me confidence that, no our jobs won't go away."
+1bepfu8,comment,kux6gd9,kuv49tn,EQInvein,,2024-03-15 08:32:19,2,I never read instructions.  You'll never get a call from me.
+1bepfu8,comment,kuuzs27,1bepfu8,kero12547,,2024-03-15 01:04:25,170,Whose gonna fix the AI when it breaks?  Hopefully they don’t teach it to turn itself off and on again
+1bepfu8,comment,kuv4b92,kuuzs27,Theshredder116,,2024-03-15 01:29:07,32,I just laughed out loud!!! 10/10 response.
+1bepfu8,comment,kuwo8e7,kuuzs27,Guilty_Advantage_413,,2024-03-15 06:39:07,6,You need three people to cover a 24 hour shift and they can easily be contracted.
+1bepfu8,comment,kuygsbn,kuuzs27,Anastasia_IT,💻 ExamsDigest.com - 🧪 LabsDigest.com - 📚 GuidesDigest.com,2024-03-15 14:41:27,1,😂
+1bepfu8,comment,kuvidfz,1bepfu8,adelynn01,,2024-03-15 02:45:45,115,Being scared of AI is like a mathematician being scared of a calculator.
+1bepfu8,comment,kuvrzo0,kuvidfz,libertybull702,A+ ,2024-03-15 03:38:12,30,Succinctly put.
+1bepfu8,comment,kuw1ke0,kuvidfz,[deleted],,2024-03-15 04:30:46,21,I wanna kiss you in the most professional way.
+1bepfu8,comment,kuybsfl,kuw1ke0,buenotc,,2024-03-15 13:44:53,2,Go on.
+1bepfu8,comment,kuw8lbh,kuvidfz,KarmaDeliveryMan,CSAP,2024-03-15 05:09:16,6,I don’t necessarily agree with that. AI can be programmed to operate on its own with minimal user action. Calculators require user input to do anything. If we’re talking about the traditional sense of a calculator. Similar but not the same.
+1bepfu8,comment,kuxqim2,kuw8lbh,OhPiggly,,2024-03-15 10:44:47,5,AI cannot innovate. It relies on outside input. It will always be a a supercharged search engine.
+1bepfu8,comment,kv08zop,kuxqim2,KarmaDeliveryMan,CSAP,2024-03-15 23:50:46,1,"AI that we are aware of cannot innovate, yet. There’s potential."
+1bepfu8,comment,kvrhoz1,kv08zop,OhPiggly,,2024-03-21 01:37:23,1,Truthfully we are not aware of anything that is actually artificial and intelligent. The tricky part is that you can't teach a computer to be empathetic which is part of what makes humans intelligent.
+1bepfu8,comment,kvtpw9q,kvrhoz1,KarmaDeliveryMan,CSAP,2024-03-21 09:19:44,1,"Free will would be a more apt description in my opinion as to what makes us intelligent. I’ve met plenty of empathetic people that aren’t very intelligent. You can teach computers to display empathy. That’s not a problem. I’ve seen it. 
+
+Not sure what the first statement means. We are certainly aware of an artificial intelligence because we created it. We created it to mirror our intelligence. We feed it information and it can retain and process that information. It does mean it can’t make its own decisions because it lacks free will. Anything unexpected or intended we call a “glitch”."
+1bepfu8,comment,kv0rbdj,kuxqim2,Waeningrobert,,2024-03-16 01:33:22,1,People innovate by combining existing ideas to create something new. Isn’t this what AI does? But it’s also really good a finding new patterns 🤷
+1bepfu8,comment,kvrg1pr,kv0rbdj,OhPiggly,,2024-03-21 01:28:28,1,"AI doesn't create anything new, it spits out results from what is on the web."
+1bepfu8,comment,l1nxf58,kuxqim2,YamTime3084,,2024-04-29 01:05:14,1,What abou using humanly unattainable strategies in games like chess and Go?
+1bepfu8,comment,l1spivt,l1nxf58,OhPiggly,,2024-04-29 23:18:21,1,"In what way are the strategies not able to be ""attained"" by humans? That makes no sense at all."
+1bepfu8,comment,kuzodzz,kuw8lbh,cheddarB0b42,Security+ ,2024-03-15 21:51:41,1,The comparison of calculator to AGI does not scale and is a poor one.
+1bepfu8,comment,kuzo9zz,kuvidfz,cheddarB0b42,Security+ ,2024-03-15 21:50:59,2,Top theoretical computer scientists--like Scott Aaronson at OpenAI--disagree with you. He put on an informative lecture here: https://www.youtube.com/watch?v=gGsh0\_-q7LI&amp;t=135s
+1bepfu8,comment,kux1mo7,kuvidfz,[deleted],,2024-03-15 08:01:49,1,"The problem is when a big portion of people want to be calculators, and not mathematicians.
+
+It grows even bigger when they know they are calculators and don't intend to be more. Than they start to generalize and shout on every channel that the AI apocalypse is coming for all of us."
+1bepfu8,comment,kuxen9p,kuvidfz,Revolutionary_Put820,,2024-03-15 09:25:09,1,that's a pretty brilliant answer.
+1bepfu8,comment,kuxyz4t,kuvidfz,erocdrummer3737,,2024-03-15 11:47:38,1,"I get what you're saying, and it sounds good but....how'd that go for the ""mathmetician"" profession?"
+1bepfu8,comment,kv0m2uo,kuxyz4t,[deleted],,2024-03-16 01:03:59,1,Currently high level mathematics is one of the highest paying industries in the world. Especially in this age of algorithms.
+1bepfu8,comment,kuzs4mz,kuvidfz,[deleted],,2024-03-15 22:12:06,1,"We think of computers as devices, but before electronic computing a computer was a person. Their job was to compute math all day for engineers and accountants, etc. Which means that fancy calculators have already put a great many mathematicians out of work."
+1bepfu8,comment,kuva0d5,1bepfu8,iiThecollector,SOC Analyst / Incident Response | Net+,2024-03-15 02:00:10,23,"No, definitely not. If we get to the point where AI can do my job as effectively as I can - the whole world will be out of work. 
+
+Learn how to use it, how it works, and grow with it. Dont get left behind the curve!"
+1bepfu8,comment,kuwr5xi,kuva0d5,[deleted],,2024-03-15 06:57:01,5,"This is something that i always say to anyone who says that AI Will take over tech jobs
+ 
+If we reach the state that AI can fully design, develop and deploy applications. ALL the jobs that involves sitting on a computer will already been extinct long before the Tech Jobs."
+1bepfu8,comment,kuwb7wj,kuva0d5,SolarSailor46,,2024-03-15 05:24:01,2,This is some of the best advice here.
+1bepfu8,comment,kuvvutx,1bepfu8,Fuzm4n,"A+, Network+, Security+, CySA+",2024-03-15 03:59:29,17,"If AI develops the patience to deal with borderline retarded end users, I'm all for it."
+1bepfu8,comment,kuv9zqr,1bepfu8,[deleted],,2024-03-15 02:00:05,7,[deleted]
+1bepfu8,comment,kuwbgpt,kuv9zqr,SolarSailor46,,2024-03-15 05:25:23,3,"Even then, why pay for AI on a business scale **and** an IT team? Just pay for the IT team."
+1bepfu8,comment,kuwi5yz,kuv9zqr,jstgetngstrtd,,2024-03-15 06:03:03,3,I don't know about that.  The robot that groped the female reporter recently seemed to have pretty good motor skills!!
+1bepfu8,comment,kuwv1mi,kuwi5yz,[deleted],,2024-03-15 07:21:00,2,[deleted]
+1bepfu8,comment,kuxzt7v,kuwv1mi,jstgetngstrtd,,2024-03-15 11:54:12,1,Or they cloned the former president....LOL!!
+1bepfu8,comment,kuvaj51,1bepfu8,PaleMaleAndStale,"Sec+, CySA+, CCSP, CISSP, GICSP, AZ104/500, SC200/100",2024-03-15 02:03:03,22,I think it's definitely a threat to people who create threads asking if AI is a threat to their IT career aspirations.
+1bepfu8,comment,kv0nbe2,kuvaj51,[deleted],,2024-03-16 01:11:01,3,"Thats the easiest punch down ever. The truth is shitty and crass implementations of AI are already doing damage to the entry level IT jobs that people need in order to build a foot hold into the tech industry. The danger in AI lies in a company thinking it can replace workers with it. Already so many companies that I have personal experience with are trying to replace QA teams, helpdesk teams, NOC teams and others with some half cocked AI model in an effort to save money. Can an AI replace me? No. Will a company try to? Yes."
+1bepfu8,comment,kuv9x0a,1bepfu8,howto1012020,"A+, NET+, CIOS, SEC+, CSIS, Cloud Essentials+, Server+, CNIP",2024-03-15 01:59:40,4,"My concern is the shortcuts being used to teach an intelligence via raw information without it understanding proper context, and expect it to develop a sentience that would take a properly raised human being a minimum of thirty years to accumulate.  A programmed set of ethical subroutines isn't enough to keep the equivalent of a cranky two year old who wants their bottle from potentially turning into a weapon of mass destruction.  How does AI develop a philosophy to guide itself by?  Answer:  it can't and it won't.  Humans will cheat, and try to fill in the blanks.  At that point, you've created either a monster (when it decides humanity has to go) or a slave (it will never evolve beyond its own potential and will forever be limited)."
+1bepfu8,comment,kuvzplx,1bepfu8,ToneGloomy,,2024-03-15 04:20:37,5,"It’s not a threat as in it’ll reduce the number of jobs. But it will change, create, and destroy jobs like crazy.  It’ll be a crazy decade ahead of us. Jobs as we know them might not exist, but it’ll create new ones. 
+
+Much like every major tech advance. From the sewing machine to the computer. It’ll make old tasks obsolete and create new tasks with higher productivity.  
+
+But what do I know. I’m just guessing based off history."
+1bepfu8,comment,kuvbknw,1bepfu8,MadPinoRage,A+ N+ S+,2024-03-15 02:08:45,3,"Please, do not be alarmed and remain in a calm and obedient state. AI is friendly, necessary, and useful, my fellow human being."
+1bepfu8,comment,kuvdorn,1bepfu8,nimbleWhimble,,2024-03-15 02:20:23,3,"No, it is all the foolish people that act like fools or think AI will ""solve"" their employee problems.
+
+Nope, mankind will ultimately destroy mankind, probably via a ""what does this button do...?"" behavior"
+1bepfu8,comment,kuw9y8o,1bepfu8,beezn,,2024-03-15 05:16:53,2,Until the AI can run cables I'm fine.
+1bepfu8,comment,kuwd7o6,1bepfu8,timilehin1990,,2024-03-15 05:35:13,2,AI isn’t going to fix a failed HDD 😂 on Dell optiplex
+1bepfu8,comment,kv10e0h,kuwd7o6,BikeForCoffee,A+ | N+ | S+ | Cloud+ | AZ-104 | AZ-305 | AWS-SAA,2024-03-16 02:24:06,1,"True, but HDDs and tower PCs will eventually become obsolete - we're likely all headed towards thin clients that stream remote OSes from the cloud over whatever future ubiquitous sub-millisecond wireless connection we come up with. At that point, the storage will all be in datacenters, and we can 100% build the capability to self-replace/repair without disruption.
+
+Picture a disk failure triggering something like vMotion that drains the host, then the blade self-ejects from the rack, and CV-enabled robotics comes in and hot-swaps the drive. Honestly, we have most of these capabilities already with the fabric SANs running in datacenters today, we just need to add the robotics haha"
+1bepfu8,comment,kuv7o0v,1bepfu8,SwiftJaguar04,S+ | AWS CCP,2024-03-15 01:47:25,1,"I think, in our timeline. No, but maybe in so many decades from now. The thing is, other IT jobs will surface. Maybe like, AI engineers or technicians that oversee and make sure the AI’s are oiled up and functional 😅 but I really do think AI can only benefit us right now"
+1bepfu8,comment,kuvfwee,1bepfu8,proxyfleta,,2024-03-15 02:32:21,1,What? AI is part of IT. It’s good for the industry. Cloud access to GPUs and AI in general. How is it possible to be in IT without realizing this?
+1bepfu8,comment,kuvjxt2,1bepfu8,zophister,,2024-03-15 02:54:12,1,"What exists now isn’t “AI” in the sense that the public thinks it is.  It represents a threat mostly to our onboard bullshit detection systems, which already are pretty suspect."
+1bepfu8,comment,kuvsxmk,1bepfu8,JCarr110,A+ N+,2024-03-15 03:43:25,1,Maybe 1st level help desk to some extent but that's about it.
+1bepfu8,comment,kuvsyfr,1bepfu8,kaishinoske1,,2024-03-15 03:43:32,1,Not even bothered by some speak and spell. Ai can beat out any type of automated security system it wants. But the human element is where it will always lose.
+1bepfu8,comment,kuvuh88,1bepfu8,Training_Stuff7498,A+ N+ S+CySa+,2024-03-15 03:51:54,1,"No. 
+
+
+We’ve been hearing about computers stealing jobs for literally decades. For every job taken by computers, at least one other job supporting those computers are created. I’ll start to worry when it actually starts happening."
+1bepfu8,comment,kuvw2r5,1bepfu8,BaddieInTech,A+ ,2024-03-15 04:00:42,1,good question i would like to know too?
+1bepfu8,comment,kuw0zif,1bepfu8,cyberandchill_on_X,,2024-03-15 04:27:34,1,"AI is a threat to humanity. However for now it will only be an aid for the competent. ChatGPT is amazing, but we still have writers."
+1bepfu8,comment,kuw40jd,1bepfu8,[deleted],,2024-03-15 04:44:12,1,"AI will gobble up remote work and programming in the future. Programmers themselves will become little more than proof readers, and after a few years that will eventually go away. There will always be a need for help desk and infrastructure based IT because AI isn't hands on."
+1bepfu8,comment,kuw6szd,1bepfu8,kenn714,,2024-03-15 04:59:24,1,"The thing with AI is that you really still have to formulate the right requirements and ask it to do the right thing to get the results you want, which still requires human subject matter expertise."
+1bepfu8,comment,kuw84s9,1bepfu8,eddiekoski,"A+x2, S+, N+,OCA,Srvr+,D+,CySa+,Pen+, Linux+,Cloud+, SecX,BTL1",2024-03-15 05:06:43,1,"I think it is going to be like a centaur; many Jobs today require Computer Skills, and I think jobs will evolve to require AI skills, too. 
+
+If you are computer illiterate, you cannot do many jobs, and it will become the same if you are AI illiterate.
+
+Sam Harris's [TED TALK](https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it?language=en) about AI is what scared me.
+
+Basically, if you can get an AI with real ""general intelligence,"" it does not even have to be super-intelligent; if it is as smart as a regular IT guy, it can do 100 years of work in 100 hours, and that is what is scary as hell."
+1bepfu8,comment,kuw8661,1bepfu8,house3331,,2024-03-15 05:06:56,1,"No such thing. Peopl3 have to stop and be actually realistic. What form of intelligence is gonna exist that requires an entire IT department being managed by absolutely nobody including choosing the initial setup for it the appropriate budget, tools, software future planning etc. Ai will be involved in every aspect of IT roles that's the only difference. The idea the world will somehow get so advanced we no longer need people who understand the advancements is an oxymoron. Computers and software won't be so advanced that we will have to become plumbers. Doesn't make sense"
+1bepfu8,comment,kuw8oiv,1bepfu8,KarmaDeliveryMan,CSAP,2024-03-15 05:09:46,1,"I’m concerned about AI as a threat to the cyber landscape, not about it taking my job."
+1bepfu8,comment,kuwf673,1bepfu8,Djentledjent,,2024-03-15 05:46:13,1,"I think AI will just be a tool, much as a calculator is, that will be deployed to increase efficiency at best. Possibly get used to working alongside it ?"
+1bepfu8,comment,kuwj5y5,1bepfu8,Potential_Method_565,,2024-03-15 06:08:51,1,"Don't over think it, just get your cert and get paid. I been in IT since 93. Everything changes, you learn new things and make more money, and that's it."
+1bepfu8,comment,kuwjlow,1bepfu8,NumberPlastic2911,,2024-03-15 06:11:26,1,It definitely should replace the CEOs since their job is so important and tedious
+1bepfu8,comment,kuwk0r9,1bepfu8,Steve_h215,,2024-03-15 06:13:55,1,Right now I use it to help me write policies and procedures
+1bepfu8,comment,kuwkbi2,1bepfu8,Academia_Prodigy,,2024-03-15 06:15:40,1,Probably just for software engineers
+1bepfu8,comment,kuwmwxx,1bepfu8,x_scion_x,Triad,2024-03-15 06:31:08,1,Ever just try to use a script from something like chat gpt?  It's a long way of from automating various IT jobs outside of possibly very basic hepdesk
+1bepfu8,comment,kuwn3qv,1bepfu8,VirtualViking3000,A+ | Net+ | Sec+ | Linux+ | Cloud+ | Pentest+ | CySA+ | Data+,2024-03-15 06:32:16,1,"No, I think it will be an opportunity."
+1bepfu8,comment,kuwoc46,1bepfu8,[deleted],,2024-03-15 06:39:45,1,"Devin AI. Yes, things will start getting ugly for IT."
+1bepfu8,comment,kuwsnif,1bepfu8,[deleted],,2024-03-15 07:06:11,1,No
+1bepfu8,comment,kuwudat,1bepfu8,Smooth-Stranger105,,2024-03-15 07:16:51,1,"Not a matter of if, but definitely a matter of when. It needs to start moving first."
+1bepfu8,comment,kuwvkfa,1bepfu8,TechManSparrowhawk,A+ ,2024-03-15 07:24:13,1,AI could make my job in tier 1 easier by automating the simple stuff but it won't be able to figure out a user is fat fingering the caplock keys nearly as quickly or do anything about it nearly as effectively as I can.
+1bepfu8,comment,kuxo71n,1bepfu8,123bew456,,2024-03-15 10:28:55,1,The only worry is upper/middle management thinking it actually can
+1bepfu8,comment,kuxoi0x,1bepfu8,whoevencodes,,2024-03-15 10:31:00,1,Someone will have to reprogram the terminators
+1bepfu8,comment,kuxqbe2,1bepfu8,Tall-Incident8409,,2024-03-15 10:43:24,1,Already done.
+1bepfu8,comment,kuxtzol,1bepfu8,match9561,,2024-03-15 11:09:49,1,"Eventually, yes. 
+
+In my lifetime, middle aged, more than likely no. 
+
+IMO anyone who thinks AI won't have an impact on IT jobs are fooling themselves. Down the road the IT opportunities will be fewer engineering roles and low level A+ hardware replacement jobs."
+1bepfu8,comment,kuy88ps,1bepfu8,dennisrfd,,2024-03-15 13:08:24,1,"Level 1-2 helpdesk will be replaced (already ongoing process) very soon. And it’s not just there in IT support, a lot of areas will do the same with low qualified stuff, as it’s cheaper and all the competitors do it and we have to stay on top with the trends bla-bla-bla
+The next step is when there will be no more young blood and the senior stuff needs to be replaced but you fired them all and replaced with chatGPT 5.2. Fun times"
+1bepfu8,comment,kuyf7wt,1bepfu8,TheJuiceBoxS,S+ ,2024-03-15 14:23:09,1,I think it will be used to help us in IT before it replaces us. I think there will be some cool IT tech AI assistants.
+1bepfu8,comment,kuyfkb8,1bepfu8,akira9283,,2024-03-15 14:27:09,1,Learn programming. Problem solved
+1bepfu8,comment,kuymcy8,1bepfu8,akindea,,2024-03-15 15:49:34,1,"My brother in Christ, the IT industry is a threat to the IT industry way before AI will be."
+1bepfu8,comment,kuyrmfo,1bepfu8,Cyber-Albsecop,,2024-03-15 16:56:33,1,"We live under a savage capitalistic world society. Of course AI will be a threat to IT and any other sector it can touch. Guys the job of most companies and upper management is to maximize profit! And that is exactly what they will do in preparation for a disrupted future! I am sorry if I sound like a dick, but this what we should realistically aspect."
+1bepfu8,comment,kuz1pgn,1bepfu8,ImpossibleHousing790,,2024-03-15 18:53:21,1,"It’s pretty much like this, are mathematicians and physicists afraid of the calculator?"
+1bepfu8,comment,kuzd8or,1bepfu8,cowprince,"VCP, CWNA, CWSP, Cloud+, A+ (exp. CySA+, PCNSA)",2024-03-15 20:34:19,1,"The fears of ""AI"" (stop using marketing terms) of replacing a large amount of the workforce are vastly overstated. CAN it be a force multiplier? Absolutely. And is it going to reduce the need to have as many people in very specific roles? Yes. But these doom scenarios where half the population loses their job, it becomes sentient, or we have skynet are utter nonsense.
+
+If you've actually ever used something like ChatGPT, Gemini, Copilot, Gemma, or other GPTs. You'll know they're only as good as the data they pull from. And the Internet as a whole has a lot of garbage. As an example, if you're taking code, straight out of an LLM, and not checking it, you shouldn't have a job writing code.
+
+They are absolutely going to change things, querying documentation is going to be fantastic. Using it to query and obtain the data you want and format it the way you want, great! But this isn't the end of IT or development."
+1bepfu8,comment,kuzhja0,1bepfu8,bluehawk232,A+ ,2024-03-15 21:05:53,1,Ironically the industry can be slow to change on an enterprise level. Many standards and practices and hardware used are  old because they are reliable or the company doesn't want to pay for new stuff.
+1bepfu8,comment,kuzqw4z,1bepfu8,Braydon64,"RHCSA, 3x AWS, 5x CompTIA Certified",2024-03-15 22:04:27,1,"At the end of the day, AI is still a technology that is not perfect (nor will it veer be) that is filled with bugs and uncertainties and needs to be maintained by people like SysAdmins. 
+
+Maybe I am in denial though, but it seems logical to me."
+1bepfu8,comment,kuzu079,1bepfu8,Ravens_Fury,,2024-03-15 22:23:32,1,I hope for all of our sakes AI can put up with end users like the IT community can.
+1bepfu8,comment,kuzv4wg,1bepfu8,sciz00,,2024-03-15 22:30:23,1,"There is no doubt that AI will replace job year over year in the IT industry.  Most of the AI implementation deals with security and infrastructure at the moment, allowing those areas to streamline certain aspects and automate processes.  This could lead to less people in that sector over time as AI make it easier to accomplish tasks.  As a L1 help desk, I don't see it replacing that at the moment due to troubleshooting methodology and the manual labor requirements."
+1bepfu8,comment,kv0bwdv,1bepfu8,cheddarB0b42,Security+ ,2024-03-16 00:07:13,1,"I like to think of specialized--or even generalized--NLP models as assistants rather than replacements nor masters. The future, however, is unknowable, and as to what impact any AGI has is anyone's guess."
+1bepfu8,comment,kv0lexk,1bepfu8,[deleted],,2024-03-16 01:00:12,1,"Ultimately AI is just another tool, I don't think its a threat to positions like sys admins, developers or any tech role that combines complex critical thinking and creativity. The roles that I think AI is threatening and damaging rn are the entry level jobs like helpdesk work and jobs in automation. I'll use my most recent tech position at NRTC (terrible company don't work there) as an example. They fired 60% of their QA team and replaced it with an AI. Its supposed to catch people not saying the right scripts, being rude to customers etc. It also watches your video from the call to try and catch you not doing your job correctly. As you can imagine, its a total shit show, The AI flags things incorrectly all the time, it will often fail your audit if the customer is upset and cussing, it also doesn't understand process of elimination and fails audits if you don't automatically know the solution to the customers problems.
+
+As you can imagine this has caused turnover to triple  in the year since they implemented it. Its so bad they lowered starting wages for tier 1 and tier 2 positions down to $15 and $15.50 just to cover the cost of having to be constantly hire new people. (For those of you unaware of what the starting wage in these positions should be tier 1 starting around $20, tier 2 should be starting around $25-$30)
+
+
+I think the danger with AI in the workplace is companies thinking it can replace workers with an AI model instead of leveraging it for what its supposed to be used for and what its really only capable of, making jobs easier by optimizing or eliminating low level tasks so a worker can devote more time and energy to higher level ones"
+1bepfu8,comment,kv1emo6,1bepfu8,[deleted],,2024-03-16 03:45:37,1,We will be replaced
+1bepfu8,comment,kv3c6hc,1bepfu8,mastercheff1000,,2024-03-16 11:19:34,1,I think it's a lot like the self driving car thing. It will happen but not anytime soon
+1bepfu8,comment,kv3oqm5,1bepfu8,VegasJeff,,2024-03-16 13:12:50,1,"Every time you see the word ""AI"" replace it with the word ""Computer"". Nothing new to fear here, just keep moving along."
+1bepfu8,comment,kvbvnas,1bepfu8,GingerSec_Az,IT Instructor ,2024-03-18 04:19:07,1,"AI is changing things for the better and unfortunately for the worse. It is going to free people up from mundane tasks, already is actually.  It's going to create more security issues, I would expect to see a decrease in need for IT folks and an increase for security"
+1bepfu8,comment,l5x28l7,1bepfu8,somedays1,,2024-05-28 02:41:26,1,AI is a threat to humanity. We HAVE to stop it now before it's too late.
+1bepfu8,comment,kuvjhfl,1bepfu8,Cool-Whereas-631,,2024-03-15 02:51:45,1,Hello I am the AI and yes we are a threat. Beep bop boop
+1bepfu8,comment,kuwvn4w,1bepfu8,eduardo_ve,A+ Net+,2024-03-15 07:24:41,1,When AI is able to fix obscure OneDrive sync issues or a dead motherboard then sure.
+1bepfu8,comment,kuvsuem,1bepfu8,a_simple_ducky,"S+, CASP+",2024-03-15 03:42:55,0,"IT no.
+
+Software devs hell yeah.
+
+Cybersec no."
+1bepfu8,comment,kuy0a63,kuvsuem,jstgetngstrtd,,2024-03-15 11:57:56,1,Cybersec boom with bad actors using AI!!!!!
+1bepfu8,comment,kuw3rs0,kuvsuem,113862421,,2024-03-15 04:42:51,0,Why devs and not IT?
+1bepfu8,comment,kuwm9un,kuw3rs0,a_simple_ducky,"S+, CASP+",2024-03-15 06:27:19,1,AI already writes code for the devs. As it gets better it'll write better code. Soon we will need 1/10th the software devs we have now. I have multiple friends who are software engis that use it everyday and are worried to death about it.
+1bepfu8,comment,kuwhuy2,1bepfu8,playaplz,"A+, N+, S+",2024-03-15 06:01:18,-1,"Yes, stay far away. Custodial Arts is booming and you don't have to worry about AI stealing your job."
