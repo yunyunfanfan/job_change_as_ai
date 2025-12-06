@@ -1,0 +1,227 @@
+<!--
+	此示例下载自 https://echarts.apache.org/examples/zh/editor.html?c=bar-simple&code=zVf_b9NGFP-9Uv-HE9XkRITUSWlaBTEJlVZCQtO0VuOHqj-49iU54fgi-7omQKUiNroC5YuAjRUQo5NWxNYCE0OF0u6fie32p_0Le3e2k7OTlII2aVZVX3zv3r33eZ97793gIHJvPnHXr3v3X3orm9791_7tq_19OrUchmxt_rTGNHQSTff3IXguIkur4iJSTp3xri16j1647-75954pGfSNZs7BRH60MIQWMgnpvcs3mlur7vKK99OLtmxOzY12kX0qZHdeuXdX2rLHR9ROUW_xsvvu10Hvynf-9vO27NBIAS30982c6O_r7wP_vBtL7uaqv_qt-_Chv76yv_Zob_mPyEWdmtR2uIfKwEhhdGxsHBQpA2NDpwsTeTE8nRs_NTEshuO5iZHxEaWl2X15NYCtuXUzUOtv34G9IuVGAF4IY7aq1VIpwnA1g4hl4HoanfwcXQycsjGbs63oF38CJ7l4lg9D5_kT-immxFia4x8nWcOEeUkXf4SnxdDhaWHADLp0KfoQvLImtsqsgo6h3Ex7OaApXuD3Qjpy3t9-4H7_xv_tenPnrvfklX_tjftwF1DeW3oOEDTfLrtLO4AOSjX_euzduNzcWnFvPUi3qIXBAPsMWAsApWqarVWdDNJqRAYlEDWprjFCLRCE-axOqW2kpvlQOJ9S02Jh-CuXnkmfQPL6xtd8IlwdCYEXbQmHaTY7SL3a1imvmycGYHUSDavxHQ1cE99zw91W1WEm8mlanQGsAz2DKB-zqiHL5Tjp2nMVTMoVbrIwHWZBS6PbZg7nQuiaGKfirlc1Yo3x0AtdMJ8tEdMUMZaUEANHQlivwI4O4AS_syYpsVRLRwYdU7OAbcwCRmuHWxss5eYHy4FjuSzyNn7Zf7wmKyzZ1GJfagJhieOsUeNJwcY6U6QD4VQ0_v0iqhdRPYMaRdTIBIAXg1cmBLMYgRrlGbE6PEqIo1KU0JKORMvafBY1d9cT1nLsehpbo2ajTK1u9sYPb40SiznFKA_Lz3QdHY08acxImjoF4C2oCYLAFzE8_IKjET6HWimvkDIJf-TE0hvqNue6QT2URftP3ySgBqb9x0h_EOF_NQQdgp-CY-v4dcDYWXJCrMo2navJSOkVYhqQsQGV1uHLtJidiYAPDRJlolUiRSnYX1yFNsHd-BFqxd7mrr-z-ff71SlSxQ76As-jr2hVs8Bhd5MXk6hElGCnScwYscoQ0iNKQp5X5ElSnZzjIwfbpHREbEprYbEIHZvV9PPcI8sQOIB_A6VSKXKPEZaolQzXIRco_vJbbvvW9v7aA-_WbffWtf21O97vT2VcTFziojq2GLblCQAEvuc_i30Dvd0rM3d0QqsSE5KT5HSGE937eQkMCJDrXDVJLvBGajTBID51Lkxqyiw1DdkOqRdQBlRVVTrrfIQNpSYj4ImMjk3KZczXanXi9PKvl0vJHco2MWLqQ0SHYsjBlsKT47Gvs5QxWu0QBu4wyNJntVnM2W_P4fiW9VNgd9ylgPVQaHGZ2g1ZGW_giuK_aN54c8Xbk1ZTlpZkOR5nidUZXqdC5wNLElFwGlUIDhwqxaIW5nzWbJvOK8mEYILWFrKx0LUqWT5CNpkNuFVTRD_PlwaGlDTTwR0yIV4fw8xnz_d2Xje3NrwfloCl_sbuB1iaP4iEiTnIwdiG_quI1J70bPSKpOjbZI3hfWEMkkCsN-Dfpz7pWPrv_gTn3dsr_vrLbm7XNMMAWYitCo2N-MupybjK2PSO3v-PU07NJOzjzIptF4bJ0JwKhtTU3l7XdeUgIn88SYM4wTXEXXzfLU6HS4S8uuB4T5CwIcohcw7kpCSZQ_pNVXAVow4SBqU4ug0VpXFCqJ2MEhMX-F26O2rdzZzVYtXqQOUgey7gw7CaPKTSXbOFJLM1y4H7HNREiGWSBl0DeCBzgp7MIbyoc_U01pkcKlFFl1PeMV551psMMUIUCoVeG4Vn9niP6QMrL39oqeRgEJgegQvTcKKrS0LWLsI983fIgXxnqgTdCyf-AQ&enc=deflate
+	⚠ 请注意，该图表不是 Apache ECharts 官方示例，而是由用户代码生成的。请注意鉴别其内容。
+-->
+<!DOCTYPE html>
+<html lang="en" style="height: 100%">
+<head>
+  <meta charset="utf-8">
+</head>
+<body style="height: 100%; margin: 0">
+  <div id="container" style="height: 100%"></div>
+
+  
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  
+  <!-- Uncomment this line if you want to dataTool extension
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/dataTool.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to use gl extension
+  <script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-gl/dist/echarts-gl.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to echarts-stat extension
+  <script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-stat/dist/ecStat.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to echarts-graph-modularity extension
+  <script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-graph-modularity/dist/echarts-graph-modularity.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to use map
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@4.9.0/map/js/world.js"></script>
+  -->
+  <!-- Uncomment these two lines if you want to use bmap extension
+  <script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=YOUR_API_KEY"></script>
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/bmap.min.js"></script>
+  -->
+
+  <script type="text/javascript">
+    var dom = document.getElementById('container');
+    var myChart = echarts.init(dom, null, {
+      renderer: 'canvas',
+      useDirtyRect: false
+    });
+    var app = {};
+    
+    var option;
+
+    // 原始数据整理
+const rawData = [
+    { name: 'AI技术应用', value: 2863 },
+    { name: '职业前景', value: 1018 },
+    { name: '行业影响', value: 470 },
+    { name: '态度/情绪', value: 376 }
+];
+
+// 指定的四种颜色
+const colors = ['#768CCE', '#C3D6F2', '#D1EAF5', '#E1F7E7'];
+
+// 将数据与颜色绑定
+const data = rawData.map((item, index) => {
+    return {
+        name: item.name,
+        value: item.value,
+        itemStyle: {
+            color: colors[index] || colors[colors.length - 1]
+        }
+    };
+});
+
+// 绘制立体柱状图的自定义函数 (保持不变)
+const renderItem = (params, api) => {
+    const location = api.coord([api.value(0), api.value(1)]); 
+    const yValue = api.value(1);
+    const start = api.coord([api.value(0), 0]); 
+    
+    const width = 50; 
+    const depth = 15; 
+    
+    const x = location[0] - width / 2;
+    const y = location[1];
+    const height = start[1] - y; 
+    
+    const style = api.style();
+    const mainColor = style.fill;
+
+    const sideColor = echarts.color.lift(mainColor, -0.1); 
+    const topColor = echarts.color.lift(mainColor, 0.1);   
+
+    // 1. 正面
+    const frontPath = {
+        type: 'rect',
+        shape: { x: x, y: y, width: width, height: height },
+        style: { fill: mainColor }
+    };
+
+    // 2. 侧面
+    const sidePath = {
+        type: 'polygon',
+        shape: {
+            points: [
+                [x + width, y],
+                [x + width + depth, y - depth],
+                [x + width + depth, y + height - depth],
+                [x + width, y + height]
+            ]
+        },
+        style: { fill: sideColor }
+    };
+
+    // 3. 顶面
+    const topPath = {
+        type: 'polygon',
+        shape: {
+            points: [
+                [x, y],
+                [x + width, y],
+                [x + width + depth, y - depth],
+                [x + depth, y - depth]
+            ]
+        },
+        style: { fill: topColor }
+    };
+
+    return {
+        type: 'group',
+        children: [frontPath, sidePath, topPath]
+    };
+};
+
+// 定义通用字体设置：Times New Roman + 宋体
+const fontSetting = "'Times New Roman', 'SimSun', serif";
+
+option = {
+    backgroundColor: '#fff',
+    title: {
+        text: '特定主题提及频次',
+        left: 'center',
+        top: '2%',
+        textStyle: {
+            fontFamily: fontSetting, // 标题字体
+            fontSize: 18,
+            fontWeight: 'bold',
+            color: '#000'
+        }
+    },
+    tooltip: {
+        trigger: 'axis',
+        textStyle: { fontFamily: fontSetting }
+    },
+    grid: {
+        left: '3%',
+        right: '4%',
+        bottom: '3%',
+        containLabel: true
+    },
+    xAxis: {
+        type: 'category',
+        data: data.map(item => item.name),
+        axisLine: {
+            show: true,
+            symbol: ['none', 'arrow'],
+            lineStyle: { color: '#000', width: 2 }
+        },
+        axisTick: { show: false },
+        axisLabel: {
+            fontFamily: fontSetting, // 横轴中文标签字体
+            fontSize: 12,
+            color: '#000',
+            interval: 0
+        }
+    },
+    yAxis: {
+        type: 'value',
+        name: 'Count',
+        nameTextStyle: {
+            fontFamily: fontSetting, // 纵轴名称字体
+            padding: [0, 0, 0, 10],
+            fontSize: 12
+        },
+        axisLine: {
+            show: true,
+            symbol: ['none', 'arrow'],
+            lineStyle: { color: '#000', width: 2 }
+        },
+        splitLine: {
+            show: true,
+            lineStyle: { type: 'dashed', color: '#ccc' }
+        },
+        axisLabel: {
+            fontFamily: fontSetting, // 纵轴数值字体
+            color: '#000'
+        }
+    },
+    series: [
+        {
+            type: 'custom',
+            name: 'Theme Count',
+            renderItem: renderItem,
+            data: data,
+            z: 10
+        },
+        {
+            type: 'bar',
+            data: data,
+            barWidth: 50,
+            itemStyle: { color: 'transparent' },
+            label: {
+                show: true,
+                position: 'top',
+                fontFamily: fontSetting, // 柱状图顶部数值字体
+                color: '#666',
+                fontSize: 14,
+                fontWeight: 'bold',
+                offset: [7, -5]
+            },
+            tooltip: { show: false },
+            z: 20
+        }
+    ]
+};
+
+    if (option && typeof option === 'object') {
+      myChart.setOption(option);
+    }
+
+    window.addEventListener('resize', myChart.resize);
+  </script>
+</body>
+</html>

@@ -1,0 +1,205 @@
+<!--
+	此示例下载自 https://echarts.apache.org/examples/zh/editor.html?c=bar-simple&code=3VfdbhtFFL5H4h1GQmhvHLo_tvODuGjTlpuoFw2iF1Uv1vbaWbG7E63XSVxUKYUmVSkRKFUTKARKQJQKJUohoCQl6cPgv1zxCnxnd9Y767ixE-5QnPWcc2bOfHO-c86s-Wxgc4-9xz5-8w3GLlxgne2j9uF2c-mX5ovF5tZ64_ARGQJrIZgO6o41EU1krMy94Krp2k59gikf2K5VZdeseXadu6an0JQ7mXChHUiLyA2mT3LXtbyABb7llRifs3zMcy0lQwBaT_dbK9uttZ3W4x0MOjufth7vNg6WW0_vH29-1Vq7D1SRN8cqk7ciXFm-Em7XDyljRe5wHzPfUlU1nhedYNq-jYnaWEr52mOlZt2w7MoM7V_gTik8Mc4sHZxzJ7Bnk6P7dqViEQpzwa5KEcKRm98cNY4eHi-tIPL__PWk8Wqj9fnd5he_N_Y-6zxb_XvxbnPv587RfuuHZYzb3z9vHm5iCQJC6x2rgih29ymZgTnBbioF27HpH0FVfKtUsgMazenWAn3fnrFnasqtOGYcOHVVSABK5-rK3LcRYQAHT4FdNJ04DgXulyx_sk9wI8sNuxTMILpCOWsChVeBIvZcMIsfVXxe80pdJ-Vy-TQmh6dHMKsLYoTNLnIPK32rGEgUVHw7CaDIKuPt2J-Ih6LluqoCDwLupmbBcWDa3pRZsJwJsF2zEv8LF0F5kgn1WSBTimZgVbhfjx14pktqOpSsmuKYiBKFCTQnABA006-_b4K5sulULWGgAgrrBnmEGpqc_rCxt9V-cq-1_ufx-m77k_1UlsQBU3RVN0ZUfUQfo-yIJGPE0BIpO2KA3ljKpWz5yNbjbTQ1ZywljcveNFW2aVo_b5qezMmOqJgjScA9nkgSbkgCt-wNWgk_JIFfSBJuSBJuSAJ32puMH5LALyQJdy6FG5KIt-wNWgk_JCnukCTckCTckATuHm8SfkhS3HMp3JAk3JBC3JGvuE1Q45qyPbkeqzN8Psr2bvFV6y46IrUgj3vU0xXT9_k8mg0lZ9TbOoe77YNX7e2t5k-76XVR2d5Ei2BaLt4YRYlte3vB6_o6Y_Oi8byTi3VhY07aQHiSqFLP2Fp8HqBuJ1hWuJY6fr1flc-ZTi1Vz9Bdq7kFXHm8zMRFWE3dfGH5tl-8bH73MLr8EK3mlyvtZzv_Nxqqs44dDD7KgF0tlf5Erv53qk_wWrVwAYJY0S27XgSbyUUbGwT1BDtRIui44DsPfqPG_Pzr9sEmxrHRDiw3PmFysKt6PpfNK4DRLWo5FHF8je5ZE9YVvG6YXsUh4tO26yKBtTFwS-8ei6uNvQd4zeiXAN2bOn2x4FYhlDXXY-J-PXGjMBamjpZh2SyNxjJsFOMMM8IP9HiSIf7oGZaHkgQMSYI18aYZOVjG8U9zNRJ0kvJwqdMi0sBBmLHYLG-E--ORhaTFjm6lk6OXy_hFaWgmj1_eA5mDmbw0mc9nickzE1m0_WJII3H17TJe_c5HlHEaUcN8NBXhBS8Itqwe4Ecbp4cGlrRx8EXfKhLByNGIEmFIZqIX1-Er7I-l443VgbxczF9RL185Fy9SgVHEt36Mqujc_GRPLSQq1p7AD_np5UfLUaVQJel5VAY0oDXFWHc8JDXRb4nhuWnv_tp5tDGQm_zl0eyl89VM-Hof8bK239wQPxfPykj31jrBiEEtpYcO6k-oDjyzyO-eOsF8BJwCH5qkthaaoerLL_SGaJZYfoIP-sL4zrv_Ag&enc=deflate
+	⚠ 请注意，该图表不是 Apache ECharts 官方示例，而是由用户代码生成的。请注意鉴别其内容。
+-->
+<!DOCTYPE html>
+<html lang="en" style="height: 100%">
+<head>
+  <meta charset="utf-8">
+</head>
+<body style="height: 100%; margin: 0">
+  <div id="container" style="height: 100%"></div>
+
+  
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  
+  <!-- Uncomment this line if you want to dataTool extension
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/dataTool.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to use gl extension
+  <script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-gl/dist/echarts-gl.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to echarts-stat extension
+  <script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-stat/dist/ecStat.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to echarts-graph-modularity extension
+  <script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-graph-modularity/dist/echarts-graph-modularity.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to use map
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@4.9.0/map/js/world.js"></script>
+  -->
+  <!-- Uncomment these two lines if you want to use bmap extension
+  <script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=YOUR_API_KEY"></script>
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/bmap.min.js"></script>
+  -->
+
+  <script type="text/javascript">
+    var dom = document.getElementById('container');
+    var myChart = echarts.init(dom, null, {
+      renderer: 'canvas',
+      useDirtyRect: false
+    });
+    var app = {};
+    
+    var option;
+
+    option = {
+  // 设置全局字体
+  textStyle: {
+    fontFamily: 'Times New Roman'
+  },
+  title: {
+    text: 'Comment trend over time', // 根据新数据调整了标题文字
+    left: 'center',
+    textStyle: {
+      color: '#000',
+      fontSize: 18,
+      fontFamily: 'Times New Roman',
+      fontWeight: 'bold'
+    }
+  },
+  tooltip: {
+    trigger: 'axis'
+  },
+  // 图例配置：保持右上角、带边框、矩形图标
+  legend: {
+    data: ['bilibili', 'reddit', 'v2ex', 'zhihu'],
+    top: 20,
+    right: 20,
+    orient: 'vertical',
+    borderColor: '#000',
+    borderWidth: 1,
+    padding: 10,
+    backgroundColor: '#fff',
+    textStyle: {
+      fontFamily: 'Times New Roman',
+      fontSize: 12
+    },
+    icon: 'rect'
+  },
+  grid: {
+    left: '3%',
+    right: '15%',
+    bottom: '3%',
+    containLabel: true
+  },
+  xAxis: {
+    type: 'category',
+    name: 'Time',
+    nameLocation: 'end',
+    boundaryGap: false,
+    // 数据：新CSV中的时间点
+    data: [
+      '2023-02-28', '2023-03-31', '2023-04-30', '2023-05-31', '2023-06-30', 
+      '2023-07-31', '2023-08-31', '2023-09-30', '2023-10-31', '2023-11-30', 
+      '2023-12-31', '2024-01-31', '2024-02-29', '2024-03-31', '2024-04-30', 
+      '2024-05-31', '2024-06-30', '2024-07-31', '2024-08-31', '2024-09-30', 
+      '2024-10-31', '2024-11-30', '2024-12-31', '2025-01-31', '2025-02-28', 
+      '2025-03-31', '2025-04-30', '2025-05-31', '2025-06-30', '2025-07-31', 
+      '2025-08-31', '2025-09-30', '2025-10-31', '2025-11-30', '2025-12-31'
+    ],
+    axisLine: {
+      show: true,
+      symbol: ['none', 'arrow'], // 保持轴线箭头
+      symbolSize: [10, 15],
+      lineStyle: {
+        color: '#000',
+        width: 1.5
+      }
+    },
+    axisLabel: {
+      fontFamily: 'Times New Roman',
+      rotate: 45
+    }
+  },
+  yAxis: {
+    type: 'value',
+    name: 'Number of Comments', // 根据数据类型调整轴名称
+    axisLine: {
+      show: true,
+      symbol: ['none', 'arrow'], // 保持轴线箭头
+      symbolSize: [10, 15],
+      lineStyle: {
+        color: '#000',
+        width: 1.5
+      }
+    },
+    splitLine: {
+      show: true,
+      lineStyle: {
+        color: '#e0e0e0'
+      }
+    },
+    axisLabel: {
+      fontFamily: 'Times New Roman'
+    }
+  },
+  series: [
+    {
+      name: 'bilibili',
+      type: 'line',
+      // 配色：橙红色
+      itemStyle: { color: '#F26546' }, 
+      lineStyle: { width: 3 },
+      symbol: 'triangle', 
+      symbolRotate: 180, // 倒三角
+      symbolSize: 10,
+      // 数据：CSV column 2
+      data: [
+        0, 151, 440, 18, 7, 4, 3, 3, 1, 3, 0, 1, 1, 1, 2, 6, 31, 12, 2, 60, 
+        135, 19, 11, 215, 129, 164, 21, 15, 16, 10, 18, 630, 150, 48, 1
+      ]
+    },
+    {
+      name: 'reddit',
+      type: 'line',
+      // 配色：黄橙色
+      itemStyle: { color: '#FBC664' },
+      lineStyle: { width: 3 },
+      symbol: 'circle', // 圆形
+      symbolSize: 10,
+      // 数据：CSV column 3
+      data: [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 106, 2, 1, 0, 0, 0, 0, 
+        0, 0, 0, 0, 0, 0, 0, 190, 114, 199, 4, 107, 354, 13, 1
+      ]
+    },
+    {
+      name: 'v2ex',
+      type: 'line',
+      // 配色：浅青色
+      itemStyle: { color: '#A6E0DE' },
+      lineStyle: { width: 3 },
+      symbol: 'triangle', // 正三角形
+      symbolSize: 10,
+      // 数据：CSV column 4
+      data: [
+        0, 180, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+        0, 0, 155, 119, 268, 0, 6, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      name: 'zhihu',
+      type: 'line',
+      // 配色：紫蓝色
+      itemStyle: { color: '#6D74B4' },
+      lineStyle: { width: 3 },
+      symbol: 'rect', // 方块
+      symbolSize: 10,
+      // 数据：CSV column 5
+      data: [
+        38, 11, 0, 0, 0, 0, 35, 2, 5, 47, 2, 1, 0, 0, 0, 8, 9, 5, 1, 2, 
+        1, 0, 2, 0, 1, 0, 0, 0, 0, 0, 2, 33, 1, 39, 0
+      ]
+    }
+  ]
+};
+
+    if (option && typeof option === 'object') {
+      myChart.setOption(option);
+    }
+
+    window.addEventListener('resize', myChart.resize);
+  </script>
+</body>
+</html>
